@@ -1,13 +1,30 @@
 {
     "skill": {
-        "css": {
-            "description": "",
-            "resources": [],
-            "parents": [],
+        "Git": {
+            "description": "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.Visit the following resources to learn more:",
+            "resources": [
+                {
+                    "name": "Git & GitHub Crash Course For Beginners",
+                    "link": "https://www.youtube.com/watch?v=SWYqp7iY_Tc"
+                },
+                {
+                    "name": "Learn Git with Tutorials, News and Tips - Atlassian",
+                    "link": "https://www.atlassian.com/git"
+                },
+                {
+                    "name": "Git Cheat Sheet",
+                    "link": "https://cs.fyi/guide/git-cheatsheet"
+                },
+                {
+                    "name": "Tutorial: Git for Absolutely Everyone",
+                    "link": "https://thenewstack.io/tutorial-git-for-absolutely-everyone/"
+                }
+            ],
+            "parents": ["Version-Control-Systems"],
             "children": [],
             "questions": [
                 {
-                    "id": "1",
+                    "id": "835e6c4c-c44c-4a35-88c5-2e5b145d5c3b",
                     "question": "What is Git?",
                     "description": "Provide a brief definition of Git.",
                     "hint": "Think about version control systems.",
@@ -27,7 +44,7 @@
                     ]
                 },
                 {
-                    "id": "2",
+                    "id": "33eaf42a-19f2-4bb2-b8ef-9d4d1d22b9aa",
                     "question": "What is the purpose of Git?",
                     "description": "Explain why Git is commonly used in software development.",
                     "hint": "Consider collaboration and version tracking.",
@@ -47,7 +64,7 @@
                     ]
                 },
                 {
-                    "id": "3",
+                    "id": "d3b41f9f-97a0-44a2-b0ac-67ef981982c2",
                     "question": "What is a repository in Git?",
                     "description": "Define the concept of a Git repository.",
                     "hint": "Think about where Git stores versioned files.",
@@ -67,7 +84,7 @@
                     ]
                 },
                 {
-                    "id": "4",
+                    "id": "8b0b9c44-baab-4eae-af49-8e64f7f48b2b",
                     "question": "What is a commit in Git?",
                     "description": "Explain the concept of a Git commit.",
                     "hint": "Consider saving changes and creating a snapshot.",
@@ -87,7 +104,7 @@
                     ]
                 },
                 {
-                    "id": "5",
+                    "id": "a9cf3f3a-5f47-4b2d-a3f1-9b4d28282d2d",
                     "question": "What command is used to initialize a new Git repository?",
                     "description": "Provide the command to start a new Git project.",
                     "hint": "Consider the initial step in creating a Git repository.",
@@ -107,7 +124,7 @@
                     ]
                 },
                 {
-                    "id": "6",
+                    "id": "9a876cd9-baf6-4f90-9e15-dbd62d3c77f0",
                     "question": "What is a branch in Git?",
                     "description": "Define the purpose of using branches in Git.",
                     "hint": "Consider parallel development and isolation of changes.",
@@ -127,7 +144,7 @@
                     ]
                 },
                 {
-                    "id": "7",
+                    "id": "3c0b76cd-154d-47ec-8ea4-1e0c95bf02c2",
                     "question": "What command is used to see the status of changes in a Git repository?",
                     "description": "Provide the command to check the status of files in a Git project.",
                     "hint": "Consider checking what has been modified.",
@@ -147,7 +164,7 @@
                     ]
                 },
                 {
-                    "id": "8",
+                    "id": "3d0bc864-0bf5-41b8-8bb3-62f5a73bcb5e",
                     "question": "What is the purpose of the .gitignore file?",
                     "description": "Explain why the .gitignore file is used in Git projects.",
                     "hint": "Consider ignoring files and directories in version control.",
@@ -167,7 +184,7 @@
                     ]
                 },
                 {
-                    "id": "9",
+                    "id": "98f1a7a0-e2e8-4cc0-a4d2-dc71d0e5e78d",
                     "question": "What command is used to stage changes in Git?",
                     "description": "Provide the command to prepare changes for a commit in Git.",
                     "hint": "Consider adding changes to the staging area.",
@@ -187,7 +204,7 @@
                     ]
                 },
                 {
-                    "id": "10",
+                    "id": "790e6e84-65ea-417c-9a1a-183a11b12b9f",
                     "question": "What is the purpose of the Git pull command?",
                     "description": "Explain the function of the `git pull` command in Git.",
                     "hint": "Consider fetching changes from a remote repository.",
@@ -207,7 +224,7 @@
                     ]
                 },
                 {
-                    "id": "11",
+                    "id": "f1a017d4-b3ae-45bf-9f2e-862a2b18f870",
                     "question": "What does the command 'git add .' do?",
                     "description": "Explain the purpose of 'git add .' in Git.",
                     "hint": "Consider adding all changes to the staging area.",
@@ -233,7 +250,7 @@
                     ]
                 },
                 {
-                    "id": "12",
+                    "id": "03d17a32-2b1c-48f7-a541-722a38e29e6e",
                     "question": "What is the purpose of 'git branch' command?",
                     "description": "Explain what 'git branch' is used for in Git.",
                     "hint": "Consider listing and creating branches.",
@@ -259,7 +276,7 @@
                     ]
                 },
                 {
-                    "id": "13",
+                    "id": "80c39d56-66f9-48f4-a5d6-60528cfc1c23",
                     "question": "What is a merge conflict in Git?",
                     "description": "Define what happens when a merge conflict occurs.",
                     "hint": "Consider conflicting changes in different branches.",
@@ -285,7 +302,7 @@
                     ]
                 },
                 {
-                    "id": "14",
+                    "id": "8c0de7e2-187c-4f44-9ba4-1782dcded2f4",
                     "question": "What does 'git log' display?",
                     "description": "Explain the output of the 'git log' command.",
                     "hint": "Consider viewing commit history.",
@@ -311,7 +328,7 @@
                     ]
                 },
                 {
-                    "id": "15",
+                    "id": "4a678c32-5f76-4f2e-8318-8b914d6d52da",
                     "question": "What is the purpose of the 'git push' command?",
                     "description": "Explain the function of the 'git push' command in Git.",
                     "hint": "Consider updating a remote repository.",
@@ -337,7 +354,7 @@
                     ]
                 },
                 {
-                    "id": "16",
+                    "id": "4d50dd80-1a98-4b65-8e38-d7293e2a7e8a",
                     "question": "What is the purpose of the 'git pull' command?",
                     "description": "Explain the function of the 'git pull' command in Git.",
                     "hint": "Consider fetching changes from a remote repository.",
@@ -363,7 +380,7 @@
                     ]
                 },
                 {
-                    "id": "17",
+                    "id": "22b465b0-68a5-4640-8e18-6f10ed47e5a3",
                     "question": "What is a Git remote?",
                     "description": "Define the concept of a Git remote.",
                     "hint": "Consider external repositories and collaboration.",
@@ -389,7 +406,7 @@
                     ]
                 },
                 {
-                    "id": "18",
+                    "id": "7e946546-8b5a-4d2e-a3d8-3cde6c7b1ac4",
                     "question": "What does the 'git clone' command do?",
                     "description": "Explain the purpose of the 'git clone' command in Git.",
                     "hint": "Consider creating a copy of a repository.",
@@ -415,7 +432,7 @@
                     ]
                 },
                 {
-                    "id": "19",
+                    "id": "f8b51ad9-4dbb-44ed-8f1d-b36f62eebe79",
                     "question": "What is the purpose of the 'git reset' command?",
                     "description": "Explain the function of the 'git reset' command in Git.",
                     "hint": "Consider undoing changes and resetting the staging area.",
@@ -441,7 +458,7 @@
                     ]
                 },
                 {
-                    "id": "20",
+                    "id": "a2e76c8e-e20d-4f48-8f64-08e8a0017c1b",
                     "question": "What is a Git tag?",
                     "description": "Define the concept of a Git tag.",
                     "hint": "Consider marking specific commits.",
@@ -467,7 +484,7 @@
                     ]
                 },
                 {
-                    "id": "21",
+                    "id": "11e777a7-98a3-43f1-8f12-56b6f41a77aa",
                     "question": "What is the difference between 'git merge' and 'git rebase'?",
                     "description": "Explain the distinctions between 'git merge' and 'git rebase' in Git.",
                     "hint": "Consider the commit history and branch integration.",
@@ -493,7 +510,7 @@
                     ]
                 },
                 {
-                    "id": "22",
+                    "id": "c3d3a927-4745-4e2d-874b-9c2e24d53b8a",
                     "question": "What is a detached HEAD in Git?",
                     "description": "Define the concept of a detached HEAD state.",
                     "hint": "Consider the HEAD pointer and commit references.",
@@ -519,7 +536,7 @@
                     ]
                 },
                 {
-                    "id": "23",
+                    "id": "bcb62d47-6451-4f94-a93e-9a6d041f65e9",
                     "question": "What is the purpose of 'git stash'?",
                     "description": "Explain the function of the 'git stash' command in Git.",
                     "hint": "Consider saving changes without committing them.",
@@ -545,7 +562,7 @@
                     ]
                 },
                 {
-                    "id": "24",
+                    "id": "20b9e6f7-27c9-45b0-9095-ea87a1d8c1d7",
                     "question": "What is the purpose of the 'git cherry-pick' command?",
                     "description": "Explain the function of the 'git cherry-pick' command in Git.",
                     "hint": "Consider applying specific commits to a branch.",
@@ -571,7 +588,7 @@
                     ]
                 },
                 {
-                    "id": "25",
+                    "id": "1204bf15-c40d-44a4-8f0a-b1562ce55896",
                     "question": "What is the purpose of the 'git fetch' command?",
                     "description": "Explain the function of the 'git fetch' command in Git.",
                     "hint": "Consider updating the remote repository without merging.",
@@ -597,7 +614,7 @@
                     ]
                 },
                 {
-                    "id": "26",
+                    "id": "95c2bcea-c36d-4c2b-8748-87531e064607",
                     "question": "What is the purpose of 'git submodule'?",
                     "description": "Explain the function of 'git submodule' in Git.",
                     "hint": "Consider managing external dependencies.",
@@ -623,7 +640,7 @@
                     ]
                 },
                 {
-                    "id": "27",
+                    "id": "5eb08863-1fb2-49bf-9b2d-bd542b31fcb7",
                     "question": "What is a Git hook?",
                     "description": "Define the concept of a Git hook.",
                     "hint": "Consider automation and customization of Git actions.",
@@ -649,7 +666,7 @@
                     ]
                 },
                 {
-                    "id": "28",
+                    "id": "2f743bfe-14f7-4395-8c09-9a04a6e0923b",
                     "question": "What is the purpose of the 'git log --graph' command?",
                     "description": "Explain the function of 'git log --graph' in Git.",
                     "hint": "Consider visualizing the commit history graph.",
@@ -675,7 +692,7 @@
                     ]
                 },
                 {
-                    "id": "29",
+                    "id": "90c6c23d-91d3-49b7-8f72-6e54ad2e9ee4",
                     "question": "What is the purpose of the 'git bisect' command?",
                     "description": "Explain the function of 'git bisect' in Git.",
                     "hint": "Consider binary searching for a specific commit.",
@@ -701,7 +718,7 @@
                     ]
                 },
                 {
-                    "id": "30",
+                    "id": "d890cfa5-62a8-4c46-89a9-9d1b867d593e",
                     "question": "What is the purpose of 'git blame'?",
                     "description": "Explain the function of 'git blame' in Git.",
                     "hint": "Consider tracking changes to specific lines of code.",
@@ -727,7 +744,7 @@
                     ]
                 },
                 {
-                    "id": "31",
+                    "id": "7f6dbca9-dc79-4d65-a579-159ff18d0ce6",
                     "question": "Explain the 'git rebase -i' command.",
                     "description": "Describe the purpose and usage of 'git rebase -i' in Git.",
                     "hint": "Consider interactive rebasing and commit manipulation.",
@@ -753,7 +770,7 @@
                     ]
                 },
                 {
-                    "id": "32",
+                    "id": "c0b8e5e8-e7ec-4685-8270-52cb7f7d1cf0",
                     "question": "What is the purpose of 'git reflog'?",
                     "description": "Explain the function of 'git reflog' in Git.",
                     "hint": "Consider recovering lost commits and branch references.",
@@ -779,7 +796,7 @@
                     ]
                 },
                 {
-                    "id": "33",
+                    "id": "a1870367-4f0f-4ea5-a6a3-0711f77ed7d8",
                     "question": "What is a Git rebase conflict?",
                     "description": "Define what happens when a conflict occurs during a Git rebase.",
                     "hint": "Consider conflicting changes in the commit history.",
@@ -805,7 +822,7 @@
                     ]
                 },
                 {
-                    "id": "34",
+                    "id": "6a092ed1-0f95-43e7-aaee-79cc04a92c6e",
                     "question": "Explain the purpose of 'git rebase --onto'.",
                     "description": "Describe the function of 'git rebase --onto' in Git.",
                     "hint": "Consider rebasing a specific range of commits onto a new base.",
@@ -831,7 +848,7 @@
                     ]
                 },
                 {
-                    "id": "35",
+                    "id": "9d53c41c-098f-4e32-b37e-bd1bf2d9bce6",
                     "question": "What is 'git squash'?",
                     "description": "Explain the concept of 'git squash' and how it differs from regular commits.",
                     "hint": "Consider combining multiple commits into a single commit.",
@@ -857,7 +874,7 @@
                     ]
                 },
                 {
-                    "id": "36",
+                    "id": "36a92471-0715-4b5d-9b6c-ea1ff71e8de1",
                     "question": "What is 'git rebase --preserve-merges'?",
                     "description": "Describe the purpose of 'git rebase --preserve-merges' in Git.",
                     "hint": "Consider preserving merge commits during rebase.",
@@ -883,7 +900,7 @@
                     ]
                 },
                 {
-                    "id": "37",
+                    "id": "648f34e4-088a-4fc7-b354-0f0570504e54",
                     "question": "Explain the purpose of 'git worktree'.",
                     "description": "Describe the functionality provided by 'git worktree' in Git.",
                     "hint": "Consider multiple working trees for a single repository.",
@@ -909,7 +926,7 @@
                     ]
                 },
                 {
-                    "id": "38",
+                    "id": "61d9f6b5-b917-41fe-ba08-82226cf83202",
                     "question": "What is 'git rebase -x'?",
                     "description": "Explain the functionality of 'git rebase -x' in Git.",
                     "hint": "Consider executing a custom command for each commit during rebase.",
@@ -935,7 +952,7 @@
                     ]
                 },
                 {
-                    "id": "39",
+                    "id": "5ed5d3b8-3b2d-417f-a051-54e1b81f8da4",
                     "question": "What is 'git bisect' used for?",
                     "description": "Explain the purpose of 'git bisect' in Git.",
                     "hint": "Consider binary searching for a specific commit.",
@@ -961,7 +978,7 @@
                     ]
                 },
                 {
-                    "id": "40",
+                    "id": "64db71df-90a8-46fc-92cf-96b4ff0e71b9",
                     "question": "What is 'git cherry-pick' used for?",
                     "description": "Explain the purpose of 'git cherry-pick' in Git.",
                     "hint": "Consider applying specific commits to a branch.",
@@ -987,7 +1004,7 @@
                     ]
                 },
                 {
-                    "id": "41",
+                    "id": "79094ef9-8e04-4a32-8d84-e9d2e429a414",
                     "question": "Explain the concept of 'git rebase --onto'.",
                     "description": "Provide a detailed explanation of how 'git rebase --onto' works in Git.",
                     "hint": "Consider rebasing a specific range of commits onto a new base.",
@@ -1013,7 +1030,7 @@
                     ]
                 },
                 {
-                    "id": "42",
+                    "id": "51d29b05-527b-4606-bad8-bf8f727ca74a",
                     "question": "What is 'git filter-branch' used for?",
                     "description": "Explain the purpose and risks associated with 'git filter-branch' in Git.",
                     "hint": "Consider rewriting commit history and its potential impact.",
@@ -1039,7 +1056,7 @@
                     ]
                 },
                 {
-                    "id": "43",
+                    "id": "a5e05c4a-b8a1-4685-8d85-95631e02f1b2",
                     "question": "Explain the purpose of 'git reflog' and its role in recovering lost commits.",
                     "description": "Provide a detailed explanation of how 'git reflog' works and its significance in recovering lost commits.",
                     "hint": "Consider the history of branch references and commit recovery.",
@@ -1065,7 +1082,7 @@
                     ]
                 },
                 {
-                    "id": "44",
+                    "id": "2991e05d-666c-4ac7-9ad5-7000f60fc893",
                     "question": "What is 'git rerere' and how does it help in resolving conflicts?",
                     "description": "Provide a detailed explanation of 'git rerere' and its role in conflict resolution.",
                     "hint": "Consider reusing recorded resolution of conflicted merges.",
@@ -1091,7 +1108,7 @@
                     ]
                 },
                 {
-                    "id": "45",
+                    "id": "a7c93629-1ba6-4c8d-8b8e-2f97f930c1aa",
                     "question": "What is 'git bisect' used for?",
                     "description": "Explain the purpose of 'git bisect' in Git.",
                     "hint": "Consider binary searching for a specific commit.",
@@ -1117,7 +1134,7 @@
                     ]
                 },
                 {
-                    "id": "46",
+                    "id": "c936db23-d163-403b-9a29-49e1cf4531a9",
                     "question": "Explain the purpose of 'git worktree' and how it facilitates multiple working trees.",
                     "description": "Provide a detailed explanation of 'git worktree' and its role in managing multiple working trees for a single repository.",
                     "hint": "Consider the advantages of having separate working trees.",
@@ -1143,7 +1160,7 @@
                     ]
                 },
                 {
-                    "id": "47",
+                    "id": "5a2be40c-e0e1-40fe-a20b-15e907678205",
                     "question": "What is 'git reflog' and how does it aid in repository maintenance?",
                     "description": "Provide a comprehensive explanation of 'git reflog' and its role in maintaining a Git repository.",
                     "hint": "Consider the history of branch references and its usefulness in undoing actions.",
@@ -1169,7 +1186,7 @@
                     ]
                 },
                 {
-                    "id": "48",
+                    "id": "dde5e3cb-09e3-4cd8-9637-30522ea34938",
                     "question": "Explain the purpose of 'git stash' and how it facilitates temporary changes.",
                     "description": "Provide a detailed explanation of 'git stash' and its role in managing temporary changes in a Git repository.",
                     "hint": "Consider scenarios where you want to save changes without committing.",
@@ -1195,7 +1212,7 @@
                     ]
                 },
                 {
-                    "id": "49",
+                    "id": "0b7910ac-8230-41a9-8c08-c5abf62b8c8f",
                     "question": "Explain the purpose of 'git cherry-pick' and potential considerations when using it.",
                     "description": "Provide a comprehensive explanation of 'git cherry-pick' and considerations for its usage in Git.",
                     "hint": "Consider scenarios where you want to apply specific commits from one branch to another.",
@@ -1221,7 +1238,7 @@
                     ]
                 },
                 {
-                    "id": "50",
+                    "id": "d2c76969-3f23-4d24-918c-7000e7033ea6",
                     "question": "Explain the purpose of 'git rebase -i' and its role in interactive history rewriting.",
                     "description": "Provide a detailed explanation of 'git rebase -i' and how it facilitates interactive history rewriting in Git.",
                     "hint": "Consider scenarios where you want to reword, edit, or squash commits interactively.",
