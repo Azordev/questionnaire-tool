@@ -1,13 +1,58 @@
 {
     "skill": {
         "JavaScript": {
-            "description": "",
-            "resources": [],
+            "description": "JavaScript allows you to add interactivity to your pages. Common examples that you may have seen on the websites are sliders, click interactions, popups and so on.Visit the following resources to learn more: ",
+            "resources": [
+                {
+                    "name": "Visit Dedicated JavaScript Roadmap",
+                    "link": "https://roadmap.sh/javascript"
+                },
+                {
+                    "name": "W3Schools - JavaScript Tutorial",
+                    "link": "https://www.w3schools.com/js/"
+                },
+                {
+                    "name": "The Modern JavaScript Tutorial",
+                    "link": "https://javascript.info/"
+                },
+                {
+                    "name": "Learn JavaScript: Covered many topics",
+                    "link": "https://www.javascripttutorial.net/"
+                },
+                {
+                    "name": "Eloquent JavaScript textbook",
+                    "link": "https://eloquentjavascript.net/"
+                },
+                {
+                    "name": "You Dont Know JS Yet (book series)",
+                    "link": "https://github.com/getify/You-Dont-Know-JS"
+                },
+                {
+                    "name": "JavaScript Crash Course for Beginners",
+                    "link": "https://youtu.be/hdI2bqOjy3c?t=2"
+                },
+                {
+                    "name": "Build a Netflix Landing Page Clone with HTML, CSS & JS",
+                    "link": "https://youtu.be/P7t13SGytRk?t=22"
+                },
+                {
+                    "name": "Build 30 Javascript projects in 30 days",
+                    "link": "https://javascript30.com/"
+                },
+                {
+                    "name": "Learn the basics of JavaScript",
+                    "link": "https://github.com/workshopper/javascripting"
+                },
+                {
+                    "name": "JavaScript for Beginners",
+                    "link": "https://www.scaler.com/topics/course/javascript-beginners"
+                }
+            ],
             "parents": [],
             "children": [],
             "questions": [
                 {
-                    "id": "1",
+                    "id": "2e5d4f84-2c7b-4a85-9315-94db9a9d7c22",
                     "question": "What is the main programming language for building dynamic content on web pages?",
                     "description": "Question about the main language in web development.",
                     "hint": "Think about the technology used to build dynamic content on web pages.",
@@ -40,7 +85,7 @@
                     ]
                 },
                 {
-                    "id": "2",
+                    "id": "8cf7a2b2-61eb-4ef5-8c2c-8cf7f2bb63a8",
                     "question": "How do you declare a variable in JavaScript?",
                     "description": "Question about variable declaration in JavaScript.",
                     "hint": "Think about the keyword used to declare variables in JavaScript.",
@@ -73,7 +118,7 @@
                     ]
                 },
                 {
-                    "id": "3",
+                    "id": "d3bd4cd9-1e0e-432a-b46d-3c9e50dbd013",
                     "question": "Which of the following is not a control flow structure in JavaScript?",
                     "description": "Question about control flow structures in JavaScript.",
                     "hint": "Think about structures used to control the flow of a program in JavaScript.",
@@ -106,7 +151,7 @@
                     ]
                 },
                 {
-                    "id": "4",
+                    "id": "7aef1935-2b88-4c46-a3c2-1373e9a70c18",
                     "question": "How do you print a message to the console in JavaScript?",
                     "description": "Question about printing messages to the console in JavaScript.",
                     "hint": "Think about the method used to log messages to the console in JavaScript.",
@@ -139,7 +184,7 @@
                     ]
                 },
                 {
-                    "id": "5",
+                    "id": "f6828ba7-6ecb-40a3-9fc3-9c7b9cf89d7e",
                     "question": "What is the strict equality operator in JavaScript?",
                     "description": "Question about the strict equality operator in JavaScript.",
                     "hint": "Think about the operator used for strict equality checking in JavaScript.",
@@ -172,7 +217,7 @@
                     ]
                 },
                 {
-                    "id": "6",
+                    "id": "70392f42-985b-4c69-a3d6-dbc1c1db8875",
                     "question": "What is the purpose of NaN in JavaScript?",
                     "description": "Question about the purpose of NaN in JavaScript.",
                     "hint": "Think about the special value used to represent a non-numeric result.",
@@ -205,7 +250,7 @@
                     ]
                 },
                 {
-                    "id": "7",
+                    "id": "b6c0bf4d-430e-456c-9bbd-48d3a85c0367",
                     "question": "What is the purpose of the typeof operator in JavaScript?",
                     "description": "Question about the typeof operator in JavaScript.",
                     "hint": "Think about the operator used to determine the type of a variable.",
@@ -238,7 +283,7 @@
                     ]
                 },
                 {
-                    "id": "8",
+                    "id": "746e5c21-5fe4-4a82-bd89-0b4247d954d8",
                     "question": "How do you add a single-line comment in JavaScript?",
                     "description": "Question about adding comments in JavaScript.",
                     "hint": "Think about the syntax used for single-line comments in JavaScript.",
@@ -271,7 +316,7 @@
                     ]
                 },
                 {
-                    "id": "9",
+                    "id": "a618d9c9-9bf4-4e1b-9dd6-0c04e2a8ce11",
                     "question": "What is the result of the expression `5 + '5'` in JavaScript?",
                     "description": "Question about the result of a JavaScript expression.",
                     "hint": "Think about how JavaScript handles the addition of a number and a string.",
@@ -304,7 +349,7 @@
                     ]
                 },
                 {
-                    "id": "10",
+                    "id": "7917a6b1-8f05-4d37-8d52-d66fb9f2ab89",
                     "question": "What is the purpose of the parseInt() function in JavaScript?",
                     "description": "Question about the purpose of parseInt() in JavaScript.",
                     "hint": "Think about how parseInt() is used to convert values.",
@@ -337,7 +382,7 @@
                     ]
                 },
                 {
-                    "id": "11",
+                    "id": "0b001dfe-e0f3-4b85-9c09-7027603a622d",
                     "question": "What is the purpose of the 'const' keyword when declaring a variable in JavaScript?",
                     "description": "Question about the use of 'const' in variable declaration.",
                     "hint": "Think about the characteristic that 'const' imparts to a variable.",
@@ -370,7 +415,7 @@
                     ]
                 },
                 {
-                    "id": "12",
+                    "id": "8c9a4f29-4224-43da-91b8-c5e5d3b9c246",
                     "question": "Which of the following statements about arrow functions in JavaScript is correct?",
                     "description": "Question about the characteristics of arrow functions in JavaScript.",
                     "hint": "Consider the unique features of arrow functions.",
@@ -403,7 +448,7 @@
                     ]
                 },
                 {
-                    "id": "13",
+                    "id": "9c1f60e7-5a5c-489c-9b7d-3529a5e54641",
                     "question": "What is the difference between 'let' and 'const' when declaring variables in JavaScript?",
                     "description": "Question about the distinctions between 'let' and 'const' in variable declaration.",
                     "hint": "Consider the behavior of 'let' and 'const' regarding reassignment.",
@@ -436,7 +481,7 @@
                     ]
                 },
                 {
-                    "id": "14",
+                    "id": "e4a18768-507d-41ed-b34e-8a3f18e54888",
                     "question": "What does the 'map()' method do in a JavaScript array?",
                     "description": "Question about the purpose of the 'map()' method in JavaScript arrays.",
                     "hint": "Consider the transformational nature of the 'map()' method.",
@@ -469,7 +514,7 @@
                     ]
                 },
                 {
-                    "id": "15",
+                    "id": "a558a276-9f53-4d1b-8e0b-e9ee369a971d",
                     "question": "What is the concept of 'hoisting' in JavaScript?",
                     "description": "Question about the concept of 'hoisting' in JavaScript.",
                     "hint": "Consider how declarations are processed before code execution.",
@@ -502,7 +547,7 @@
                     ]
                 },
                 {
-                    "id": "16",
+                    "id": "67a0a91c-6c33-4a9c-9e6a-8f43db76a118",
                     "question": "What does the 'indexOf()' method return if the element is not found in a JavaScript array?",
                     "description": "Question about the return value of 'indexOf()' when an element is not present in an array.",
                     "hint": "Consider the default return value when an element is not found.",
@@ -535,7 +580,7 @@
                     ]
                 },
                 {
-                    "id": "17",
+                    "id": "6ef9fe5a-cc68-4e08-aee6-2ab9c6f399ea",
                     "question": "What is the ternary operator in JavaScript?",
                     "description": "Question about the purpose of the ternary operator in JavaScript.",
                     "hint": "Consider the role of the ternary operator in conditional expressions.",
@@ -568,7 +613,7 @@
                     ]
                 },
                 {
-                    "id": "18",
+                    "id": "2b1c6ef6-cbf2-4873-8ff2-b2f59d13918f",
                     "question": "What does the expression 'NaN' mean in JavaScript?",
                     "description": "Question about the significance of 'NaN' in JavaScript.",
                     "hint": "Consider the context in which 'NaN' is used.",
@@ -601,7 +646,7 @@
                     ]
                 },
                 {
-                    "id": "19",
+                    "id": "982d9329-951d-40f7-91c1-d9c54a68b2d7",
                     "question": "What is the purpose of the 'return' keyword in a function in JavaScript?",
                     "description": "Question about the role of the 'return' keyword in JavaScript functions.",
                     "hint": "Consider what 'return' is used for in functions.",
@@ -634,7 +679,7 @@
                     ]
                 },
                 {
-                    "id": "20",
+                    "id": "7cfad308-5c7c-4ed2-a015-2b6c3e9f43d9",
                     "question": "What is the correct statement about the 'DOMContentLoaded' event?",
                     "description": "Question about the 'DOMContentLoaded' event in web development.",
                     "hint": "Consider the conditions under which the 'DOMContentLoaded' event is triggered.",
@@ -667,7 +712,7 @@
                     ]
                 },
                 {
-                    "id": "21",
+                    "id": "9ee36b46-06c5-4da7-8ba2-b02c6a547c07",
                     "question": "What is the main difference between 'undefined' and 'null' in JavaScript?",
                     "description": "Question about distinctions between 'undefined' and 'null' in JavaScript.",
                     "hint": "Consider the use and assignment of 'undefined' and 'null' in different scenarios.",
@@ -700,7 +745,7 @@
                     ]
                 },
                 {
-                    "id": "22",
+                    "id": "2f6a2f97-b6db-4485-95e1-57fe3ac939c6",
                     "question": "What does the 'reduce()' method do on a JavaScript array?",
                     "description": "Question about the purpose of the 'reduce()' method in JavaScript arrays.",
                     "hint": "Consider how 'reduce()' iteratively processes array elements.",
@@ -733,7 +778,7 @@
                     ]
                 },
                 {
-                    "id": "23",
+                    "id": "7e31e72f-81f4-41aa-8e8e-1878b9e67866",
                     "question": "What is the difference between '==' and '===' in JavaScript?",
                     "description": "Question about the distinctions between loose and strict equality operators in JavaScript.",
                     "hint": "Consider how '==' and '===' handle type coercion during comparisons.",
@@ -766,7 +811,7 @@
                     ]
                 },
                 {
-                    "id": "24",
+                    "id": "501a70e9-bc8c-41d3-8b7a-31e1f5e096d8",
                     "question": "What is the purpose of the 'Object.keys()' method in JavaScript?",
                     "description": "Question about the role of 'Object.keys()' in extracting keys from objects.",
                     "hint": "Consider how 'Object.keys()' is used to manipulate object properties.",
@@ -799,7 +844,7 @@
                     ]
                 },
                 {
-                    "id": "25",
+                    "id": "9e073df4-0782-4e62-b631-c4ef4376aeb4",
                     "question": "Which of the following statements about asynchronous functions in JavaScript is correct?",
                     "description": "Question about correct statements regarding asynchronous functions in JavaScript.",
                     "hint": "Consider the characteristics and behavior of asynchronous functions in JavaScript.",
@@ -832,7 +877,7 @@
                     ]
                 },
                 {
-                    "id": "26",
+                    "id": "46e1f5b1-9b96-464e-af1c-b48e78ed9f1c",
                     "question": "What is a 'closure' in JavaScript?",
                     "description": "Question about the concept of 'closure' in JavaScript.",
                     "hint": "Consider the definition and purpose of closures in JavaScript.",
@@ -865,7 +910,7 @@
                     ]
                 },
                 {
-                    "id": "27",
+                    "id": "2ef1449d-6e11-416f-b5e1-59ff01cb80cd",
                     "question": "What is the purpose of the ternary operator in JavaScript?",
                     "description": "Question about the role of the ternary operator in JavaScript.",
                     "hint": "Consider how the ternary operator is used for concise conditional expressions.",
@@ -898,7 +943,7 @@
                     ]
                 },
                 {
-                    "id": "28",
+                    "id": "a81c65d4-1f0a-4dfc-8b9d-12a7aee9917c",
                     "question": "What does the term 'hoisting' refer to in JavaScript?",
                     "description": "Question about the concept of 'hoisting' in JavaScript.",
                     "hint": "Consider how 'hoisting' affects variable and function declarations.",
@@ -931,7 +976,7 @@
                     ]
                 },
                 {
-                    "id": "29",
+                    "id": "579bd735-437a-4e61-9cb5-4330a6c9f883",
                     "question": "What does the 'mouseenter' event do in JavaScript?",
                     "description": "Question about the behavior of the 'mouseenter' event in JavaScript.",
                     "hint": "Consider when the 'mouseenter' event is triggered.",
@@ -964,7 +1009,7 @@
                     ]
                 },
                 {
-                    "id": "30",
+                    "id": "6727e78b-63c1-4d6b-ba1b-68a0db4fe731",
                     "question": "Which of the following statements about the concept of a 'callback' in JavaScript is correct?",
                     "description": "Question about correct statements regarding 'callbacks' in JavaScript.",
                     "hint": "Consider the role and usage of 'callbacks' in JavaScript.",
@@ -997,7 +1042,7 @@
                     ]
                 },
                 {
-                    "id": "31",
+                    "id": "65c0d6da-57d7-42e4-98a2-01f66f3b25a3",
                     "question": "What is reactive programming in JavaScript?",
                     "description": "Question about the concept of reactive programming.",
                     "hint": "Think about handling asynchronous data streams with observables.",
@@ -1030,7 +1075,7 @@
                     ]
                 },
                 {
-                    "id": "32",
+                    "id": "1b81c677-667e-45ed-9f61-2aa4cfed5379",
                     "question": "What is the purpose of the Promise.all function in JavaScript?",
                     "description": "Question about the Promise.all function.",
                     "hint": "Consider its role in handling multiple promises simultaneously.",
@@ -1063,7 +1108,7 @@
                     ]
                 },
                 {
-                    "id": "33",
+                    "id": "39cfd36e-6d3f-41a7-b672-b12267e8c2c7",
                     "question": "What is the difference between shallow copy and deep copy when working with objects in JavaScript?",
                     "description": "Question about the distinction between shallow and deep copies.",
                     "hint": "Consider how references to nested objects are handled.",
@@ -1096,7 +1141,7 @@
                     ]
                 },
                 {
-                    "id": "34",
+                    "id": "5f8d02fb-ec72-4f82-b647-64340c83cc72",
                     "question": "What is a closure in JavaScript?",
                     "description": "Question about the concept of closures.",
                     "hint": "Think about the relationship between functions and their outer scope.",
@@ -1129,7 +1174,7 @@
                     ]
                 },
                 {
-                    "id": "35",
+                    "id": "8dd541cc-6e98-4d0d-9ea5-4d5a011c3a1a",
                     "question": "What is hoisting in JavaScript?",
                     "description": "Question about the concept of hoisting.",
                     "hint": "Consider how functions and variables are processed during execution.",
@@ -1162,7 +1207,7 @@
                     ]
                 },
                 {
-                    "id": "36",
+                    "id": "f82295d2-1ef9-4e49-854d-739917531b8e",
                     "question": "What is event bubbling in JavaScript?",
                     "description": "Question about the concept of event bubbling.",
                     "hint": "Think about the propagation of events through the DOM.",
@@ -1195,7 +1240,7 @@
                     ]
                 },
                 {
-                    "id": "37",
+                    "id": "f100a906-d5f2-46ea-bdb4-1e62a9c0424e",
                     "question": "What is the purpose of the Object.freeze function in JavaScript?",
                     "description": "Question about the use of Object.freeze.",
                     "hint": "Consider how Object.freeze affects object properties.",
@@ -1228,7 +1273,7 @@
                     ]
                 },
                 {
-                    "id": "38",
+                    "id": "b5d765f3-2261-49ea-9fb0-4a616f763a25",
                     "question": "What is 'callback hell' in JavaScript?",
                     "description": "Question about the concept of 'callback hell.'",
                     "hint": "Consider the structure that leads to 'callback hell.'",
@@ -1261,7 +1306,7 @@
                     ]
                 },
                 {
-                    "id": "39",
+                    "id": "0044a17b-c1cb-4e88-964e-73c0e16771e4",
                     "question": "When is it appropriate to use the 'this' operator in a function in JavaScript?",
                     "description": "Question about the appropriate use of the 'this' operator.",
                     "hint": "Consider the scenarios where 'this' is commonly used.",
@@ -1294,7 +1339,7 @@
                     ]
                 },
                 {
-                    "id": "40",
+                    "id": "2b3667d4-6da8-4a16-9a86-50c48ef537c8",
                     "question": "What is 'hoisting' in JavaScript?",
                     "description": "Question about the concept of 'hoisting.'",
                     "hint": "Consider how functions and variables are processed during execution.",
@@ -1327,7 +1372,7 @@
                     ]
                 },
                 {
-                    "id": "41",
+                    "id": "14d85ee6-2c7d-4c78-8dd5-7cfb4c8f30bf",
                     "question": "Explain how the concept of 'lexical closure' works in JavaScript.",
                     "description": "Question about the concept of lexical closure.",
                     "hint": "Consider the relationship between functions and their lexical scope.",
@@ -1360,7 +1405,7 @@
                     ]
                 },
                 {
-                    "id": "42",
+                    "id": "a71e9464-6ef7-4e7f-88d8-5d69a48e6752",
                     "question": "What is the fundamental difference between 'debounce' and 'throttle' in the context of events in JavaScript?",
                     "description": "Question about the distinction between 'debounce' and 'throttle'.",
                     "hint": "Consider their roles in managing the frequency of function calls.",
@@ -1393,7 +1438,7 @@
                     ]
                 },
                 {
-                    "id": "43",
+                    "id": "64f0bebd-cb07-47d1-b5c5-4884b8f01c80",
                     "question": "What is 'prototype chaining' in JavaScript, and how does it impact inheritance in this language?",
                     "description": "Question about the concept of 'prototype chaining'.",
                     "hint": "Consider how objects inherit properties and methods from their prototypes.",
@@ -1426,7 +1471,7 @@
                     ]
                 },
                 {
-                    "id": "44",
+                    "id": "bbe713a5-6aeb-4b09-8ff1-c08bcba18e0e",
                     "question": "When is it appropriate to use the 'Observer' design pattern in JavaScript, and how does it function?",
                     "description": "Question about the use and function of the 'Observer' design pattern.",
                     "hint": "Consider scenarios where objects need to notify dependents about state changes.",
@@ -1459,7 +1504,7 @@
                     ]
                 },
                 {
-                    "id": "45",
+                    "id": "e6d4ea53-2a07-4b01-8a09-320a9c8354e5",
                     "question": "What is 'memoization' in JavaScript, and when is it beneficial to apply?",
                     "description": "Question about the concept of 'memoization' and its use cases.",
                     "hint": "Consider scenarios where the same input may produce the same result.",
@@ -1492,7 +1537,7 @@
                     ]
                 },
                 {
-                    "id": "46",
+                    "id": "cfc4e4e0-4a3e-4d3f-a43a-b7e4ef41c164",
                     "question": "What is 'async/await' in JavaScript, and how is it used to handle asynchronous operations?",
                     "description": "Question about the concept of 'async/await' and its role in handling asynchronous operations.",
                     "hint": "Consider how 'async' and 'await' simplify asynchronous code.",
@@ -1525,7 +1570,7 @@
                     ]
                 },
                 {
-                    "id": "47",
+                    "id": "93bb6374-7b35-4645-b8a8-40813c7c2ef7",
                     "question": "What is the primary purpose of 'Web Workers' in JavaScript, and in what scenario are they most beneficial?",
                     "description": "Question about the purpose and benefits of 'Web Workers' in JavaScript.",
                     "hint": "Consider scenarios where background script execution is advantageous.",
@@ -1558,7 +1603,7 @@
                     ]
                 },
                 {
-                    "id": "48",
+                    "id": "124ed1e9-4e16-42b7-a2a7-2d6f59b3ea7d",
                     "question": "How does the concept of 'currying' work in JavaScript, and what is its purpose?",
                     "description": "Question about the concept of 'currying' and its use in JavaScript.",
                     "hint": "Consider transforming functions that take multiple arguments into a sequence of functions taking one argument.",
@@ -1591,7 +1636,7 @@
                     ]
                 },
                 {
-                    "id": "49",
+                    "id": "9d1be68c-1fc7-4671-aa5b-864e2a0c3a49",
                     "question": "What is the 'Event Loop' in JavaScript, and how does it impact the execution of asynchronous code?",
                     "description": "Question about the concept of the 'Event Loop' and its role in asynchronous code execution.",
                     "hint": "Consider the mechanism that enables asynchronous event handling.",
@@ -1624,7 +1669,7 @@
                     ]
                 },
                 {
-                    "id": "50",
+                    "id": "76e4501f-6953-4829-8b57-195de4936d5d",
                     "question": "In what situations is it advisable to use 'Map' instead of 'Object' to structure data in JavaScript?",
                     "description": "Question about the scenarios where 'Map' is recommended over 'Object' for data structuring.",
                     "hint": "Consider the flexibility and features offered by 'Map' compared to 'Object'.",
