@@ -1,13 +1,28 @@
 {
     "skill": {
         "Gitlab": {
-            "description": "",
-            "resources": [],
-            "parents": [],
+            "description": "GitLab is a provider of internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.Visit the following resources to learn more:",
+            "resources": [
+                {
+                    "name": "GitLab Documentation",
+                    "link": "https://docs.gitlab.com/"
+                },
+                {
+                    "name": "GitLab Website",
+                    "link": "https://gitlab.com/"
+                },
+                {
+                    "name": "Development: Connect git to GitLab for Small Projects",
+                    "link": "https://thenewstack.io/development-connect-git-to-gitlab-for-small-projects/"
+                }
+            ],
+            "parents": [
+                "VCS-Hosting"
+            ],
             "children": [],
             "questions": [
                 {
-                    "id": "1",
+                    "id": "e0b3a62d-5a29-45b1-83a1-488dd26bb7a6",
                     "question": "What is GitLab?",
                     "description": "Provide a brief definition of GitLab.",
                     "options": [
@@ -32,7 +47,7 @@
                     ]
                 },
                 {
-                    "id": "2",
+                    "id": "c0d5d68b-0a2b-4ab3-8bb7-5f2e6c7a8e0f",
                     "question": "What does CI/CD stand for in the context of GitLab?",
                     "description": "Explain the meaning of CI/CD in GitLab.",
                     "options": [
@@ -57,7 +72,7 @@
                     ]
                 },
                 {
-                    "id": "3",
+                    "id": "26f2a488-8c0d-4e47-9f7e-86c6db1a5293",
                     "question": "Which of the following is a GitLab repository hosting service?",
                     "description": "Identify the correct GitLab hosting service.",
                     "options": [
@@ -82,7 +97,7 @@
                     ]
                 },
                 {
-                    "id": "4",
+                    "id": "dfe245b5-8e6b-4a41-b5f4-55ea12b4b874",
                     "question": "What is the purpose of the 'merge request' feature in GitLab?",
                     "description": "Explain the function of 'merge request' in GitLab.",
                     "options": [
@@ -107,7 +122,7 @@
                     ]
                 },
                 {
-                    "id": "5",
+                    "id": "b61aee0e-5345-4ac9-b09d-4a06e587d3cf",
                     "question": "Which programming language is primarily used for GitLab CI/CD pipelines?",
                     "description": "Identify the programming language used for GitLab CI/CD pipelines.",
                     "options": [
@@ -132,7 +147,7 @@
                     ]
                 },
                 {
-                    "id": "6",
+                    "id": "48af1307-d3a9-4a37-8b26-81056b0b9db4",
                     "question": "What is the purpose of the GitLab 'issue' tracker?",
                     "description": "Explain the role of the 'issue' tracker in GitLab.",
                     "options": [
@@ -157,7 +172,7 @@
                     ]
                 },
                 {
-                    "id": "7",
+                    "id": "1899b42d-757a-45f1-83b1-83eb8cb1700a",
                     "question": "What does GitLab CI/CD stand for?",
                     "description": "Provide the full expansion of CI/CD in GitLab.",
                     "options": [
@@ -182,7 +197,7 @@
                     ]
                 },
                 {
-                    "id": "8",
+                    "id": "6b8b188d-0b3f-49b0-8c89-9a9b0f44e7d5",
                     "question": "Which GitLab feature allows you to automate the testing and delivery of your code?",
                     "description": "Identify the GitLab feature associated with automating testing and delivery.",
                     "options": [
@@ -207,7 +222,7 @@
                     ]
                 },
                 {
-                    "id": "9",
+                    "id": "42b2435f-5054-4a4f-b13a-e20d2d18e4e3",
                     "question": "In GitLab, what is the purpose of a 'protected branch'?",
                     "description": "Explain the role of a 'protected branch' in GitLab.",
                     "options": [
@@ -232,7 +247,7 @@
                     ]
                 },
                 {
-                    "id": "10",
+                    "id": "019a3ce1-97d7-4598-b0b1-660e0ff369bb",
                     "question": "Which GitLab feature allows you to visualize the history of changes in a repository?",
                     "description": "Identify the GitLab feature associated with visualizing the history of changes.",
                     "options": [
@@ -257,7 +272,7 @@
                     ]
                 },
                 {
-                    "id": "11",
+                    "id": "e20e8c7a-6b0d-4a84-83b1-5180793ebfb4",
                     "question": "What is the purpose of a GitLab 'tag'?",
                     "description": "Explain the role of a 'tag' in GitLab.",
                     "options": [
@@ -282,7 +297,7 @@
                     ]
                 },
                 {
-                    "id": "12",
+                    "id": "d47e53a2-3529-4a08-9502-2b39a204d174",
                     "question": "In GitLab, what does the term 'fork' refer to?",
                     "description": "Define the concept of 'fork' in GitLab.",
                     "options": [
@@ -307,7 +322,7 @@
                     ]
                 },
                 {
-                    "id": "13",
+                    "id": "8ce63490-8e2c-421f-b7ad-7699932c61f2",
                     "question": "What does the GitLab 'Wiki' feature allow you to do?",
                     "description": "Describe the functionality of the 'Wiki' feature in GitLab.",
                     "options": [
@@ -332,7 +347,7 @@
                     ]
                 },
                 {
-                    "id": "14",
+                    "id": "13c14d4f-36b8-46b7-8361-23c9eb8a00e8",
                     "question": "What is the purpose of GitLab's 'Group' feature?",
                     "description": "Explain the role of the 'Group' feature in GitLab.",
                     "options": [
@@ -357,7 +372,7 @@
                     ]
                 },
                 {
-                    "id": "15",
+                    "id": "2c551460-3e0a-495d-b49e-c0f178d8b887",
                     "question": "What is the GitLab 'Snippets' feature used for?",
                     "description": "Describe the purpose of the 'Snippets' feature in GitLab.",
                     "options": [
@@ -382,7 +397,7 @@
                     ]
                 },
                 {
-                    "id": "16",
+                    "id": "b089f6b8-ae68-4563-9e8d-7dfdfcc24421",
                     "question": "What is the default branching strategy in GitLab called?",
                     "description": "Identify the default branching strategy in GitLab.",
                     "options": [
@@ -407,7 +422,7 @@
                     ]
                 },
                 {
-                    "id": "17",
+                    "id": "a9e4b4f8-2189-4a9f-89cd-d76b545c06b9",
                     "question": "What is the purpose of the GitLab 'Dashboard'?",
                     "description": "Explain the role of the 'Dashboard' in GitLab.",
                     "options": [
@@ -432,7 +447,7 @@
                     ]
                 },
                 {
-                    "id": "18",
+                    "id": "470fd8c4-8ed1-48d7-aa1a-d26ff4e55d65",
                     "question": "What is the purpose of the 'Contributors' graph in GitLab?",
                     "description": "Explain the role of the 'Contributors' graph.",
                     "options": [
@@ -457,7 +472,7 @@
                     ]
                 },
                 {
-                    "id": "19",
+                    "id": "c6a2625a-73b2-45bd-9ea7-dae0e5e0bc02",
                     "question": "What is the significance of the GitLab 'Forked From' information?",
                     "description": "Explain the significance of 'Forked From' in GitLab.",
                     "options": [
@@ -482,7 +497,7 @@
                     ]
                 },
                 {
-                    "id": "20",
+                    "id": "8bcb6d20-df50-42af-a03e-1b6e0d542856",
                     "question": "What is the GitLab 'Web IDE' used for?",
                     "description": "Describe the purpose of the 'Web IDE' in GitLab.",
                     "options": [
@@ -507,7 +522,7 @@
                     ]
                 },
                 {
-                    "id": "21",
+                    "id": "52b666fd-57aa-4c34-bdab-7f362e2c4b77",
                     "question": "What is the purpose of the 'GitLab Runner' in CI/CD?",
                     "description": "Explain the role of the 'GitLab Runner' in the CI/CD process.",
                     "options": [
@@ -532,7 +547,7 @@
                     ]
                 },
                 {
-                    "id": "22",
+                    "id": "a257d018-22bb-4b72-8048-778eeec3f6ea",
                     "question": "What is the purpose of the 'Pages' feature in GitLab?",
                     "description": "Describe the functionality of the 'Pages' feature.",
                     "options": [
@@ -557,7 +572,7 @@
                     ]
                 },
                 {
-                    "id": "23",
+                    "id": "42f09e2b-d9bf-4a38-9f4c-2953564db571",
                     "question": "What is the significance of the 'Changelog' in GitLab?",
                     "description": "Explain the role of the 'Changelog' in a GitLab project.",
                     "options": [
@@ -582,7 +597,7 @@
                     ]
                 },
                 {
-                    "id": "24",
+                    "id": "8d6c558d-010a-4f8a-8a1b-6e8c429a8b2b",
                     "question": "In GitLab CI/CD, what is the purpose of the 'script' keyword in a job definition?",
                     "description": "Explain the role of the 'script' keyword in a CI/CD job definition.",
                     "options": [
@@ -607,7 +622,7 @@
                     ]
                 },
                 {
-                    "id": "25",
+                    "id": "31b5f85c-6d3b-4a22-8e5d-1f64a0638ec9",
                     "question": "What is the GitLab 'Review Apps' feature used for?",
                     "description": "Describe the purpose of the 'Review Apps' feature in GitLab.",
                     "options": [
@@ -632,7 +647,7 @@
                     ]
                 },
                 {
-                    "id": "26",
+                    "id": "c7ac4611-1b02-4b6e-82db-3dfdf899a5c7",
                     "question": "What is the purpose of the 'Service Desk' in GitLab?",
                     "description": "Explain the role of the 'Service Desk' feature in GitLab.",
                     "options": [
@@ -657,7 +672,7 @@
                     ]
                 },
                 {
-                    "id": "27",
+                    "id": "53a89b5b-7477-41cf-a529-25d6f6f9d18c",
                     "question": "What is the purpose of the 'Burndown Charts' in GitLab?",
                     "description": "Explain the role of 'Burndown Charts' in GitLab.",
                     "options": [
@@ -682,7 +697,7 @@
                     ]
                 },
                 {
-                    "id": "28",
+                    "id": "6957b6bf-3ea7-4bd2-8c5f-6db8b0e2b6f3",
                     "question": "What is the significance of the 'Protected Environment' feature in GitLab?",
                     "description": "Explain the role of the 'Protected Environment' feature.",
                     "options": [
@@ -707,7 +722,7 @@
                     ]
                 },
                 {
-                    "id": "29",
+                    "id": "d0d46f98-11e4-490b-81c1-0bb90d0c6ed8",
                     "question": "What is the purpose of the 'Container Registry' in GitLab?",
                     "description": "Explain the role of the 'Container Registry' feature.",
                     "options": [
@@ -732,7 +747,7 @@
                     ]
                 },
                 {
-                    "id": "30",
+                    "id": "22bd2f6d-9d6b-4a94-b25e-e5758f165da3",
                     "question": "In GitLab CI/CD, what is the purpose of the 'only' and 'except' keywords in job definitions?",
                     "description": "Explain the role of the 'only' and 'except' keywords in CI/CD job definitions.",
                     "options": [
@@ -757,7 +772,7 @@
                     ]
                 },
                 {
-                    "id": "31",
+                    "id": "f05152e7-89a1-4e34-82f7-79d883a30fc5",
                     "question": "What is the purpose of the 'GitLab Geo' feature?",
                     "description": "Explain the role of the 'GitLab Geo' feature.",
                     "options": [
@@ -782,7 +797,7 @@
                     ]
                 },
                 {
-                    "id": "32",
+                    "id": "8b82e4b3-1b4a-4c88-9b4b-0f61a2a11627",
                     "question": "What is the 'GitLab Cluster' used for?",
                     "description": "Describe the purpose of the 'GitLab Cluster'.",
                     "options": [
@@ -807,7 +822,7 @@
                     ]
                 },
                 {
-                    "id": "33",
+                    "id": "d86b1517-2f37-4e45-8eb0-012c8b8679e8",
                     "question": "What is the purpose of the 'GitLab Service Templates' feature?",
                     "description": "Explain the role of 'GitLab Service Templates'.",
                     "options": [
@@ -832,7 +847,7 @@
                     ]
                 },
                 {
-                    "id": "34",
+                    "id": "31d3a7f2-13a8-4e18-a8f8-4c1a00f2fada",
                     "question": "What is the purpose of 'GitLab Package Registry'?",
                     "description": "Explain the role of 'GitLab Package Registry'.",
                     "options": [
@@ -857,7 +872,7 @@
                     ]
                 },
                 {
-                    "id": "35",
+                    "id": "069a1539-2c7b-4ae3-a139-7b7dd529cc80",
                     "question": "What is the purpose of 'GitLab Dependency Scanning'?",
                     "description": "Explain the role of 'GitLab Dependency Scanning'.",
                     "options": [
@@ -882,7 +897,7 @@
                     ]
                 },
                 {
-                    "id": "36",
+                    "id": "11ee460c-8a8e-4a38-b0a3-926c2057d523",
                     "question": "What is the purpose of 'GitLab Container Network Policies'?",
                     "description": "Explain the role of 'GitLab Container Network Policies'.",
                     "options": [
@@ -907,7 +922,7 @@
                     ]
                 },
                 {
-                    "id": "37",
+                    "id": "eabf7d10-4c15-43bf-9f69-aafe5f684d18",
                     "question": "What does 'GitLab Code Quality' analyze in a GitLab project?",
                     "description": "Describe what 'GitLab Code Quality' analyzes in a GitLab project.",
                     "options": [
@@ -932,7 +947,7 @@
                     ]
                 },
                 {
-                    "id": "38",
+                    "id": "3f78b5c5-dcc4-42cb-9c46-58782abf1373",
                     "question": "What is the purpose of 'GitLab Instance-Level Variables'?",
                     "description": "Explain the role of 'GitLab Instance-Level Variables'.",
                     "options": [
@@ -957,7 +972,7 @@
                     ]
                 },
                 {
-                    "id": "39",
+                    "id": "9892fc4d-83d4-4db5-98ec-2091b80b91d4",
                     "question": "What is the purpose of 'GitLab Compliance Dashboard'?",
                     "description": "Explain the role of 'GitLab Compliance Dashboard'.",
                     "options": [
@@ -982,7 +997,7 @@
                     ]
                 },
                 {
-                    "id": "40",
+                    "id": "a2a27a44-e9aa-41e9-868b-cdb881d0f631",
                     "question": "How does 'GitLab DORA Metrics' contribute to CI/CD improvement?",
                     "description": "Explain how 'GitLab DORA Metrics' contributes to CI/CD improvement.",
                     "options": [
@@ -1007,7 +1022,7 @@
                     ]
                 },
                 {
-                    "id": "41",
+                    "id": "726e12b2-702e-4e0e-9db6-7e08d3f64e5d",
                     "question": "Explain the role of 'GitLab Container Host Security' in a containerized environment.",
                     "description": "Provide insights into the purpose and function of 'GitLab Container Host Security' in a containerized environment.",
                     "options": [
@@ -1032,7 +1047,7 @@
                     ]
                 },
                 {
-                    "id": "42",
+                    "id": "d3a77bd0-1693-4323-b7c9-efacfd6344ad",
                     "question": "Describe the purpose of 'GitLab Multi-Project Pipeline Graphs' in a CI/CD environment.",
                     "description": "Explain how 'GitLab Multi-Project Pipeline Graphs' contributes to visualization and management in a CI/CD environment.",
                     "options": [
@@ -1057,7 +1072,7 @@
                     ]
                 },
                 {
-                    "id": "43",
+                    "id": "e8c22a6f-d9f4-4b15-bb6e-f68eb26ad098",
                     "question": "What is the significance of 'GitLab Project Templates'?",
                     "description": "Explain the purpose and use of 'GitLab Project Templates' in the context of GitLab projects.",
                     "options": [
@@ -1082,7 +1097,7 @@
                     ]
                 },
                 {
-                    "id": "44",
+                    "id": "408d6b0f-c8d4-4fe3-b71a-01a39d0e69b6",
                     "question": "In the context of GitLab CI/CD, what is the role of 'GitLab CI/CD Parent-Child Pipelines'?",
                     "description": "Explain how 'GitLab CI/CD Parent-Child Pipelines' facilitate CI/CD processes.",
                     "options": [
@@ -1107,7 +1122,7 @@
                     ]
                 },
                 {
-                    "id": "45",
+                    "id": "27b6a8db-87a1-4df4-baac-4dbd862e55a5",
                     "question": "Explain the purpose of 'GitLab Merge Request Approvals' in the context of code collaboration.",
                     "description": "Describe how 'GitLab Merge Request Approvals' contribute to the code review and collaboration process.",
                     "options": [
@@ -1132,7 +1147,7 @@
                     ]
                 },
                 {
-                    "id": "46",
+                    "id": "fad5ef16-29a8-40fe-8b33-fdf7f5482622",
                     "question": "What is the significance of 'GitLab CI/CD Resource Groups'?",
                     "description": "Explain the role of 'GitLab CI/CD Resource Groups' in optimizing CI/CD resource allocation.",
                     "options": [
@@ -1157,7 +1172,7 @@
                     ]
                 },
                 {
-                    "id": "47",
+                    "id": "d80b1b5f-322e-4b17-9bd8-6d7d5dd07ea7",
                     "question": "Explain the purpose of 'GitLab Code Insights' and how it enhances code quality.",
                     "description": "Describe the role of 'GitLab Code Insights' in providing insights into code quality and enhancing development processes.",
                     "options": [
@@ -1182,7 +1197,7 @@
                     ]
                 },
                 {
-                    "id": "48",
+                    "id": "893b1fcf-3e18-4072-b631-04d0a5cf7582",
                     "question": "What role does 'GitLab Auto DevOps' play in streamlining the CI/CD process?",
                     "description": "Explain how 'GitLab Auto DevOps' contributes to streamlining the CI/CD process.",
                     "options": [
@@ -1207,7 +1222,7 @@
                     ]
                 },
                 {
-                    "id": "49",
+                    "id": "1d3030e8-d764-4d26-8362-e87486e5c3f3",
                     "question": "Explain the role of 'GitLab CI/CD Triggers' in orchestrating CI/CD processes across repositories.",
                     "description": "Describe how 'GitLab CI/CD Triggers' facilitate coordination and execution of CI/CD processes across multiple repositories.",
                     "options": [
@@ -1232,7 +1247,7 @@
                     ]
                 },
                 {
-                    "id": "50",
+                    "id": "9fb22171-57fc-48c2-90a2-d7e917c8d2a2",
                     "question": "Describe the purpose of 'GitLab Compliance Management' and how it supports organizational compliance.",
                     "description": "Explain the role of 'GitLab Compliance Management' in addressing compliance requirements within an organization.",
                     "options": [
