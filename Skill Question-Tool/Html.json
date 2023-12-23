@@ -1,13 +1,50 @@
 {
     "skill": {
         "Html": {
-            "description": "",
-            "resources": [],
+            "description": "HTML stands for HyperText Markup Language. It is used on the frontend and gives the structure to the webpage which you can style using CSS and make interactive using JavaScript.Visit the following resources to learn more: ",
+            "resources": [
+                {
+                    "name": "W3Schools: Learn HTML",
+                    "link": "https://www.w3schools.com/html/html_intro.asp"
+                },
+                {
+                    "name": "htmlreference.io: All HTML elements at a glance",
+                    "link": "https://htmlreference.io/"
+                },
+                {
+                    "name": "HTML For Beginners The Easy Way",
+                    "link": "https://html.com/"
+                },
+                {
+                    "name": "Web Development Basics",
+                    "link": "https://internetingishard.netlify.app/html-and-css/index.html"
+                },
+                {
+                    "name": "Codecademy - Learn HTML",
+                    "link": "https://www.codecademy.com/learn/learn-html"
+                },
+                {
+                    "name": "Interactive HTML Course",
+                    "link": "https://github.com/denysdovhan/learnyouhtml"
+                },
+                {
+                    "name": "HTML Full Course for Beginners | Complete All-in-One Tutorial",
+                    "link": "https://youtu.be/mJgBOIoGihA"
+                },
+                {
+                    "name": "HTML Full Course - Build a Website Tutorial",
+                    "link": "https://www.youtube.com/watch?v=pQN-pnXPaVg"
+                },
+                {
+                    "name": "HTML Tutorial for Beginners: HTML Crash Course",
+                    "link": "https://www.youtube.com/watch?v=qz0aGYrrlhU"
+                }
+            ],
             "parents": [],
             "children": [],
             "questions": [
                 {
-                    "id": "1",
+                    "id": "550e8400-e29b-41d4-a716-446655440000",
                     "question": "What does HTML stand for?",
                     "description": "Choose the correct expansion for the acronym HTML.",
                     "hint": "Think about the basic structure of web pages.",
@@ -33,7 +70,7 @@
                     ]
                 },
                 {
-                    "id": "2",
+                    "id": "7a60563b-1ce4-4a3f-bdf7-9ecb7b08ee2a",
                     "question": "What is the main purpose of HTML?",
                     "description": "Select the option that best describes the primary function of HTML.",
                     "hint": "Consider the role of HTML in creating web pages.",
@@ -59,7 +96,7 @@
                     ]
                 },
                 {
-                    "id": "3",
+                    "id": "8f9b53e1-5874-45a1-9108-98c5ef5dd938",
                     "question": "Which HTML tag is used for creating a hyperlink?",
                     "description": "Identify the HTML tag that is commonly used to create links.",
                     "hint": "Think about how you navigate from one web page to another.",
@@ -85,7 +122,7 @@
                     ]
                 },
                 {
-                    "id": "4",
+                    "id": "c95a8749-3e6e-4a4d-b513-60a5a1f240a5",
                     "question": "What does the 'HTML' element define in a web page?",
                     "description": "Choose the correct interpretation of the 'HTML' element's role.",
                     "hint": "Consider the overall structure of an HTML document.",
@@ -111,7 +148,7 @@
                     ]
                 },
                 {
-                    "id": "5",
+                    "id": "f7a5d510-4b5e-4a68-87e2-18cfb46a9721",
                     "question": "Which HTML tag is used for creating a line break?",
                     "description": "Identify the HTML tag commonly used to insert a line break.",
                     "hint": "Think about how to separate content on different lines.",
@@ -137,7 +174,7 @@
                     ]
                 },
                 {
-                    "id": "6",
+                    "id": "3b2c53fe-3aef-4e8e-9b4a-6e41c1ef1b64",
                     "question": "Which of the following is NOT a valid HTML tag?",
                     "description": "Identify the tag that is not a part of the HTML specification.",
                     "hint": "Consider the common HTML tags used for structuring content.",
@@ -163,7 +200,7 @@
                     ]
                 },
                 {
-                    "id": "7",
+                    "id": "a819a12e-56b0-4372-bb25-af50779ec438",
                     "question": "What does the 'alt' attribute in an 'img' tag stand for?",
                     "description": "Select the correct interpretation of the 'alt' attribute in an 'img' tag.",
                     "hint": "Consider the purpose of the 'alt' attribute in images.",
@@ -189,7 +226,7 @@
                     ]
                 },
                 {
-                    "id": "8",
+                    "id": "2f8a5a19-c2b7-4d87-9a63-6f34e96229ab",
                     "question": "Which HTML tag is used for creating an unordered list?",
                     "description": "Identify the HTML tag commonly used for creating a bulleted list.",
                     "hint": "Think about how items are typically organized in an unordered list.",
@@ -215,7 +252,7 @@
                     ]
                 },
                 {
-                    "id": "9",
+                    "id": "6c26d25e-c80e-4d12-aa71-9f4c4e6a82bb",
                     "question": "Which HTML tag is used for defining a table?",
                     "description": "Identify the HTML tag commonly used for creating tables.",
                     "hint": "Think about how tabular data is structured in HTML.",
@@ -241,7 +278,7 @@
                     ]
                 },
                 {
-                    "id": "10",
+                    "id": "4c0846e9-168f-4a5e-9cf0-8b11624ab4a0",
                     "question": "Which HTML tag is used for adding a hyperlink to an email address?",
                     "description": "Identify the tag used to create a hyperlink for an email address.",
                     "hint": "Consider how email addresses are linked in HTML.",
@@ -267,7 +304,7 @@
                     ]
                 },
                 {
-                    "id": "11",
+                    "id": "92a14f6a-5a43-4a0b-a697-cf4c352e288a",
                     "question": "What does the 'DOCTYPE' declaration in HTML do?",
                     "description": "Select the correct purpose of the 'DOCTYPE' declaration.",
                     "hint": "Consider the role of 'DOCTYPE' in defining the document type.",
@@ -293,7 +330,7 @@
                     ]
                 },
                 {
-                    "id": "12",
+                    "id": "715fa8a7-aa48-4f86-bb2c-5f51f2046b39",
                     "question": "What does the 'head' element in HTML contain?",
                     "description": "Choose the correct content typically found within the 'head' element.",
                     "hint": "Consider elements that provide meta-information and links to external resources.",
@@ -319,7 +356,7 @@
                     ]
                 },
                 {
-                    "id": "13",
+                    "id": "1dc71f28-4a18-4b7e-89ed-9b8e7936c4a9",
                     "question": "Which HTML tag is used for creating a numbered list?",
                     "description": "Identify the HTML tag commonly used for creating an ordered list.",
                     "hint": "Think about how items are typically organized in an ordered list.",
@@ -345,7 +382,7 @@
                     ]
                 },
                 {
-                    "id": "14",
+                    "id": "8fd7bce5-4605-4b8d-8f5e-476a7f3620cb",
                     "question": "Which attribute is used to define the alternative text for an image?",
                     "description": "Choose the attribute used to provide alternative text for accessibility.",
                     "hint": "Consider how to describe images for users who cannot see them.",
@@ -371,7 +408,7 @@
                     ]
                 },
                 {
-                    "id": "15",
+                    "id": "db3c689b-ea08-4b0b-b63b-0f53632e21ef",
                     "question": "In HTML, which element is used for creating a hyperlink?",
                     "description": "Identify the HTML element commonly used for creating hyperlinks.",
                     "hint": "Think about how you create links to other pages or resources.",
@@ -397,7 +434,7 @@
                     ]
                 },
                 {
-                    "id": "16",
+                    "id": "7e5f4a0d-1eeb-4b43-8a74-3cb7c315b421",
                     "question": "What is the purpose of the 'title' element in HTML?",
                     "description": "Select the correct purpose of the 'title' element.",
                     "hint": "Consider where the 'title' element is typically used.",
@@ -423,7 +460,7 @@
                     ]
                 },
                 {
-                    "id": "17",
+                    "id": "4b30811e-99b0-4e6b-a272-cd9a82425c04",
                     "question": "What is the purpose of the 'meta' tag in the 'head' element?",
                     "description": "Select the correct purpose of the 'meta' tag in the 'head' element.",
                     "hint": "Consider the role of 'meta' in providing additional information about the document.",
@@ -449,7 +486,7 @@
                     ]
                 },
                 {
-                    "id": "18",
+                    "id": "84dce3f7-ea03-4427-9d7e-670fae0f4b5b",
                     "question": "Which HTML tag is used for creating a horizontal line?",
                     "description": "Identify the HTML tag commonly used for inserting a horizontal line.",
                     "hint": "Consider how to visually separate content with a horizontal line.",
@@ -475,7 +512,7 @@
                     ]
                 },
                 {
-                    "id": "19",
+                    "id": "cbc7ea59-84d2-4e10-a3d7-1f7ef36e96f8",
                     "question": "What is the purpose of the 'alt' attribute in an 'img' tag?",
                     "description": "Select the correct purpose of the 'alt' attribute in an 'img' tag.",
                     "hint": "Consider the role of 'alt' in providing alternative text for images.",
@@ -501,7 +538,7 @@
                     ]
                 },
                 {
-                    "id": "20",
+                    "id": "0a265a67-6a49-4da1-862d-1c1d3440014f",
                     "question": "Which HTML tag is used for creating an input field for text?",
                     "description": "Identify the HTML tag commonly used for accepting text input.",
                     "hint": "Think about how users can enter text on a web page.",
@@ -527,7 +564,7 @@
                     ]
                 },
                 {
-                    "id": "21",
+                    "id": "536b9e66-d1b1-4e24-9f56-44dcefd13c4b",
                     "question": "What is the purpose of the 'span' element in HTML?",
                     "description": "Select the correct purpose of the 'span' element.",
                     "hint": "Consider where the 'span' element is typically used and its impact on content.",
@@ -553,7 +590,7 @@
                     ]
                 },
                 {
-                    "id": "22",
+                    "id": "8e703d9a-0f84-4a5d-9c0a-670981a35a6d",
                     "question": "What does the 'async' attribute do in the '<script>' tag?",
                     "description": "Choose the correct purpose of the 'async' attribute in the '<script>' tag.",
                     "hint": "Consider how the 'async' attribute affects the loading and execution of scripts.",
@@ -579,7 +616,7 @@
                     ]
                 },
                 {
-                    "id": "23",
+                    "id": "93d33a6b-1fb2-495a-b244-3b7b8d789d9b",
                     "question": "What is the purpose of the 'figcaption' element in HTML?",
                     "description": "Select the correct purpose of the 'figcaption' element.",
                     "hint": "Consider where the 'figcaption' element is commonly used and its relation to content.",
@@ -605,7 +642,7 @@
                     ]
                 },
                 {
-                    "id": "24",
+                    "id": "4b1a2d7c-002d-4e67-848b-89ac67fbc4a8",
                     "question": "What is the purpose of the 'form' element in HTML?",
                     "description": "Select the correct purpose of the 'form' element.",
                     "hint": "Consider how the 'form' element is used to structure and handle user input.",
@@ -631,7 +668,7 @@
                     ]
                 },
                 {
-                    "id": "25",
+                    "id": "83ce8a1a-12af-4f85-8c3e-b727c7248e3e",
                     "question": "What does the 'target' attribute in the '<a>' tag specify?",
                     "description": "Choose the correct purpose of the 'target' attribute in the '<a>' tag.",
                     "hint": "Consider how the 'target' attribute affects where a linked resource is displayed.",
@@ -657,7 +694,7 @@
                     ]
                 },
                 {
-                    "id": "26",
+                    "id": "b8e5f9b0-3e3f-4c48-9e48-837aae1cc85f",
                     "question": "What is the purpose of the 'article' element in HTML?",
                     "description": "Select the correct purpose of the 'article' element.",
                     "hint": "Consider where the 'article' element is typically used and its relation to content.",
@@ -683,7 +720,7 @@
                     ]
                 },
                 {
-                    "id": "27",
+                    "id": "11e3a08a-3da2-48d5-a6f0-6f58e3015b18",
                     "question": "What is the purpose of the 'cite' element in HTML?",
                     "description": "Select the correct purpose of the 'cite' element.",
                     "hint": "Consider where the 'cite' element is typically used and its relation to content.",
@@ -709,7 +746,7 @@
                     ]
                 },
                 {
-                    "id": "28",
+                    "id": "7f0b36d9-477d-4ef8-a553-9d4cc312ff13",
                     "question": "What is the purpose of the 'details' element in HTML?",
                     "description": "Select the correct purpose of the 'details' element.",
                     "hint": "Consider how the 'details' element is used to provide additional information.",
@@ -735,7 +772,7 @@
                     ]
                 },
                 {
-                    "id": "29",
+                    "id": "b0a1f8b9-68a1-45e8-94ec-5c2d7a8f0e14",
                     "question": "What does the 'placeholder' attribute do in an '<input>' tag?",
                     "description": "Choose the correct purpose of the 'placeholder' attribute in an '<input>' tag.",
                     "hint": "Consider how the 'placeholder' attribute provides a hint or example for user input.",
@@ -761,7 +798,7 @@
                     ]
                 },
                 {
-                    "id": "30",
+                    "id": "349f675c-cc29-4c2b-8b53-bc5e5a4ed654",
                     "question": "What is the purpose of the 'summary' element in HTML?",
                     "description": "Select the correct purpose of the 'summary' element.",
                     "hint": "Consider where the 'summary' element is commonly used and its impact on content.",
@@ -787,7 +824,7 @@
                     ]
                 },
                 {
-                    "id": "31",
+                    "id": "05bf1b3f-9351-42f3-90b6-ec2f3253962f",
                     "question": "What is the purpose of the 'role' attribute in HTML?",
                     "description": "Select the correct purpose of the 'role' attribute.",
                     "hint": "Consider how the 'role' attribute is used to define the function of an element.",
@@ -813,7 +850,7 @@
                     ]
                 },
                 {
-                    "id": "32",
+                    "id": "f0547aa9-b41a-4e4c-92cd-978a4310f09c",
                     "question": "What is the purpose of the 'aria-label' attribute in HTML?",
                     "description": "Select the correct purpose of the 'aria-label' attribute.",
                     "hint": "Consider how the 'aria-label' attribute is used to provide a label for accessibility.",
@@ -839,7 +876,7 @@
                     ]
                 },
                 {
-                    "id": "33",
+                    "id": "46a0491f-2a91-4d5f-8af5-7d31241ec92d",
                     "question": "What does the 'defer' attribute do in the '<script>' tag?",
                     "description": "Choose the correct purpose of the 'defer' attribute in the '<script>' tag.",
                     "hint": "Consider how the 'defer' attribute affects the loading and execution of scripts.",
@@ -865,7 +902,7 @@
                     ]
                 },
                 {
-                    "id": "34",
+                    "id": "5cc5da2c-08e9-4f98-a69d-c7a84d32d1c1",
                     "question": "What is the purpose of the 'scoped' attribute in the '<style>' tag?",
                     "description": "Select the correct purpose of the 'scoped' attribute in the '<style>' tag.",
                     "hint": "Consider how the 'scoped' attribute affects the styling of elements.",
@@ -891,7 +928,7 @@
                     ]
                 },
                 {
-                    "id": "35",
+                    "id": "03a0e4bf-ecc5-4933-9b6e-1e384885feea",
                     "question": "What is the purpose of the 'figure' element in HTML?",
                     "description": "Select the correct purpose of the 'figure' element.",
                     "hint": "Consider where the 'figure' element is commonly used and its relation to content.",
@@ -917,7 +954,7 @@
                     ]
                 },
                 {
-                    "id": "36",
+                    "id": "5b9a8d72-40a5-41c7-bc31-c71b24a36c04",
                     "question": "What is the purpose of the 'article' element in HTML?",
                     "description": "Select the correct purpose of the 'article' element.",
                     "hint": "Consider where the 'article' element is typically used and its relation to content.",
@@ -943,7 +980,7 @@
                     ]
                 },
                 {
-                    "id": "37",
+                    "id": "1c134d7e-26cc-4aae-831a-6d8b8e676c7f",
                     "question": "How does the 'rel' attribute in the '<a>' tag contribute to link behavior?",
                     "description": "Choose the correct contribution of the 'rel' attribute in the '<a>' tag.",
                     "hint": "Consider how the 'rel' attribute specifies the relationship between the linked resource and the current document.",
@@ -969,7 +1006,7 @@
                     ]
                 },
                 {
-                    "id": "38",
+                    "id": "7a87672a-9c0e-4803-a6f5-1201abed1c86",
                     "question": "What is the purpose of the 'alt' attribute in an 'area' tag?",
                     "description": "Select the correct purpose of the 'alt' attribute in an 'area' tag.",
                     "hint": "Consider the role of 'alt' in providing alternative text for areas defined in an image map.",
@@ -995,7 +1032,7 @@
                     ]
                 },
                 {
-                    "id": "39",
+                    "id": "2d0727b2-b0c5-43d7-a7dd-bf4628f2f8a3",
                     "question": "How does the 'colspan' attribute in the '<td>' tag affect table cells?",
                     "description": "Choose the correct effect of the 'colspan' attribute in the '<td>' tag.",
                     "hint": "Consider how 'colspan' influences the horizontal span of table cells.",
@@ -1021,7 +1058,7 @@
                     ]
                 },
                 {
-                    "id": "40",
+                    "id": "842b2402-d981-404d-8d99-39eaa17d6a0d",
                     "question": "What is the purpose of the 'role' attribute in the '<nav>' tag?",
                     "description": "Select the correct purpose of the 'role' attribute in the '<nav>' tag.",
                     "hint": "Consider how the 'role' attribute is used to define the function of an element, especially for accessibility.",
@@ -1047,7 +1084,7 @@
                     ]
                 },
                 {
-                    "id": "41",
+                    "id": "f5ea1e54-8df5-4f8e-9610-69d5c802ff7d",
                     "question": "Explain the purpose of the 'contenteditable' attribute in HTML.",
                     "description": "Provide an explanation for the purpose and usage of the 'contenteditable' attribute.",
                     "hint": "Consider how 'contenteditable' affects the editability of an element's content.",
@@ -1073,7 +1110,7 @@
                     ]
                 },
                 {
-                    "id": "42",
+                    "id": "b6797cbf-4bd8-4f8b-aa9e-65017d30839b",
                     "question": "Explain the purpose of the 'hidden' attribute in HTML.",
                     "description": "Provide an explanation for the purpose and usage of the 'hidden' attribute.",
                     "hint": "Consider how 'hidden' affects the visibility of an element.",
@@ -1099,7 +1136,7 @@
                     ]
                 },
                 {
-                    "id": "43",
+                    "id": "a7c17ce9-6b79-4219-ae2a-3a3c17ee6a8f",
                     "question": "Explain the purpose of the 'sandbox' attribute in the '<iframe>' tag.",
                     "description": "Provide an explanation for the purpose and usage of the 'sandbox' attribute in the '<iframe>' tag.",
                     "hint": "Consider how 'sandbox' enhances security when embedding content.",
@@ -1125,7 +1162,7 @@
                     ]
                 },
                 {
-                    "id": "44",
+                    "id": "6df9840b-51d2-4f50-a3f9-1d7fb5c86f68",
                     "question": "Explain the purpose of the 'defer' attribute in the '<link>' tag.",
                     "description": "Provide an explanation for the purpose and usage of the 'defer' attribute in the '<link>' tag.",
                     "hint": "Consider how 'defer' affects the loading of external stylesheets.",
@@ -1151,7 +1188,7 @@
                     ]
                 },
                 {
-                    "id": "45",
+                    "id": "e9a295fe-9eb3-4ac9-b3b7-97e5e99216f1",
                     "question": "Explain the purpose of the 'draggable' attribute in HTML.",
                     "description": "Provide an explanation for the purpose and usage of the 'draggable' attribute.",
                     "hint": "Consider how 'draggable' affects the drag-and-drop behavior of an element.",
@@ -1177,7 +1214,7 @@
                     ]
                 },
                 {
-                    "id": "46",
+                    "id": "fcd34361-9353-44c7-8c57-b2ecb3bc37a7",
                     "question": "Explain the purpose of the 'crossorigin' attribute in the '<script>' tag.",
                     "description": "Provide an explanation for the purpose and usage of the 'crossorigin' attribute in the '<script>' tag.",
                     "hint": "Consider how 'crossorigin' addresses security concerns when loading scripts from external sources.",
@@ -1203,7 +1240,7 @@
                     ]
                 },
                 {
-                    "id": "47",
+                    "id": "75e0d37e-14cc-4b1d-b695-2494a4a0da18",
                     "question": "Explain the purpose of the 'translate' attribute in HTML.",
                     "description": "Provide an explanation for the purpose and usage of the 'translate' attribute.",
                     "hint": "Consider how 'translate' affects the translation behavior of an element's content.",
@@ -1229,7 +1266,7 @@
                     ]
                 },
                 {
-                    "id": "48",
+                    "id": "6a65c2fc-cbe9-4f77-b82a-13f166583f1b",
                     "question": "Explain the purpose of the 'nonce' attribute in the '<script>' tag.",
                     "description": "Provide an explanation for the purpose and usage of the 'nonce' attribute in the '<script>' tag.",
                     "hint": "Consider how 'nonce' enhances security when executing inline scripts.",
@@ -1255,7 +1292,7 @@
                     ]
                 },
                 {
-                    "id": "49",
+                    "id": "0fc7b37e-36d9-4715-92e3-7b9221baf1f7",
                     "question": "Explain the purpose of the 'ping' attribute in the '<a>' tag.",
                     "description": "Provide an explanation for the purpose and usage of the 'ping' attribute in the '<a>' tag.",
                     "hint": "Consider how 'ping' contributes to tracking navigation requests.",
@@ -1281,7 +1318,7 @@
                     ]
                 },
                 {
-                    "id": "50",
+                    "id": "4e419173-43a7-4f9d-a7a7-14c8558f9051",
                     "question": "Explain the purpose of the 'autocomplete' attribute in the '<form>' tag.",
                     "description": "Provide an explanation for the purpose and usage of the 'autocomplete' attribute in the '<form>' tag.",
                     "hint": "Consider how 'autocomplete' influences the automatic filling of form fields.",
