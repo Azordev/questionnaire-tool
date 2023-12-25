@@ -1,13 +1,48 @@
 {
     "skill": {
         "React": {
-            "description": "",
-            "resources": [],
-            "parents": [],
-            "children": [],
+            "description": "React is the most popular front-end JavaScript library for building user interfaces. React can also render on the server using Node and power mobile apps using React Native.Visit the following resources to learn more:",
+            "resources": [
+                {
+                    "name": "Visit Dedicated React Roadmap",
+                    "link": "https://roadmap.sh/react"
+                },
+                {
+                    "name": "React Website",
+                    "link": "https://react.dev/"
+                },
+                {
+                    "name": "Official Getting Started",
+                    "link": "https://react.dev/learn/tutorial-tic-tac-toe"
+                },
+                {
+                    "name": "The Beginners Guide to React",
+                    "link": "https://egghead.io/courses/the-beginner-s-guide-to-react"
+                },
+                {
+                    "name": "React JS Course for Beginners",
+                    "link": "https://www.youtube.com/watch?v=nTeuhbP7wdE"
+                },
+                {
+                    "name": "React Course - Beginners Tutorial for React JavaScript Library [2022]",
+                    "link": "https://www.youtube.com/watch?v=bMknfKXIFA8"
+                },
+                {
+                    "name": "Understanding Reacts UI Rendering Process",
+                    "link": "https://www.youtube.com/watch?v=i793Qm6kv3U"
+                }
+            ],
+            "parents": [
+                "pick-a-framework",
+                "server-side-rendering"
+            ],
+            "children": [
+                "next.js",
+                "remix"
+            ],
             "questions": [
                 {
-                    "id": "1",
+                    "id": "40bd92bc-2d3a-46ec-a064-4d6c4d97cc8a",
                     "question": "What is the main library used to build user interfaces in React?",
                     "description": "Question about the main library in React.",
                     "hint": "Remember the name of the technology we use to build user interfaces in React.",
@@ -40,7 +75,7 @@
                     ]
                 },
                 {
-                    "id": "2",
+                    "id": "e17db84d-7815-4ed9-bd4f-97f53ec164bc",
                     "question": "What is the method that is automatically called after a React component is first rendered?",
                     "description": "Question about the lifecycle method in React.",
                     "hint": "Think about the method that is triggered automatically once a component is initially rendered.",
@@ -73,7 +108,7 @@
                     ]
                 },
                 {
-                    "id": "3",
+                    "id": "53efbb22-8b8d-497e-ba26-7209d01583fc",
                     "question": "What is the purpose of the `setState` function in React?",
                     "description": "Question about the purpose of `setState` in React.",
                     "hint": "Consider the function used to change the state of a React component.",
@@ -106,7 +141,7 @@
                     ]
                 },
                 {
-                    "id": "4",
+                    "id": "451d1af1-4ab5-44e5-9d1f-6f1c8d34b72e",
                     "question": "What is the property that determines if a React component should re-render when its state or props change?",
                     "description": "Question about the property controlling re-render in React.",
                     "hint": "Think about the property used to decide whether a component should update on state or prop changes.",
@@ -139,7 +174,7 @@
                     ]
                 },
                 {
-                    "id": "5",
+                    "id": "bbd5a06a-c4b8-44c9-83a2-09f8d4a32da8",
                     "question": "What is the React hook used to perform side effects in a functional component?",
                     "description": "Question about the side effect hook in React.",
                     "hint": "Consider the hook used for actions like data fetching or subscriptions.",
@@ -172,7 +207,7 @@
                     ]
                 },
                 {
-                    "id": "6",
+                    "id": "f07564bd-4d23-4c23-9e90-cd76dbf5ef46",
                     "question": "What is the concept of passing data from a parent component to a child component in React?",
                     "description": "Question about data passing in React.",
                     "hint": "Consider the term used for transferring information from one component to another.",
@@ -205,7 +240,7 @@
                     ]
                 },
                 {
-                    "id": "7",
+                    "id": "0a47a19d-7f13-4173-8e1a-af9c6f2a3be2",
                     "question": "What JSX represents an empty React component?",
                     "description": "Question about creating an empty React component with JSX.",
                     "hint": "Consider the JSX syntax for creating a component without additional elements.",
@@ -238,7 +273,7 @@
                     ]
                 },
                 {
-                    "id": "8",
+                    "id": "9d318477-036a-4d13-9b0b-b763c419a0a1",
                     "question": "What is the purpose of the `render` method in a React class component?",
                     "description": "Question about the purpose of the `render` method in React.",
                     "hint": "Consider the role of the `render` method in the lifecycle of a React class component.",
@@ -271,7 +306,7 @@
                     ]
                 },
                 {
-                    "id": "9",
+                    "id": "a13a130f-ebf5-4675-8715-b0cc2626e18e",
                     "question": "What does the `setState` method automatically do after updating the state of a React component?",
                     "description": "Question about the automatic action triggered by the `setState` method.",
                     "hint": "Consider the automatic behavior of the `setState` method after a state update.",
@@ -304,7 +339,7 @@
                     ]
                 },
                 {
-                    "id": "10",
+                    "id": "10db47b7-1a90-40df-96e7-cc5933ecfaae",
                     "question": "What is the main function of the `key` attribute in a set of elements in React?",
                     "description": "Question about the purpose of the `key` attribute in React elements.",
                     "hint": "Consider the role of the `key` attribute in optimizing React's update process.",
@@ -337,7 +372,7 @@
                     ]
                 },
                 {
-                    "id": "11",
+                    "id": "c370ec6d-5e2d-4c1e-85bf-986199986e4a",
                     "question": "What is the React lifecycle method that runs just before a component is removed from the DOM?",
                     "description": "Question about the lifecycle method before component removal.",
                     "hint": "Consider the method that executes cleanup actions before component removal.",
@@ -370,7 +405,7 @@
                     ]
                 },
                 {
-                    "id": "12",
+                    "id": "a70cb9fe-8e01-48a2-a0b5-0a2513e9d90f",
                     "question": "What does the `useState` hook do in a React functional component?",
                     "description": "Question about the purpose of `useState` in React.",
                     "hint": "Consider the function of `useState` in initializing state.",
@@ -403,7 +438,7 @@
                     ]
                 },
                 {
-                    "id": "13",
+                    "id": "99789310-49ab-4e09-b3c1-8d4b6f25dbf9",
                     "question": "What is the main purpose of the `componentDidUpdate` method in a React class component?",
                     "description": "Question about the primary purpose of `componentDidUpdate`.",
                     "hint": "Think about the role of `componentDidUpdate` in the component's lifecycle.",
@@ -436,7 +471,7 @@
                     ]
                 },
                 {
-                    "id": "14",
+                    "id": "d5f716f1-2d9b-45d4-8cf1-2d4fe3e1c635",
                     "question": "What is the main function of the `useEffect` hook in a React functional component?",
                     "description": "Question about the primary purpose of `useEffect` in React functional components.",
                     "hint": "Consider the role of `useEffect` in handling side effects.",
@@ -469,7 +504,7 @@
                     ]
                 },
                 {
-                    "id": "15",
+                    "id": "0f9b82cb-868b-42f4-b88e-7dd2be5f1353",
                     "question": "What is the correct syntax for passing a function as a prop to a React component?",
                     "description": "Question about the correct syntax for passing a function as a prop.",
                     "hint": "Consider the notation for passing a function as a prop in JSX.",
@@ -502,7 +537,7 @@
                     ]
                 },
                 {
-                    "id": "16",
+                    "id": "4d2707f0-ff48-4e35-b6db-36295fe24988",
                     "question": "What is the purpose of the `useReducer` hook in React?",
                     "description": "Question about the purpose of `useReducer` in React.",
                     "hint": "Consider the role of `useReducer` in managing state logic.",
@@ -535,7 +570,7 @@
                     ]
                 },
                 {
-                    "id": "17",
+                    "id": "1fc33f23-c5e5-4cf7-8c9e-74d7bcde0359",
                     "question": "What does the 'render props' design pattern represent in React?",
                     "description": "Question about the 'render props' design pattern.",
                     "hint": "Consider the purpose of the 'render props' pattern in React.",
@@ -568,7 +603,7 @@
                     ]
                 },
                 {
-                    "id": "18",
+                    "id": "6ad15ce4-d3d3-4f04-865a-63bcdd0ed5c8",
                     "question": "Which React hook is used to optimize performance by avoiding unnecessary re-renders?",
                     "description": "Question about the React hook used for performance optimization.",
                     "hint": "Consider the hook that memoizes values to prevent unnecessary re-renders.",
@@ -601,7 +636,7 @@
                     ]
                 },
                 {
-                    "id": "19",
+                    "id": "d7856f06-b53f-468c-b2a7-2b7932d16a3a",
                     "question": "How are events handled in React?",
                     "description": "Question about event handling in React.",
                     "hint": "Consider the primary approach for handling events in React.",
@@ -634,7 +669,7 @@
                     ]
                 },
                 {
-                    "id": "20",
+                    "id": "4e9604ce-c6c9-4e11-8bc5-60721739f72b",
                     "question": "What is the purpose of the `key` property in a list of elements in React?",
                     "description": "Question about the purpose of the `key` property in React lists.",
                     "hint": "Consider why the `key` property is used in React lists.",
@@ -667,7 +702,7 @@
                     ]
                 },
                 {
-                    "id": "21",
+                    "id": "d9b585c8-1e82-4d48-9d56-50cc21bc4ab4",
                     "question": "What is the purpose of the `componentDidMount` lifecycle method in a React class component?",
                     "description": "Question about the role of `componentDidMount` in a class component's lifecycle.",
                     "hint": "Consider when `componentDidMount` is called and its primary use.",
@@ -700,7 +735,7 @@
                     ]
                 },
                 {
-                    "id": "22",
+                    "id": "1e19d74f-9974-48a8-840b-4c088e5d0380",
                     "question": "In React, what is the purpose of the `useCallback` hook?",
                     "description": "Question about the purpose of the `useCallback` hook in React functional components.",
                     "hint": "Consider the use case for memoizing functions in React.",
@@ -733,7 +768,7 @@
                     ]
                 },
                 {
-                    "id": "23",
+                    "id": "2f879fad-2db1-43d0-8758-0ef8338137d4",
                     "question": "What is the purpose of the `shouldComponentUpdate` method in a React class component?",
                     "description": "Question about the role of `shouldComponentUpdate` in the lifecycle of a class component.",
                     "hint": "Consider when `shouldComponentUpdate` is called and its impact on rendering.",
@@ -766,7 +801,7 @@
                     ]
                 },
                 {
-                    "id": "24",
+                    "id": "3c32290c-19f4-4b27-a3b2-8c1355b7b46a",
                     "question": "What is the purpose of the `useContext` hook in React?",
                     "description": "Question about the primary purpose of the `useContext` hook in functional components.",
                     "hint": "Consider how `useContext` facilitates communication between components.",
@@ -799,7 +834,7 @@
                     ]
                 },
                 {
-                    "id": "25",
+                    "id": "f3c51c84-107b-40a3-b20c-20df3981b02b",
                     "question": "In React, what does the term 'controlled component' refer to?",
                     "description": "Question about the concept of 'controlled components' in React.",
                     "hint": "Consider how state is managed in controlled components.",
@@ -832,7 +867,7 @@
                     ]
                 },
                 {
-                    "id": "26",
+                    "id": "c635f893-9b5c-44b8-8cb8-41d4a50f7fcf",
                     "question": "What is the purpose of the `React.Fragment` component in React?",
                     "description": "Question about the role of `React.Fragment` in React components.",
                     "hint": "Consider how `React.Fragment` is used to avoid unnecessary wrapper elements.",
@@ -865,7 +900,7 @@
                     ]
                 },
                 {
-                    "id": "27",
+                    "id": "2d48a1e3-3c87-48e5-8e0a-c331a19419f9",
                     "question": "What is the purpose of the `React.memo` function in a React functional component?",
                     "description": "Question about the role of `React.memo` in optimizing functional components.",
                     "hint": "Consider how `React.memo` optimizes the rendering of functional components.",
@@ -898,7 +933,7 @@
                     ]
                 },
                 {
-                    "id": "28",
+                    "id": "e1bca73e-21df-4f3d-bc3b-3c70220684b3",
                     "question": "What is the purpose of the `useEffect` hook with an empty dependency array (`[]`) in a React functional component?",
                     "description": "Question about the purpose of `useEffect` with an empty dependency array in React functional components.",
                     "hint": "Consider when `useEffect` with an empty dependency array is executed.",
@@ -931,7 +966,7 @@
                     ]
                 },
                 {
-                    "id": "29",
+                    "id": "43173413-37e6-4ef4-96d5-5c2db1eef831",
                     "question": "What is the purpose of the `React.PureComponent` class in React?",
                     "description": "Question about the role of `React.PureComponent` in optimizing class components.",
                     "hint": "Consider how `React.PureComponent` optimizes rendering in class components.",
@@ -964,7 +999,7 @@
                     ]
                 },
                 {
-                    "id": "30",
+                    "id": "3f3786ac-6949-45a8-9a54-e212f40188ef",
                     "question": "How does the `useReducer` hook differ from the `useState` hook in React?",
                     "description": "Question about the differences between the `useReducer` and `useState` hooks in React functional components.",
                     "hint": "Consider the use cases and scenarios where each hook is preferable.",
@@ -997,7 +1032,7 @@
                     ]
                 },
                 {
-                    "id": "31",
+                    "id": "eebff396-13b2-48f1-a5c2-4ecf2c8a94f5",
                     "question": "Explain the concept of 'lifting state up' in React and provide an example scenario where it is useful.",
                     "description": "Question about the 'lifting state up' pattern in React.",
                     "hint": "Consider situations where sharing state between components is necessary for synchronization.",
@@ -1030,7 +1065,7 @@
                     ]
                 },
                 {
-                    "id": "32",
+                    "id": "d075d05e-e71b-4c6c-bc3b-d8d134ed345c",
                     "question": "Explain the purpose of the 'useMemo' hook in React and provide a scenario where using it is beneficial.",
                     "description": "Question about the purpose and usage of the 'useMemo' hook in React functional components.",
                     "hint": "Consider scenarios where expensive computations need to be memoized for performance optimization.",
@@ -1063,7 +1098,7 @@
                     ]
                 },
                 {
-                    "id": "33",
+                    "id": "0ec68c5b-44d3-43a3-8180-67ceab10cdad",
                     "question": "What are React Portals, and in what scenarios would you use them?",
                     "description": "Question about React Portals and their use cases.",
                     "hint": "Consider situations where rendering content outside the normal parent-child hierarchy is necessary.",
@@ -1096,7 +1131,7 @@
                     ]
                 },
                 {
-                    "id": "34",
+                    "id": "05a07422-472b-4912-9950-383ce531e0c4",
                     "question": "Explain the concept of 'controlled forms' in React and provide an example.",
                     "description": "Question about 'controlled forms' in React.",
                     "hint": "Consider scenarios where form elements are controlled by React state.",
@@ -1129,7 +1164,7 @@
                     ]
                 },
                 {
-                    "id": "35",
+                    "id": "a3c882c4-eb39-4d35-8399-5b0667c160f7",
                     "question": "Explain the purpose of the 'shouldComponentUpdate' method in React and provide a scenario where manually implementing it is beneficial.",
                     "description": "Question about the 'shouldComponentUpdate' method and its use cases.",
                     "hint": "Consider scenarios where optimizing component rendering is crucial.",
@@ -1162,7 +1197,7 @@
                     ]
                 },
                 {
-                    "id": "36",
+                    "id": "4b582f65-5fe2-416a-a54d-2c2e16a4ce9a",
                     "question": "Explain the concept of 'context' in React and provide a scenario where using it is beneficial.",
                     "description": "Question about the 'context' feature in React.",
                     "hint": "Consider scenarios where passing data through many levels of components is cumbersome.",
@@ -1195,7 +1230,7 @@
                     ]
                 },
                 {
-                    "id": "37",
+                    "id": "84e6c96e-d6b1-49da-8d6d-4f50ad0a6ee1",
                     "question": "Explain the purpose of the 'useEffect' hook in React and provide a scenario where using it is beneficial.",
                     "description": "Question about the 'useEffect' hook and its use cases.",
                     "hint": "Consider scenarios where handling side effects in functional components is necessary.",
@@ -1228,7 +1263,7 @@
                     ]
                 },
                 {
-                    "id": "38",
+                    "id": "a031b6bb-780b-4a50-ba0b-af37a7624f6a",
                     "question": "Explain the concept of 'React.memo' in functional components and provide a scenario where using it is beneficial.",
                     "description": "Question about the 'React.memo' function and its use in functional components.",
                     "hint": "Consider scenarios where preventing unnecessary renders in functional components is important.",
@@ -1261,7 +1296,7 @@
                     ]
                 },
                 {
-                    "id": "39",
+                    "id": "19c48276-725a-4be0-80a4-cdcb8fe3a6a7",
                     "question": "Explain the concept of the 'useReducer' hook in React and provide a scenario where using it is beneficial.",
                     "description": "Question about the purpose and use cases of the 'useReducer' hook in React functional components.",
                     "hint": "Consider scenarios where managing complex state transitions is necessary.",
@@ -1294,7 +1329,7 @@
                     ]
                 },
                 {
-                    "id": "40",
+                    "id": "99e7f9c1-06b7-4c79-804a-3a2ebd41d6c3",
                     "question": "Explain the purpose of the 'React.forwardRef' function in React and provide a scenario where using it is beneficial.",
                     "description": "Question about the 'React.forwardRef' function and its use in React components.",
                     "hint": "Consider scenarios where passing refs through intermediate components is necessary.",
@@ -1327,7 +1362,7 @@
                     ]
                 },
                 {
-                    "id": "41",
+                    "id": "b5bde799-e4f5-40cf-b711-6b5d4f09d4a8",
                     "question": "Explain the concept of 'server-side rendering' in React and discuss its advantages and disadvantages.",
                     "description": "Question about server-side rendering in React and its pros and cons.",
                     "hint": "Consider scenarios where rendering React components on the server side is beneficial.",
@@ -1360,7 +1395,7 @@
                     ]
                 },
                 {
-                    "id": "42",
+                    "id": "2a864d0f-ccf1-4f22-8bb2-5dd3a7da7e1b",
                     "question": "What are React Hooks, and how do they differ from class components in terms of state management?",
                     "description": "Question about React Hooks and their differences from class components.",
                     "hint": "Consider the differences in syntax and behavior between Hooks and class component state.",
@@ -1393,7 +1428,7 @@
                     ]
                 },
                 {
-                    "id": "43",
+                    "id": "b101f5cf-96c4-4d8e-9da5-4e21e652c7e4",
                     "question": "Explain the concept of 'render props' in React and provide a scenario where using them is beneficial.",
                     "description": "Question about 'render props' in React and their use cases.",
                     "hint": "Consider situations where sharing code logic between components is necessary.",
@@ -1426,7 +1461,7 @@
                     ]
                 },
                 {
-                    "id": "44",
+                    "id": "4748ce09-24cd-40cd-a5f4-bdb5bb16ed18",
                     "question": "Explain the purpose of the 'ErrorBoundary' component in React and how it can improve error handling in applications.",
                     "description": "Question about the 'ErrorBoundary' component in React and its role in error handling.",
                     "hint": "Consider scenarios where gracefully handling errors at the component level is crucial.",
@@ -1459,7 +1494,7 @@
                     ]
                 },
                 {
-                    "id": "45",
+                    "id": "2ed0153e-dba3-4e4e-a395-4f3bea0bd6f1",
                     "question": "Explain the concept of 'memoization' in React and provide a scenario where applying it is beneficial.",
                     "description": "Question about 'memoization' in React and its use cases.",
                     "hint": "Consider situations where optimizing the performance of functional components is necessary.",
@@ -1492,7 +1527,7 @@
                     ]
                 },
                 {
-                    "id": "46",
+                    "id": "c1cb515f-4c56-4b48-836e-6a3c371a3b65",
                     "question": "Discuss the role of 'React.PureComponent' in React applications and how it differs from 'React.Component'.",
                     "description": "Question about 'React.PureComponent' and its differences from 'React.Component'.",
                     "hint": "Consider scenarios where shallow comparisons of props and state are beneficial.",
@@ -1525,7 +1560,7 @@
                     ]
                 },
                 {
-                    "id": "47",
+                    "id": "a8f936f9-6b9a-47ed-bc49-28e24b1f75f9",
                     "question": "Explain the concept of 'controlled components' in React and provide a scenario where using them is advantageous.",
                     "description": "Question about 'controlled components' in React and their advantages.",
                     "hint": "Consider scenarios where precise control over form elements is essential.",
@@ -1558,7 +1593,7 @@
                     ]
                 },
                 {
-                    "id": "48",
+                    "id": "56da0cb0-b67a-4fe7-a5e9-5087911d9d12",
                     "question": "Discuss the use of 'context' in React and provide a scenario where using it is preferable over prop drilling.",
                     "description": "Question about the use of 'context' in React and its advantages over prop drilling.",
                     "hint": "Consider scenarios where passing props through multiple layers becomes cumbersome.",
@@ -1591,7 +1626,7 @@
                     ]
                 },
                 {
-                    "id": "49",
+                    "id": "62c47bf5-9c9d-4a95-8f19-d4b9d1a2ad50",
                     "question": "Explain the concept of 'higher-order components' (HOCs) in React and provide a scenario where using them is advantageous.",
                     "description": "Question about 'higher-order components' (HOCs) in React and their advantages.",
                     "hint": "Consider scenarios where code reuse and component logic abstraction are beneficial.",
@@ -1624,7 +1659,7 @@
                     ]
                 },
                 {
-                    "id": "50",
+                    "id": "f62bb416-1e3b-4873-8f8a-17a598ed0718",
                     "question": "Discuss the role of 'React.forwardRef' in React and provide a scenario where using it is beneficial.",
                     "description": "Question about 'React.forwardRef' and its use cases.",
                     "hint": "Consider situations where passing refs from parent to child components is necessary.",
