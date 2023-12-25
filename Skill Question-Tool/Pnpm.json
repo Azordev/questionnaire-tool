@@ -1,13 +1,24 @@
 {
     "skill": {
         "Pnpm": {
-            "description": "",
-            "resources": [],
-            "parents": [],
+            "description": "PNPM is an alternative package manager for Node. js which stands for “Performant NPM”. The main purpose of PNPM is to hold all the packages at a global (centralized) store and use them if needed by other projects too by creating hard links to it.Visit the following resources to learn more:",
+            "resources": [
+                {
+                    "name": "Official Website",
+                    "link": "https://pnpm.io/"
+                },
+                {
+                    "name": "Meet PNPM: The Faster, More Performant NPM",
+                    "link": "https://blog.bitsrc.io/pnpm-javascript-package-manager-4b5abd59dc9"
+                }
+            ],
+            "parents": [
+                "Package-Managers"
+            ],
             "children": [],
             "questions": [
                 {
-                    "id": "1",
+                    "id": "0ce0e520-5aae-4cd1-80c4-5b76b24492d6",
                     "question": "What is pnpm?",
                     "description": "Select the option that best describes pnpm.",
                     "hint": "Consider the purpose and functionality of pnpm.",
@@ -33,7 +44,7 @@
                     ]
                 },
                 {
-                    "id": "2",
+                    "id": "9f9eb72a-6df9-47e3-ba6f-75de79604a86",
                     "question": "What advantage does pnpm offer over other package managers?",
                     "description": "Choose the correct statement regarding the advantage of pnpm.",
                     "hint": "Consider the unique features or benefits of pnpm.",
@@ -59,7 +70,7 @@
                     ]
                 },
                 {
-                    "id": "3",
+                    "id": "6e744e07-47a3-487a-8f24-8d6aef8b3a79",
                     "question": "How can you install dependencies using pnpm?",
                     "description": "Select the correct command to install project dependencies using pnpm.",
                     "hint": "Consider the command used by pnpm for installing dependencies.",
@@ -85,7 +96,7 @@
                     ]
                 },
                 {
-                    "id": "4",
+                    "id": "6e744e07-47a3-487a-8f24-8d6aef8b3a79",
                     "question": "What is the purpose of the pnpm-lock.yaml file?",
                     "description": "Choose the correct explanation for the pnpm-lock.yaml file.",
                     "hint": "Consider the role of the lock file in package management.",
@@ -111,7 +122,7 @@
                     ]
                 },
                 {
-                    "id": "5",
+                    "id": "842c070b-07d4-4db4-9d4a-79f670dcdaf1",
                     "question": "How can you uninstall dependencies using pnpm?",
                     "description": "Select the correct command to uninstall project dependencies using pnpm.",
                     "hint": "Consider the command used by pnpm for uninstalling dependencies.",
@@ -137,7 +148,7 @@
                     ]
                 },
                 {
-                    "id": "6",
+                    "id": "c947b0c2-2b9a-4e67-9f79-7a122f90d6e2",
                     "question": "What command is used to check for outdated dependencies in pnpm?",
                     "description": "Select the correct command to check for outdated dependencies in a pnpm project.",
                     "hint": "Consider the command used by pnpm for checking outdated dependencies.",
@@ -163,7 +174,7 @@
                     ]
                 },
                 {
-                    "id": "7",
+                    "id": "5dfb9a10-1b15-4f41-996b-6f40eafedcb2",
                     "question": "What is the purpose of the pnpm-workspace.yaml file?",
                     "description": "Choose the correct explanation for the pnpm-workspace.yaml file.",
                     "hint": "Consider the role of the workspace file in pnpm.",
@@ -189,7 +200,7 @@
                     ]
                 },
                 {
-                    "id": "8",
+                    "id": "888f6239-3980-495a-9d2f-cf2d25fb71d5",
                     "question": "What is the purpose of the pnpm-link.yaml file?",
                     "description": "Choose the correct explanation for the pnpm-link.yaml file.",
                     "hint": "Consider the role of the link file in pnpm.",
@@ -215,7 +226,7 @@
                     ]
                 },
                 {
-                    "id": "9",
+                    "id": "a0905f70-b7d1-4ce7-b07a-87aa0b25cdd7",
                     "question": "How can you list installed packages in a pnpm project?",
                     "description": "Select the correct command to display a list of installed packages in a pnpm project.",
                     "hint": "Consider the command used by pnpm for listing installed packages.",
@@ -241,7 +252,7 @@
                     ]
                 },
                 {
-                    "id": "10",
+                    "id": "66f89b94-8642-42a9-9174-7d7b4cfdaeb5",
                     "question": "What is the purpose of the pnpmfile.js file?",
                     "description": "Choose the correct explanation for the pnpmfile.js file.",
                     "hint": "Consider the role of the pnpmfile.js file in pnpm projects.",
@@ -267,7 +278,7 @@
                     ]
                 },
                 {
-                    "id": "11",
+                    "id": "94d0f837-ef4f-4b4a-9c45-66e6b501e14b",
                     "question": "What command is used to display information about a specific package in a pnpm project?",
                     "description": "Select the correct command to show detailed information about a package installed in a pnpm project.",
                     "hint": "Consider how you might inspect details about a specific package.",
@@ -293,7 +304,7 @@
                     ]
                 },
                 {
-                    "id": "12",
+                    "id": "b8f4d106-e051-429e-9dd2-45d004a6d5fc",
                     "question": "How can you install a package globally using pnpm?",
                     "description": "Select the correct command to install a package globally using pnpm.",
                     "hint": "Consider how you might install a package globally with pnpm.",
@@ -319,7 +330,7 @@
                     ]
                 },
                 {
-                    "id": "13",
+                    "id": "f1d7db1f-0010-4a58-8c6b-648f2b6f1079",
                     "question": "What is the purpose of the .pnpmfile.js file?",
                     "description": "Choose the correct explanation for the .pnpmfile.js file.",
                     "hint": "Consider the role of the .pnpmfile.js file in pnpm projects.",
@@ -345,7 +356,7 @@
                     ]
                 },
                 {
-                    "id": "14",
+                    "id": "3a35e387-767e-42b9-a1c5-b8f28745bc57",
                     "question": "How can you list outdated packages and update them in a pnpm project?",
                     "description": "Select the correct command to list outdated packages and update them in a pnpm project.",
                     "hint": "Consider how you might check for outdated packages and perform updates with pnpm.",
@@ -371,7 +382,7 @@
                     ]
                 },
                 {
-                    "id": "15",
+                    "id": "0c5740f4-613c-426a-99e9-7431bcf00f13",
                     "question": "What is the purpose of the .pnpm-lock.yaml file?",
                     "description": "Choose the correct explanation for the .pnpm-lock.yaml file.",
                     "hint": "Consider the role of the lock file in package management.",
@@ -397,7 +408,7 @@
                     ]
                 },
                 {
-                    "id": "16",
+                    "id": "a2160d18-e090-44cb-9f6a-c27bb85a1c07",
                     "question": "How can you install packages from a specific registry using pnpm?",
                     "description": "Select the correct command to install packages from a registry other than the default using pnpm.",
                     "hint": "Consider how you might specify a different registry when installing packages with pnpm.",
@@ -423,7 +434,7 @@
                     ]
                 },
                 {
-                    "id": "17",
+                    "id": "3e16a2da-899f-4a45-b891-44278043c768",
                     "question": "What command is used to run a script defined in the package.json file using pnpm?",
                     "description": "Select the correct command to execute a script defined in the package.json file using pnpm.",
                     "hint": "Consider how you might run scripts in a pnpm project.",
@@ -449,7 +460,7 @@
                     ]
                 },
                 {
-                    "id": "18",
+                    "id": "77510375-5a0b-41a5-9b7d-0cf4df3676a6",
                     "question": "What is the purpose of the pnpmfile.cjs file?",
                     "description": "Choose the correct explanation for the pnpmfile.cjs file.",
                     "hint": "Consider the role of the pnpmfile.cjs file in pnpm projects.",
@@ -475,7 +486,7 @@
                     ]
                 },
                 {
-                    "id": "19",
+                    "id": "9cd64784-18e7-4ea4-bc6b-62a9fe541d3e",
                     "question": "How can you check the version of pnpm installed in your project?",
                     "description": "Select the correct command to display the version of pnpm installed in a project.",
                     "hint": "Consider how you might check the version of the pnpm package.",
@@ -501,7 +512,7 @@
                     ]
                 },
                 {
-                    "id": "20",
+                    "id": "1f39c236-0e82-4e7c-a1eb-37dd3fe5c081",
                     "question": "What is the purpose of the pnpm-workspace.yaml file?",
                     "description": "Choose the correct explanation for the pnpm-workspace.yaml file.",
                     "hint": "Consider the role of the workspace file in pnpm.",
@@ -527,7 +538,7 @@
                     ]
                 },
                 {
-                    "id": "21",
+                    "id": "77c0cfd1-eaa0-4ee4-aa7b-5290f846d035",
                     "question": "What is the purpose of the .npmrc file in a pnpm project?",
                     "description": "Choose the correct explanation for the .npmrc file.",
                     "hint": "Consider the role of configuration files in pnpm projects.",
@@ -553,7 +564,7 @@
                     ]
                 },
                 {
-                    "id": "22",
+                    "id": "926a8c0a-e56c-4c19-b688-906e713f0c5e",
                     "question": "How can you update pnpm to the latest version in your project?",
                     "description": "Select the correct command to update the pnpm version in a project.",
                     "hint": "Consider how you might upgrade the pnpm package.",
@@ -579,7 +590,7 @@
                     ]
                 },
                 {
-                    "id": "23",
+                    "id": "0c0c282b-7931-46f2-87fc-0c80ff0b303d",
                     "question": "What is the purpose of the .npmignore file in a pnpm project?",
                     "description": "Choose the correct explanation for the .npmignore file.",
                     "hint": "Consider the role of the .npmignore file in pnpm projects.",
@@ -605,7 +616,7 @@
                     ]
                 },
                 {
-                    "id": "24",
+                    "id": "01a55fc4-26db-4f35-a7d3-d69d671a8992",
                     "question": "How can you run a specific script defined in the package.json file during installation?",
                     "description": "Select the correct command to execute a specific script during package installation in a pnpm project.",
                     "hint": "Consider how you might run scripts during the installation process.",
@@ -631,7 +642,7 @@
                     ]
                 },
                 {
-                    "id": "25",
+                    "id": "3d864ad2-93c5-4609-8a95-3a2c1c7b2437",
                     "question": "What is the purpose of the .npmrc.yaml file in a pnpm project?",
                     "description": "Choose the correct explanation for the .npmrc.yaml file.",
                     "hint": "Consider the role of configuration files in pnpm projects.",
@@ -657,7 +668,7 @@
                     ]
                 },
                 {
-                    "id": "26",
+                    "id": "6e9b3f88-674d-49bf-988f-7269364fb8d5",
                     "question": "How can you create a package lock file in a pnpm project?",
                     "description": "Select the correct command to generate a lock file for the project's dependencies in pnpm.",
                     "hint": "Consider how you might create a lock file in pnpm similar to other package managers.",
@@ -683,7 +694,7 @@
                     ]
                 },
                 {
-                    "id": "27",
+                    "id": "c6fb69fe-d1f8-4c10-8e68-28f60f9c537b",
                     "question": "What is the purpose of the .pnp.js file in a pnpm project?",
                     "description": "Choose the correct explanation for the .pnp.js file.",
                     "hint": "Consider the role of the .pnp.js file in pnpm projects.",
@@ -709,7 +720,7 @@
                     ]
                 },
                 {
-                    "id": "28",
+                    "id": "9fdd7f9a-034b-4a63-81d4-b6eb12855d6e",
                     "question": "How can you uninstall a package from a pnpm project?",
                     "description": "Select the correct command to remove a package from a pnpm project.",
                     "hint": "Consider how you might uninstall a package in pnpm.",
@@ -735,7 +746,7 @@
                     ]
                 },
                 {
-                    "id": "29",
+                    "id": "a11b9994-3c6d-4a42-b485-b27a70390d46",
                     "question": "What is the purpose of the .pnpm-state.json file in a pnpm project?",
                     "description": "Choose the correct explanation for the .pnpm-state.json file.",
                     "hint": "Consider the role of the .pnpm-state.json file in pnpm projects.",
@@ -761,7 +772,7 @@
                     ]
                 },
                 {
-                    "id": "30",
+                    "id": "2ce11e9e-60ec-4081-9c67-4e4572656ac1",
                     "question": "How can you check for outdated packages without updating them in a pnpm project?",
                     "description": "Select the correct command to list outdated packages without performing updates.",
                     "hint": "Consider how you might check for outdated packages without updating them in pnpm.",
@@ -787,7 +798,7 @@
                     ]
                 },
                 {
-                    "id": "31",
+                    "id": "1c7d5752-1a54-4e14-a251-875e6f7ac62f",
                     "question": "What is the purpose of the .pnpm-store directory in a pnpm project?",
                     "description": "Choose the correct explanation for the .pnpm-store directory.",
                     "hint": "Consider the role of the .pnpm-store directory in pnpm projects.",
@@ -813,7 +824,7 @@
                     ]
                 },
                 {
-                    "id": "32",
+                    "id": "f9d1ffeb-ec68-4a8d-b292-b18e110cf33f",
                     "question": "How can you install packages using a specific version range in a pnpm project?",
                     "description": "Select the correct command to install packages with a specific version range in a pnpm project.",
                     "hint": "Consider how you might specify version ranges when installing packages with pnpm.",
@@ -839,7 +850,7 @@
                     ]
                 },
                 {
-                    "id": "33",
+                    "id": "e923cf61-9992-4f61-a3b8-6fc0f2c55f8a",
                     "question": "What is the purpose of the .yarnrc.yaml file in a pnpm project?",
                     "description": "Choose the correct explanation for the .yarnrc.yaml file.",
                     "hint": "Consider the role of configuration files in pnpm projects.",
@@ -865,7 +876,7 @@
                     ]
                 },
                 {
-                    "id": "34",
+                    "id": "079f39bd-cf90-4a72-8a6e-8c64eae65434",
                     "question": "How can you create a pnpm workspace in a project?",
                     "description": "Select the correct command to initialize a pnpm workspace.",
                     "hint": "Consider how you might set up a workspace in pnpm.",
@@ -891,7 +902,7 @@
                     ]
                 },
                 {
-                    "id": "35",
+                    "id": "27055326-5c7c-4963-95a7-5f28d848d5c8",
                     "question": "What is the purpose of the .shrinkwrap.yaml file in a pnpm project?",
                     "description": "Choose the correct explanation for the .shrinkwrap.yaml file.",
                     "hint": "Consider the role of the .shrinkwrap.yaml file in pnpm projects.",
@@ -917,7 +928,7 @@
                     ]
                 },
                 {
-                    "id": "36",
+                    "id": "606d05d4-6e9c-481c-bef9-3e5ac4a29e8a",
                     "question": "How can you install packages from a specific commit or branch using pnpm?",
                     "description": "Select the correct command to install packages from a specific commit or branch in a pnpm project.",
                     "hint": "Consider how you might specify commits or branches when installing packages with pnpm.",
@@ -943,7 +954,7 @@
                     ]
                 },
                 {
-                    "id": "37",
+                    "id": "f674f383-e30f-4e79-a3dd-cbd7e4f8bb2a",
                     "question": "What is the purpose of the .yarn directory in a pnpm project?",
                     "description": "Choose the correct explanation for the .yarn directory.",
                     "hint": "Consider the role of the .yarn directory in pnpm projects.",
@@ -969,7 +980,7 @@
                     ]
                 },
                 {
-                    "id": "38",
+                    "id": "22b48a6e-bb9a-49e8-bc46-c0fbd9970064",
                     "question": "How can you add a package as a development dependency in a pnpm project?",
                     "description": "Select the correct command to add a package as a development dependency in a pnpm project.",
                     "hint": "Consider how you might specify development dependencies when adding packages with pnpm.",
@@ -995,7 +1006,7 @@
                     ]
                 },
                 {
-                    "id": "39",
+                    "id": "58f2902c-850a-42de-bf89-6a70b42a5479",
                     "question": "What is the purpose of the .yarn-integrity file in a pnpm project?",
                     "description": "Choose the correct explanation for the .yarn-integrity file.",
                     "hint": "Consider the role of the .yarn-integrity file in pnpm projects.",
@@ -1021,7 +1032,7 @@
                     ]
                 },
                 {
-                    "id": "40",
+                    "id": "d40c16b7-1fc4-4dcd-9534-3e72d2b99a71",
                     "question": "How can you view the dependency tree of a pnpm project?",
                     "description": "Select the correct command to display the dependency tree of a pnpm project.",
                     "hint": "Consider how you might inspect the dependency tree in pnpm.",
@@ -1047,7 +1058,7 @@
                     ]
                 },
                 {
-                    "id": "41",
+                    "id": "1644ad9e-22a1-493a-b34a-2dbd3eaecc8a",
                     "question": "What is the purpose of the .lock.yaml file in a pnpm project?",
                     "description": "Choose the correct explanation for the .lock.yaml file.",
                     "hint": "Consider the role of lock files in pnpm projects.",
@@ -1073,7 +1084,7 @@
                     ]
                 },
                 {
-                    "id": "42",
+                    "id": "b51aef65-efed-4ac7-a5c8-e2e2b84db37f",
                     "question": "How can you audit the dependencies of a pnpm project for security vulnerabilities?",
                     "description": "Select the correct command to perform a security audit on a pnpm project's dependencies.",
                     "hint": "Consider how you might check for security vulnerabilities in pnpm.",
@@ -1099,7 +1110,7 @@
                     ]
                 },
                 {
-                    "id": "43",
+                    "id": "2d5ebecc-1342-4a76-87d5-5d4f5a878f5e",
                     "question": "What is the purpose of the .hooks directory in a pnpm project?",
                     "description": "Choose the correct explanation for the .hooks directory.",
                     "hint": "Consider the role of the .hooks directory in pnpm projects.",
@@ -1125,7 +1136,7 @@
                     ]
                 },
                 {
-                    "id": "44",
+                    "id": "e01a6784-3c15-42ae-92a2-99376b17b7b1",
                     "question": "How can you create a custom .pnp.js file in a pnpm project?",
                     "description": "Select the correct command to generate a custom .pnp.js file.",
                     "hint": "Consider how you might create a custom .pnp.js file in pnpm.",
@@ -1151,7 +1162,7 @@
                     ]
                 },
                 {
-                    "id": "45",
+                    "id": "8d9995a5-0e5b-4a69-b5de-fa3f102e5ee1",
                     "question": "How can you clean the store of a pnpm project, removing unreferenced packages?",
                     "description": "Select the correct command to clean the store and remove unreferenced packages in a pnpm project.",
                     "hint": "Consider how you might clean the store in pnpm.",
@@ -1177,7 +1188,7 @@
                     ]
                 },
                 {
-                    "id": "46",
+                    "id": "8b69e007-8ec4-48aa-9107-3f3dd9d1a706",
                     "question": "What is the purpose of the .yarn-cache directory in a pnpm project?",
                     "description": "Choose the correct explanation for the .yarn-cache directory.",
                     "hint": "Consider the role of the .yarn-cache directory in pnpm projects.",
@@ -1203,7 +1214,7 @@
                     ]
                 },
                 {
-                    "id": "47",
+                    "id": "b49ed250-50e7-4873-bc72-df04e4a5d4c9",
                     "question": "How can you configure a custom registry for pnpm?",
                     "description": "Select the correct command to set up a custom registry for a pnpm project.",
                     "hint": "Consider how you might configure custom registries in pnpm.",
@@ -1229,33 +1240,7 @@
                     ]
                 },
                 {
-                    "id": "47",
-                    "question": "How can you configure a custom registry for pnpm?",
-                    "description": "Select the correct command to set up a custom registry for a pnpm project.",
-                    "hint": "Consider how you might configure custom registries in pnpm.",
-                    "options": [
-                        {
-                            "label": "A",
-                            "description": "pnpm config set registry <registry-url>",
-                            "points": 3,
-                            "explanation": "Correct! 'pnpm config set registry <registry-url>' configures a custom registry for a pnpm project."
-                        },
-                        {
-                            "label": "B",
-                            "description": "pnpm set registry <registry-url>",
-                            "points": 0,
-                            "explanation": "Incorrect. The correct command is 'pnpm config set registry <registry-url>' for configuring a custom registry."
-                        },
-                        {
-                            "label": "C",
-                            "description": "pnpm registry set <registry-url>",
-                            "points": 0,
-                            "explanation": "Incorrect. The correct command is 'pnpm config set registry <registry-url>' for configuring a custom registry."
-                        }
-                    ]
-                },
-                {
-                    "id": "48",
+                    "id": "b13be27e-6a7a-4071-82fb-c90c2a59f54b",
                     "question": "How can you configure the location of the pnpm store in a project?",
                     "description": "Select the correct command to set the location of the pnpm store for a project.",
                     "hint": "Consider how you might configure the store location in pnpm.",
@@ -1281,7 +1266,7 @@
                     ]
                 },
                 {
-                    "id": "49",
+                    "id": "0017f6d2-d7f4-4a6a-927c-3df6e0c781a6",
                     "question": "What is the purpose of the .yarn-hooks directory in a pnpm project?",
                     "description": "Choose the correct explanation for the .yarn-hooks directory.",
                     "hint": "Consider the role of the .yarn-hooks directory in pnpm projects.",
@@ -1307,7 +1292,7 @@
                     ]
                 },
                 {
-                    "id": "50",
+                    "id": "26eb416f-b8cf-4ec0-b3f5-8c3db70285a2",
                     "question": "How can you install packages in a pnpm project without saving them to the 'dependencies' or 'devDependencies'?",
                     "description": "Select the correct command to install packages without adding them to 'dependencies' or 'devDependencies' in a pnpm project.",
                     "hint": "Consider how you might install packages without affecting the project's dependency lists in pnpm.",
