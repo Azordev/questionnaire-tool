@@ -1,13 +1,36 @@
 {
     "skill": {
         "Npm": {
-            "description": "",
-            "resources": [],
-            "parents": [],
+            "description": "npm is a package manager for the JavaScript programming language maintained by npm, Inc. npm is the default package manager for the JavaScript runtime environment Node.js.Visit the following resources to learn more:",
+            "resources": [
+                {
+                    "name": "Modern JavaScript for Dinosaurs",
+                    "link": "https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html"
+                },
+                {
+                    "name": "An Absolute Beginners Guide to Using npm",
+                    "link": "https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/"
+                },
+                {
+                    "name": "How to NPM",
+                    "link": "https://github.com/workshopper/how-to-npm"
+                },
+                {
+                    "name": "NPM tutorial for Beginners",
+                    "link": "https://www.youtube.com/watch?v=2V1UUhBJ62Y"
+                },
+                {
+                    "name": "NPM Crash Course",
+                    "link": "https://www.youtube.com/watch?v=jHDhaSSKmB0"
+                }
+            ],
+            "parents": [
+                "Package-Managers"
+            ],
             "children": [],
             "questions": [
                 {
-                    "id": "1",
+                    "id": "4c8da16f-2e3e-4e07-85bf-9f15e067408a",
                     "question": "What does npm stand for?",
                     "description": "Choose the correct answer.",
                     "hint": "Think about the role of npm in managing Node.js packages.",
@@ -33,7 +56,7 @@
                     ]
                 },
                 {
-                    "id": "2",
+                    "id": "1a3f6483-5933-4d93-a8c0-3db9a21f7cb5",
                     "question": "How do you install a package globally using npm?",
                     "description": "Choose the correct answer.",
                     "hint": "Consider the command structure for global installations.",
@@ -59,7 +82,7 @@
                     ]
                 },
                 {
-                    "id": "3",
+                    "id": "9bcae148-6833-4e88-bdbd-ff53f7369fc7",
                     "question": "What command is used to initialize a new npm package?",
                     "description": "Choose the correct answer to initialize a new project with npm.",
                     "hint": "Think about the first step you take when starting a new Node.js project.",
@@ -85,7 +108,7 @@
                     ]
                 },
                 {
-                    "id": "4",
+                    "id": "12b553d9-cd2b-4a52-af52-9b4f8fc47122",
                     "question": "What file is commonly used to manage project dependencies in an npm package?",
                     "description": "Choose the correct file for managing dependencies in an npm project.",
                     "hint": "Consider the file where you list your project's dependencies.",
@@ -111,7 +134,7 @@
                     ]
                 },
                 {
-                    "id": "5",
+                    "id": "95f740b7-7c99-4979-bb2f-15c86f1a92db",
                     "question": "How do you uninstall a global npm package?",
                     "description": "Choose the correct command to uninstall a globally installed npm package.",
                     "hint": "Think about the opposite action of installing a global package.",
@@ -137,7 +160,7 @@
                     ]
                 },
                 {
-                    "id": "6",
+                    "id": "7d0a1c06-0077-4c73-8b14-8f2c22a8f194",
                     "question": "What npm command is used to show information about a specific package?",
                     "description": "Choose the correct command to get details about a particular npm package.",
                     "hint": "Consider how you might inspect a package before installing it.",
@@ -163,7 +186,7 @@
                     ]
                 },
                 {
-                    "id": "7",
+                    "id": "c299a5a0-25f1-4a68-8e44-11b0d738ef89",
                     "question": "What npm command is used to run scripts defined in the package.json file?",
                     "description": "Choose the correct command to execute scripts specified in the package.json file.",
                     "hint": "Think about how you execute custom scripts defined in your project.",
@@ -189,7 +212,7 @@
                     ]
                 },
                 {
-                    "id": "8",
+                    "id": "8a7f3d21-8427-4968-8b2e-aaeb42e9f8aa",
                     "question": "Which npm command is used to update all packages to their latest version?",
                     "description": "Choose the correct command to update all packages to their latest versions.",
                     "hint": "Consider how you might keep your project's dependencies up to date.",
@@ -215,7 +238,7 @@
                     ]
                 },
                 {
-                    "id": "9",
+                    "id": "89c0774a-14b5-4e7e-bb3d-18a855f5c345",
                     "question": "What does the --save flag do when installing a package using npm?",
                     "description": "Choose the correct explanation for the --save flag when installing npm packages.",
                     "hint": "Consider the historical significance of the --save flag in npm installations.",
@@ -241,7 +264,7 @@
                     ]
                 },
                 {
-                    "id": "10",
+                    "id": "64e6fb4d-5a5c-4e3b-8c9c-8f01e4c0c692",
                     "question": "How do you check the installed version of npm on your system?",
                     "description": "Choose the correct command to check the installed version of npm.",
                     "hint": "Think about how you might query the version of npm installed on your machine.",
@@ -267,7 +290,7 @@
                     ]
                 },
                 {
-                    "id": "11",
+                    "id": "384be439-12bb-48f0-bd3a-61eb1e6eb972",
                     "question": "What command is used to install a specific version of an npm package?",
                     "description": "Choose the correct command to install a specific version of a package.",
                     "hint": "Consider how you might specify a version when installing a package.",
@@ -293,7 +316,7 @@
                     ]
                 },
                 {
-                    "id": "12",
+                    "id": "3acbc19a-e768-4ac1-bf56-6a93e0da44c7",
                     "question": "What does the --save-dev flag do when installing a package using npm?",
                     "description": "Choose the correct explanation for the --save-dev flag.",
                     "hint": "Consider the purpose of development dependencies in a project.",
@@ -319,7 +342,7 @@
                     ]
                 },
                 {
-                    "id": "13",
+                    "id": "2f58e12c-78cc-4aaf-9b2c-65c59e2c3c11",
                     "question": "What npm command is used to list installed packages and their versions?",
                     "description": "Choose the correct command to display a list of installed packages.",
                     "hint": "Consider how you might inspect the current state of your project's dependencies.",
@@ -345,7 +368,7 @@
                     ]
                 },
                 {
-                    "id": "14",
+                    "id": "0d1232f9-cdb8-45fb-9e64-4b94268cf652",
                     "question": "What npm command is used to update a package to its latest version?",
                     "description": "Choose the correct command to update a package to its latest version.",
                     "hint": "Think about how you might update a specific package in your project.",
@@ -371,7 +394,7 @@
                     ]
                 },
                 {
-                    "id": "15",
+                    "id": "4d822831-ae6b-4d9e-9e9b-e6a65f18e997",
                     "question": "What npm command is used to uninstall a package from a project?",
                     "description": "Choose the correct command to remove a package from your project.",
                     "hint": "Consider how you might remove a package you no longer need.",
@@ -397,7 +420,7 @@
                     ]
                 },
                 {
-                    "id": "16",
+                    "id": "4fb1d42a-c29d-4e48-9e50-9e8aee70c916",
                     "question": "What npm command is used to run a script defined in package.json?",
                     "description": "Choose the correct command to execute a custom script from your package.json file.",
                     "hint": "Consider how you might execute custom scripts defined in your project.",
@@ -423,7 +446,7 @@
                     ]
                 },
                 {
-                    "id": "17",
+                    "id": "3cb09235-3511-4fc8-8db9-d8f3e0414d2c",
                     "question": "How can you see the details of a locally installed npm package?",
                     "description": "Choose the correct command to view details of a package installed in your project.",
                     "hint": "Think about how you might inspect the details of a locally installed package.",
@@ -449,7 +472,7 @@
                     ]
                 },
                 {
-                    "id": "18",
+                    "id": "89a65c3e-05af-4a49-8d1e-25b0e4f44c50",
                     "question": "What npm command is used to install packages listed in package.json?",
                     "description": "Choose the correct command to install dependencies specified in your project's package.json file.",
                     "hint": "Consider how you might install the dependencies listed in your project.",
@@ -475,7 +498,7 @@
                     ]
                 },
                 {
-                    "id": "19",
+                    "id": "53a02f62-34d4-4998-8b2a-ba257841f06c",
                     "question": "What npm command is used to install a package and save it as a development dependency?",
                     "description": "Choose the correct command to install a package as a development dependency.",
                     "hint": "Consider how you might install packages specifically for development purposes.",
@@ -501,7 +524,7 @@
                     ]
                 },
                 {
-                    "id": "20",
+                    "id": "f43e61ae-8d8f-4648-b8ea-1a4b4713a5bf",
                     "question": "What npm command is used to install packages globally?",
                     "description": "Choose the correct command to install packages globally.",
                     "hint": "Consider how you might install packages so they are accessible across different projects.",
@@ -527,7 +550,7 @@
                     ]
                 },
                 {
-                    "id": "21",
+                    "id": "7897e5f2-16d7-4541-8f39-1c74c8cf0b1f",
                     "question": "What npm command is used to install packages and save them as development dependencies?",
                     "description": "Choose the correct command to install packages and save them as development dependencies.",
                     "hint": "Consider how you might install packages specifically for development purposes.",
@@ -553,7 +576,7 @@
                     ]
                 },
                 {
-                    "id": "22",
+                    "id": "d10b50ef-d3da-46e9-9f52-8e9a02160114",
                     "question": "What npm command is used to update all packages, including their dependencies, to their latest versions?",
                     "description": "Choose the correct command to update all packages, including their dependencies, to their latest versions.",
                     "hint": "Consider how you might ensure all packages in your project are up to date.",
@@ -579,7 +602,7 @@
                     ]
                 },
                 {
-                    "id": "23",
+                    "id": "3e6dce9e-7a5f-4bc5-b81c-65f3ff271631",
                     "question": "What npm command is used to uninstall a development dependency?",
                     "description": "Choose the correct command to uninstall a package that is a development dependency.",
                     "hint": "Think about how you might remove a package that was installed for development purposes.",
@@ -605,7 +628,7 @@
                     ]
                 },
                 {
-                    "id": "24",
+                    "id": "76fb1791-0a4a-4473-98a1-8a0f7bb44fbd",
                     "question": "What npm command is used to check for outdated packages in your project?",
                     "description": "Choose the correct command to check for outdated packages in your project.",
                     "hint": "Consider how you might identify packages that have newer versions available.",
@@ -631,7 +654,7 @@
                     ]
                 },
                 {
-                    "id": "25",
+                    "id": "8e7711a1-2c25-4613-83a0-1b2f1d29d6ad",
                     "question": "What npm command is used to install packages from a specific registry?",
                     "description": "Choose the correct command to install packages from a registry other than the default.",
                     "hint": "Consider how you might specify a different registry when installing packages.",
@@ -657,7 +680,7 @@
                     ]
                 },
                 {
-                    "id": "26",
+                    "id": "9a61d74c-9d26-4329-b063-00c50e3487a2",
                     "question": "What npm command is used to create a package.json file interactively?",
                     "description": "Choose the correct command to create a package.json file interactively.",
                     "hint": "Think about how you might initialize a new project and answer questions about its configuration.",
@@ -683,7 +706,7 @@
                     ]
                 },
                 {
-                    "id": "27",
+                    "id": "e8f6eb42-c214-46a9-8c74-79fbf8a02b7a",
                     "question": "What npm command is used to display a list of globally installed packages?",
                     "description": "Choose the correct command to show a list of packages installed globally on your system.",
                     "hint": "Consider how you might inspect globally installed packages.",
@@ -709,7 +732,7 @@
                     ]
                 },
                 {
-                    "id": "28",
+                    "id": "735e8992-85d2-4655-af26-5a54f650ff0a",
                     "question": "What npm command is used to clean the cache of installed packages?",
                     "description": "Choose the correct command to clean the npm cache.",
                     "hint": "Consider how you might free up disk space by removing cached packages.",
@@ -735,7 +758,7 @@
                     ]
                 },
                 {
-                    "id": "29",
+                    "id": "3b1f3b22-f36d-45df-a693-83e045c54f1d",
                     "question": "What npm command is used to install a package and save it as a peer dependency?",
                     "description": "Choose the correct command to install a package and save it as a peer dependency.",
                     "hint": "Consider how you might specify a peer dependency when installing a package.",
@@ -761,7 +784,7 @@
                     ]
                 },
                 {
-                    "id": "30",
+                    "id": "2a1e1b0a-7ac5-4b96-8070-5d7693303c4d",
                     "question": "What npm command is used to install packages from a package-lock.json file?",
                     "description": "Choose the correct command to install packages based on the dependencies listed in package-lock.json.",
                     "hint": "Consider how you might install packages according to a lock file.",
@@ -787,7 +810,7 @@
                     ]
                 },
                 {
-                    "id": "31",
+                    "id": "d8d9e4ed-9073-4b7e-88b8-1502d9e3b97c",
                     "question": "What npm command is used to publish a package to the npm registry?",
                     "description": "Choose the correct command to publish a package to the npm registry.",
                     "hint": "Consider how you might share your package with others on the npm registry.",
@@ -813,7 +836,7 @@
                     ]
                 },
                 {
-                    "id": "32",
+                    "id": "97d97ea6-21b1-4620-8c0a-b5e0f16d4407",
                     "question": "What is the purpose of the prepublish script in package.json?",
                     "description": "Choose the correct explanation for the prepublish script in package.json.",
                     "hint": "Consider when the prepublish script is executed in the npm package lifecycle.",
@@ -839,7 +862,7 @@
                     ]
                 },
                 {
-                    "id": "33",
+                    "id": "27e01232-c852-49f0-88c4-0663906e31aa",
                     "question": "What npm command is used to run a script defined as a lifecycle event?",
                     "description": "Choose the correct command to execute a script defined as a lifecycle event in package.json.",
                     "hint": "Consider how you might run scripts defined in the npm package lifecycle.",
@@ -865,7 +888,7 @@
                     ]
                 },
                 {
-                    "id": "34",
+                    "id": "2bfb60e1-5f85-42a4-8a63-d5e30103ba29",
                     "question": "What npm command is used to view the contents of a specific package in the npm registry?",
                     "description": "Choose the correct command to inspect the contents of a package in the npm registry.",
                     "hint": "Consider how you might gather information about a package without installing it.",
@@ -891,7 +914,7 @@
                     ]
                 },
                 {
-                    "id": "35",
+                    "id": "2f833b68-7aeb-4e37-84cb-9c2d05ef8711",
                     "question": "What npm command is used to install a package globally and save it as a development dependency?",
                     "description": "Choose the correct command to install a package globally and save it as a development dependency.",
                     "hint": "Consider how you might install global packages for development purposes.",
@@ -917,7 +940,7 @@
                     ]
                 },
                 {
-                    "id": "36",
+                    "id": "9255e8d2-44da-4fc1-9817-4e08a641cf58",
                     "question": "What is the purpose of the 'files' field in package.json?",
                     "description": "Choose the correct explanation for the 'files' field in package.json.",
                     "hint": "Consider how the 'files' field affects what gets included when the package is packed or published.",
@@ -943,7 +966,7 @@
                     ]
                 },
                 {
-                    "id": "37",
+                    "id": "46d9e2c8-18a7-41ed-99d1-81e7a6ac2b6d",
                     "question": "What npm command is used to update a package to its latest version?",
                     "description": "Choose the correct command to update a package to its latest version.",
                     "hint": "Consider how you might ensure a package is using the latest available version.",
@@ -969,7 +992,7 @@
                     ]
                 },
                 {
-                    "id": "38",
+                    "id": "3669a2eb-e04e-4d2a-987a-9e8d0c49c56d",
                     "question": "What npm command is used to create a new package version and update the package.json and package-lock.json files?",
                     "description": "Choose the correct command to create a new package version and update the package.json and package-lock.json files.",
                     "hint": "Consider how you might bump the version of your package and update related files.",
@@ -995,7 +1018,7 @@
                     ]
                 },
                 {
-                    "id": "39",
+                    "id": "42ab447c-063f-45f8-bd85-83822d4e1531",
                     "question": "What is the purpose of the 'shrinkwrap' feature in npm?",
                     "description": "Choose the correct explanation for the 'shrinkwrap' feature in npm.",
                     "hint": "Consider how 'shrinkwrap' helps ensure consistent installations across different environments.",
@@ -1021,7 +1044,7 @@
                     ]
                 },
                 {
-                    "id": "40",
+                    "id": "eeb1b994-1455-4672-a9cb-c9e43fc8330f",
                     "question": "What npm command is used to uninstall a global package?",
                     "description": "Choose the correct command to uninstall a package that was installed globally.",
                     "hint": "Consider how you might remove a global package from your system.",
@@ -1047,7 +1070,7 @@
                     ]
                 },
                 {
-                    "id": "41",
+                    "id": "31e3a64d-efc8-4cfc-97d8-3a903409c767",
                     "question": "What npm command is used to run a script in the context of the current project?",
                     "description": "Choose the correct command to execute a script within the context of the current project.",
                     "hint": "Consider how you might run a script defined in the current project's package.json.",
@@ -1073,7 +1096,7 @@
                     ]
                 },
                 {
-                    "id": "42",
+                    "id": "63cf079d-1b93-4f5e-b871-32213d17a3cc",
                     "question": "What is the purpose of the 'preinstall' script in package.json?",
                     "description": "Choose the correct explanation for the 'preinstall' script in package.json.",
                     "hint": "Consider when the 'preinstall' script is executed in the npm package lifecycle.",
@@ -1099,7 +1122,7 @@
                     ]
                 },
                 {
-                    "id": "43",
+                    "id": "22c5ebed-457b-4aa7-af48-9d30df3f697e",
                     "question": "What npm command is used to check for security vulnerabilities in your project's dependencies?",
                     "description": "Choose the correct command to scan for security vulnerabilities in your project's dependencies.",
                     "hint": "Consider how you might ensure the security of your project by checking for vulnerabilities.",
@@ -1125,7 +1148,7 @@
                     ]
                 },
                 {
-                    "id": "44",
+                    "id": "71f35ea1-09e7-4312-bf44-29f9c24bc6b5",
                     "question": "What is the purpose of the 'prepare' script in package.json?",
                     "description": "Choose the correct explanation for the 'prepare' script in package.json.",
                     "hint": "Consider when the 'prepare' script is executed in the npm package lifecycle.",
@@ -1151,7 +1174,7 @@
                     ]
                 },
                 {
-                    "id": "45",
+                    "id": "50c30af4-e4f8-42c1-88f9-e81b2b6cde75",
                     "question": "What npm command is used to install a specific version of a package?",
                     "description": "Choose the correct command to install a package at a specific version.",
                     "hint": "Consider how you might specify the version of a package to install.",
@@ -1177,7 +1200,7 @@
                     ]
                 },
                 {
-                    "id": "46",
+                    "id": "3f19582d-224d-41cb-9f87-d5bc4b5d867d",
                     "question": "What npm command is used to list the scripts defined in the package.json file?",
                     "description": "Choose the correct command to display a list of scripts defined in package.json.",
                     "hint": "Consider how you might inspect the available scripts in a project.",
@@ -1203,7 +1226,7 @@
                     ]
                 },
                 {
-                    "id": "47",
+                    "id": "6188d4c1-7572-41d4-9a65-65f8da6e0d9e",
                     "question": "What is the purpose of the 'files' field in package.json?",
                     "description": "Choose the correct explanation for the 'files' field in package.json.",
                     "hint": "Consider how the 'files' field affects what gets included when the package is packed or published.",
@@ -1229,7 +1252,7 @@
                     ]
                 },
                 {
-                    "id": "48",
+                    "id": "c0d94487-35d4-415a-8df7-587d5837bea9",
                     "question": "What npm command is used to update all packages to their latest versions based on the version range specified in package.json?",
                     "description": "Choose the correct command to update all packages to their latest versions based on the version range.",
                     "hint": "Consider how you might update packages while respecting the version constraints in package.json.",
@@ -1255,7 +1278,7 @@
                     ]
                 },
                 {
-                    "id": "49",
+                    "id": "95e28b6a-6e6f-4a8f-ba6d-14f7337031f8",
                     "question": "What is the purpose of the 'postpublish' script in package.json?",
                     "description": "Choose the correct explanation for the 'postpublish' script in package.json.",
                     "hint": "Consider when the 'postpublish' script is executed in the npm package lifecycle.",
@@ -1281,7 +1304,7 @@
                     ]
                 },
                 {
-                    "id": "50",
+                    "id": "2e8e22ea-134a-4cb1-bc92-41d94a398579",
                     "question": "What npm command is used to install packages from a specific registry?",
                     "description": "Choose the correct command to install packages from a registry other than the default npm registry.",
                     "hint": "Consider how you might specify a different registry when installing packages.",
