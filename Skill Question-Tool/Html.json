@@ -45,7 +45,7 @@
                 "frontend"
             ],
             "children": [
-                "leran-the-basics",
+                "learn-the-basics",
                 "writing-semantic-html",
                 "forms-and-validations",
                 "accessibility",
