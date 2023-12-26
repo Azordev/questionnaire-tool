@@ -1,6 +1,7 @@
 {
     "skill": {
         "css": {
+            "id": "css",
             "description": "CSS or Cascading Style Sheets is the language used to style the frontend of any website. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.Visit the following resources to learn more:",
             "resources": [
                 {
@@ -68,8 +69,14 @@
                     "link": "https://www.scaler.com/topics/css"
                 }
             ],
-            "parents": [],
-            "children": [],
+            "parents": [
+                "frontend"
+            ],
+            "children": [
+                "learn-the-basics",
+                "making-layouts",
+                "responsive-design"
+            ],
             "questions": [
                 {
                     "id": "d142eb02-3f90-4ccf-82e3-940d7b10a5a5",
