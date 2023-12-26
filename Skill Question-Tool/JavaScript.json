@@ -1,6 +1,7 @@
 {
     "skill": {
         "JavaScript": {
+            "id": "javascript",
             "description": "JavaScript allows you to add interactivity to your pages. Common examples that you may have seen on the websites are sliders, click interactions, popups and so on.Visit the following resources to learn more: ",
             "resources": [
                 {
@@ -48,8 +49,14 @@
                     "link": "https://www.scaler.com/topics/course/javascript-beginners"
                 }
             ],
-            "parents": [],
-            "children": [],
+            "parents": [
+                "frontend"
+            ],
+            "children": [
+                "learn-the-basics",
+                "learn-dom-manipulation",
+                "fetch-api/ajax(xhr)"
+            ],
             "questions": [
                 {
                     "id": "2e5d4f84-2c7b-4a85-9315-94db9a9d7c22",
