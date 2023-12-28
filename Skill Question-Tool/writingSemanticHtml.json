@@ -1,7 +1,7 @@
 {
     "skill": {
         "writingSemanticHtml": {
-            "id": "writing-Semantic-Html",
+            "id": "writing-semantic-html",
             "description": "Semantic element clearly describes its meaning to both the browser and the developer. In HTML, semantic element are the type of elements that can be used to define different parts of a web page such as <form>, <table>, <article>, <header>, <footer>, etc.Visit the following resources to learn more:",
             "resources": [
                 {
