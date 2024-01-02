@@ -26,7 +26,7 @@
                 }
             ],
             "parents": [
-                "Package-Managers"
+                "package-managers"
             ],
             "children": [],
             "questions": [

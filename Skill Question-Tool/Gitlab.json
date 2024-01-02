@@ -18,7 +18,7 @@
                 }
             ],
             "parents": [
-                "VCS-Hosting"
+                "vcs-hosting"
             ],
             "children": [],
             "questions": [
