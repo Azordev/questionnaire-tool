@@ -50,8 +50,11 @@
                 }
             ],
             "parents": [
-                "frontend"
-            ],
+                "frontend",
+                "learn-a-language",
+                "supporting-languages",
+                "learn-a-programming-anguage",
+                "fullstack"            ],
             "children": [
                 "learn-the-basics",
                 "learn-dom-manipulation",

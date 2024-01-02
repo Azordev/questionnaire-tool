@@ -35,7 +35,9 @@
             ],
             "parents": [
                 "pick-a-framework",
-                "server-side-rendering"
+                "server-side-rendering",
+                "fullstack",
+                "blockchain"
             ],
             "children": [
                 "next.js",
