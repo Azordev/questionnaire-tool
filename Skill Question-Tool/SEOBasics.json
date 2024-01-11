@@ -43,6 +43,7 @@
                     "question": "What does SEO stand for?",
                     "description": "Select the correct expansion for the abbreviation SEO.",
                     "hint": "Check the common abbreviation used in the context of website optimization.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -69,6 +70,7 @@
                     "question": "Why is SEO important for websites?",
                     "description": "Select the option that best describes the importance of SEO for websites.",
                     "hint": "Consider how SEO impacts the visibility of a website on search engines.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -95,6 +97,7 @@
                     "question": "What is the goal of SEO?",
                     "description": "Select the option that best describes the goal of SEO.",
                     "hint": "Consider what website optimization aims to achieve in terms of search engine visibility.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -121,6 +124,7 @@
                     "question": "Which search engines are commonly targeted in SEO?",
                     "description": "Select the option that lists common search engines targeted in SEO.",
                     "hint": "Consider popular search engines used globally.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -147,6 +151,7 @@
                     "question": "What does improved SEO contribute to for websites?",
                     "description": "Select the option that describes a benefit of improved SEO for websites.",
                     "hint": "Consider the positive outcomes associated with effective SEO strategies.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -173,6 +178,7 @@
                     "question": "Which of the following is a common SEO practice?",
                     "description": "Select the option that represents a common practice in the field of SEO.",
                     "hint": "Consider activities that contribute to optimizing a website for search engines.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -199,6 +205,7 @@
                     "question": "What is the purpose of using keywords in SEO?",
                     "description": "Select the option that best describes the purpose of using keywords in SEO.",
                     "hint": "Consider how keywords are utilized to improve search engine rankings.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -225,6 +232,7 @@
                     "question": "What is the role of backlinks in SEO?",
                     "description": "Select the option that describes the role of backlinks in the context of SEO.",
                     "hint": "Consider how backlinks contribute to the credibility and authority of a website.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -251,6 +259,7 @@
                     "question": "What is the purpose of meta tags in SEO?",
                     "description": "Select the option that best describes the purpose of meta tags in the context of SEO.",
                     "hint": "Consider how meta tags provide information about a webpage to search engines.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -277,6 +286,7 @@
                     "question": "What is the purpose of an XML sitemap in SEO?",
                     "description": "Select the option that best describes the purpose of an XML sitemap in the context of SEO.",
                     "hint": "Consider how XML sitemaps assist search engines in understanding the structure of a website.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -303,6 +313,7 @@
                     "question": "How can the 'title' tag in HTML contribute to SEO?",
                     "description": "Select the option that best describes the role of the 'title' tag in HTML for SEO.",
                     "hint": "Consider how the 'title' tag provides a concise and descriptive title for a webpage.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -329,6 +340,7 @@
                     "question": "What is the purpose of the 'alt' attribute in HTML images for SEO?",
                     "description": "Select the option that best describes the role of the 'alt' attribute in HTML images for SEO.",
                     "hint": "Consider how the 'alt' attribute provides alternative text for images, aiding accessibility and SEO.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -355,6 +367,7 @@
                     "question": "How does using semantic HTML tags benefit SEO?",
                     "description": "Select the option that best describes the benefit of using semantic HTML tags for SEO.",
                     "hint": "Consider how semantic HTML tags contribute to the structure and meaning of content.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -381,6 +394,7 @@
                     "question": "What is the role of the 'meta' tag in HTML for SEO?",
                     "description": "Select the option that best describes the role of the 'meta' tag in HTML for SEO.",
                     "hint": "Consider how the 'meta' tag provides metadata about a webpage.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -407,6 +421,7 @@
                     "question": "How can using descriptive anchor text in HTML links benefit SEO?",
                     "description": "Select the option that best describes the benefit of using descriptive anchor text in HTML links for SEO.",
                     "hint": "Consider how descriptive anchor text provides context and relevance to linked content.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -433,6 +448,7 @@
                     "question": "Why is it important to have a clear HTML structure for SEO?",
                     "description": "Select the option that best describes the importance of having a clear HTML structure for SEO.",
                     "hint": "Consider how a clear HTML structure enhances the understanding of content by search engines.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -459,6 +475,7 @@
                     "question": "What role do header tags (h1, h2, h3, etc.) play in HTML for SEO?",
                     "description": "Select the option that best describes the role of header tags (h1, h2, h3, etc.) in HTML for SEO.",
                     "hint": "Consider how header tags contribute to the hierarchical structure and organization of content.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -485,6 +502,7 @@
                     "question": "How can the 'rel' attribute in HTML links impact SEO?",
                     "description": "Select the option that best describes the impact of the 'rel' attribute in HTML links on SEO.",
                     "hint": "Consider how the 'rel' attribute provides additional information about the relationship between linked pages.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -511,6 +529,7 @@
                     "question": "How does the 'lang' attribute in HTML contribute to SEO?",
                     "description": "Select the option that best describes the role of the 'lang' attribute in HTML for SEO.",
                     "hint": "Consider how the 'lang' attribute specifies the language of the content, aiding search engines in understanding the context.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -537,6 +556,7 @@
                     "question": "How can using the 'nofollow' attribute in HTML links impact SEO?",
                     "description": "Select the option that best describes the impact of the 'nofollow' attribute in HTML links on SEO.",
                     "hint": "Consider how the 'nofollow' attribute instructs search engines not to follow a specific link.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -563,6 +583,7 @@
                     "question": "Why is it important to have descriptive file names for images in terms of SEO?",
                     "description": "Select the option that best describes the importance of having descriptive file names for images in terms of SEO.",
                     "hint": "Consider how descriptive file names provide context and relevance to image content.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -589,6 +610,7 @@
                     "question": "How does the 'defer' attribute in the 'script' tag impact SEO?",
                     "description": "Select the option that best describes the impact of the 'defer' attribute in the 'script' tag on SEO.",
                     "hint": "Consider how the 'defer' attribute influences the loading of JavaScript and its effect on page rendering.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -615,6 +637,7 @@
                     "question": "How can the 'robots' meta tag be used for SEO purposes?",
                     "description": "Select the option that best describes how the 'robots' meta tag can be used for SEO purposes.",
                     "hint": "Consider how the 'robots' meta tag controls search engine indexing and crawling.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -641,6 +664,7 @@
                     "question": "How does the 'canonical' link element contribute to SEO?",
                     "description": "Select the option that best describes how the 'canonical' link element contributes to SEO.",
                     "hint": "Consider how the 'canonical' link element helps avoid duplicate content issues.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -667,6 +691,7 @@
                     "question": "How does the 'nofollow' attribute impact SEO when applied to a link?",
                     "description": "Select the option that best describes how the 'nofollow' attribute impacts SEO when applied to a link.",
                     "hint": "Consider how the 'nofollow' attribute controls whether search engines should follow a specific link.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -693,6 +718,7 @@
                     "question": "Why is it important to use responsive design for a website's mobile version in terms of SEO?",
                     "description": "Select the option that best describes the importance of using responsive design for a website's mobile version in terms of SEO.",
                     "hint": "Consider how responsive design improves user experience on mobile devices, impacting SEO positively.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -719,6 +745,7 @@
                     "question": "How does the 'meta' tag with the 'viewport' attribute impact SEO for mobile-friendly websites?",
                     "description": "Select the option that best describes how the 'meta' tag with the 'viewport' attribute impacts SEO for mobile-friendly websites.",
                     "hint": "Consider how the 'viewport' attribute influences the display of web pages on mobile devices.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -745,6 +772,7 @@
                     "question": "How does the 'alt' attribute in HTML images contribute to SEO for visually impaired users?",
                     "description": "Select the option that best describes how the 'alt' attribute in HTML images contributes to SEO for visually impaired users.",
                     "hint": "Consider how the 'alt' attribute provides alternative text for images, aiding accessibility and positively impacting SEO.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -771,6 +799,7 @@
                     "question": "How does the 'aria-label' attribute contribute to SEO for accessible websites?",
                     "description": "Select the option that best describes how the 'aria-label' attribute contributes to SEO for accessible websites.",
                     "hint": "Consider how the 'aria-label' attribute provides additional information for screen readers, aiding accessibility and SEO.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -797,6 +826,7 @@
                     "question": "How can using descriptive anchor text in HTML links benefit SEO for visually impaired users?",
                     "description": "Select the option that best describes how using descriptive anchor text in HTML links benefits SEO for visually impaired users.",
                     "hint": "Consider how descriptive anchor text provides context and relevance to linked content for all users, including those with visual impairments.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -823,6 +853,7 @@
                     "question": "How does the use of '301 redirects' impact SEO for a website?",
                     "description": "Select the option that best describes how the use of '301 redirects' impacts SEO for a website.",
                     "hint": "Consider how '301 redirects' inform search engines about permanent changes to URL locations.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -849,6 +880,7 @@
                     "question": "What is the significance of the 'sitemap.xml' file for SEO?",
                     "description": "Select the option that best describes the significance of the 'sitemap.xml' file for SEO.",
                     "hint": "Consider how the 'sitemap.xml' file provides a list of URLs to help search engines crawl and index a website.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -875,6 +907,7 @@
                     "question": "How can using 'canonical' tags help manage duplicate content for SEO?",
                     "description": "Select the option that best describes how using 'canonical' tags can help manage duplicate content for SEO.",
                     "hint": "Consider how 'canonical' tags indicate the preferred version of a page when duplicate content exists.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -901,6 +934,7 @@
                     "question": "How does the use of 'alt' attributes in image tags impact SEO?",
                     "description": "Select the option that best describes how the use of 'alt' attributes in image tags impacts SEO.",
                     "hint": "Consider how 'alt' attributes provide alternative text for images, aiding accessibility and positively impacting SEO.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -927,6 +961,7 @@
                     "question": "How does the 'lang' attribute in HTML contribute to SEO?",
                     "description": "Select the option that best describes the role of the 'lang' attribute in HTML for SEO.",
                     "hint": "Consider how the 'lang' attribute specifies the language of the content, aiding search engines in understanding the context.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -953,6 +988,7 @@
                     "question": "How does the 'nofollow' attribute in HTML contribute to SEO?",
                     "description": "Select the option that best describes how the 'nofollow' attribute in HTML contributes to SEO.",
                     "hint": "Consider how the 'nofollow' attribute controls whether search engines should follow a specific link.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -979,6 +1015,7 @@
                     "question": "How does the 'meta' tag with the 'robots' attribute impact SEO?",
                     "description": "Select the option that best describes how the 'meta' tag with the 'robots' attribute impacts SEO.",
                     "hint": "Consider how the 'robots' attribute in the 'meta' tag controls search engine indexing and crawling.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -1005,6 +1042,7 @@
                     "question": "How does the 'title' tag in HTML contribute to SEO?",
                     "description": "Select the option that best describes how the 'title' tag in HTML contributes to SEO.",
                     "hint": "Consider how the 'title' tag provides a concise and accurate description of the webpage content, influencing search engine results.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -1031,6 +1069,7 @@
                     "question": "How can having a mobile-friendly website impact SEO?",
                     "description": "Select the option that best describes how having a mobile-friendly website can impact SEO.",
                     "hint": "Consider how a mobile-friendly design improves user experience on mobile devices, positively affecting SEO.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -1057,6 +1096,7 @@
                     "question": "How can using 'header' tags in HTML positively impact SEO?",
                     "description": "Select the option that best describes how using 'header' tags in HTML can positively impact SEO.",
                     "hint": "Consider how 'header' tags contribute to the organization and structure of content, aiding search engines in understanding the webpage.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -1083,6 +1123,7 @@
                     "question": "Explain the concept of 'crawl budget' in the context of SEO and how it can impact website rankings.",
                     "description": "Provide an explanation of the 'crawl budget' concept and its impact on website rankings.",
                     "hint": "Consider how search engines allocate resources for crawling and indexing web pages.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1109,6 +1150,7 @@
                     "question": "Examine the role of 'backlinks' in SEO and how they contribute to the authority of a website.",
                     "description": "Provide an analysis of the role of 'backlinks' in SEO and their contribution to a website's authority.",
                     "hint": "Consider how 'backlinks' are external links pointing to a website and how they impact its credibility.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1135,6 +1177,7 @@
                     "question": "Explore the impact of website speed on SEO and how it influences user experience.",
                     "description": "Discuss the impact of website speed on SEO and its influence on user experience.",
                     "hint": "Consider how faster-loading websites enhance user experience and positively impact SEO.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1161,6 +1204,7 @@
                     "question": "Evaluate the importance of 'long-tail keywords' in SEO and how they differ from generic keywords.",
                     "description": "Provide an evaluation of the importance of 'long-tail keywords' in SEO and highlight their differences from generic keywords.",
                     "hint": "Consider how 'long-tail keywords' are more specific and targeted, impacting search intent and user engagement.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1187,6 +1231,7 @@
                     "question": "Explain how 'user engagement metrics' contribute to the overall SEO performance of a website.",
                     "description": "Provide an explanation of how 'user engagement metrics' contribute to the overall SEO performance of a website.",
                     "hint": "Consider how metrics like bounce rate, time on page, and click-through rate impact user engagement and SEO.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1213,6 +1258,7 @@
                     "question": "Discuss the role of 'structured data' in SEO and how it enhances the presentation of search results.",
                     "description": "Provide a discussion on the role of 'structured data' in SEO and how it enhances the presentation of search results.",
                     "hint": "Consider how 'structured data' provides additional context to search engines, improving the display of search results.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1239,6 +1285,7 @@
                     "question": "Evaluate the impact of 'social signals' on SEO and how they can influence search engine rankings.",
                     "description": "Provide an evaluation of the impact of 'social signals' on SEO and their influence on search engine rankings.",
                     "hint": "Consider how social signals from platforms like social media can impact the visibility and credibility of a website.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1265,6 +1312,7 @@
                     "question": "Examine the role of 'user-generated content' in SEO and how it can contribute to website visibility.",
                     "description": "Provide an examination of the role of 'user-generated content' in SEO and its contribution to website visibility.",
                     "hint": "Consider how content generated by users can impact website visibility and engagement.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1291,6 +1339,7 @@
                     "question": "Explain the role of 'brand mentions' in SEO and how they can impact the online presence of a business.",
                     "description": "Provide an explanation of the role of 'brand mentions' in SEO and their impact on the online presence of a business.",
                     "hint": "Consider how mentions of a brand across the web can influence its credibility and visibility in search results.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1317,6 +1366,7 @@
                     "question": "Evaluate the importance of 'local SEO' for businesses with physical locations and how it differs from general SEO.",
                     "description": "Provide an evaluation of the importance of 'local SEO' for businesses with physical locations and highlight its differences from general SEO.",
                     "hint": "Consider how 'local SEO' focuses on optimizing for specific geographic locations and the impact on businesses with physical addresses.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",

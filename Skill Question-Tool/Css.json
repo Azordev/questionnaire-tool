@@ -82,6 +82,7 @@
                     "id": "d142eb02-3f90-4ccf-82e3-940d7b10a5a5",
                     "question": "What does CSS stand for?",
                     "description": "Choose the correct expansion for the acronym CSS.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -107,6 +108,7 @@
                     "id": "6e98e3f9-3af6-4703-b1bf-89f7b2cf3c23",
                     "question": "What is the primary purpose of CSS?",
                     "description": "Select the option that best describes the main role of CSS in web development.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -132,6 +134,7 @@
                     "id": "8dbdb3e3-8e35-4f5d-8897-2b8dd38a18f8",
                     "question": "Which HTML tag is used to link an external CSS file?",
                     "description": "Select the HTML tag commonly used to link an external CSS file to an HTML document.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -157,6 +160,7 @@
                     "id": "aef8bce9-d1a9-4ed9-8241-d51b2d6b1e2d",
                     "question": "What is the purpose of the CSS property 'color'?",
                     "description": "Choose the correct description of the 'color' property in CSS.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -182,6 +186,7 @@
                     "id": "165504a8-1394-4b82-952b-18ecb6ac8368",
                     "question": "What does the term 'CSS Selector' refer to?",
                     "description": "Choose the correct definition for the term 'CSS Selector'.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -207,6 +212,7 @@
                     "id": "3d506a90-0cc7-4781-b3c5-20713b1d5a3b",
                     "question": "Which CSS property is used to add space outside an element's border?",
                     "description": "Select the CSS property that is used to add space outside the border of an element.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -232,6 +238,7 @@
                     "id": "7e22a3e5-9c3a-4a3f-9f97-2bcf24377d43",
                     "question": "What is the default value of the 'position' property in CSS?",
                     "description": "Choose the default value for the 'position' property if not specified.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -257,6 +264,7 @@
                     "id": "9c9d352c-dc34-4df1-b8f9-8236511440f5",
                     "question": "What does the 'CSS Box Model' describe?",
                     "description": "Select the correct description for the 'CSS Box Model'.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -282,6 +290,7 @@
                     "id": "f2cf6c7a-0bf2-40b3-8c72-548558688b7e",
                     "question": "Which CSS property is used to control the transparency of an element?",
                     "description": "Select the CSS property that is used to control how transparent an element is.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -307,6 +316,7 @@
                     "id": "e2c4f8e2-9569-4f97-990c-34f40c5f07f5",
                     "question": "What does the 'CSS Flexbox' layout model aim to solve?",
                     "description": "Choose the problem that the 'CSS Flexbox' layout model aims to address.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -332,6 +342,7 @@
                     "id": "18989995-0c12-47de-8e13-4e4f9c25e0dd",
                     "question": "What does the 'CSS Box Model' consist of?",
                     "description": "Choose the components that make up the 'CSS Box Model'.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -357,6 +368,7 @@
                     "id": "4ea22dd4-d641-4c95-b3d7-0cc2e31a8b29",
                     "question": "What does the 'float' property in CSS do?",
                     "description": "Select the effect of the 'float' property in CSS.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -382,6 +394,7 @@
                     "id": "67e2c43e-2d4e-4f32-9e7d-d4a4c9974e2c",
                     "question": "Which CSS property is used to set the font size of text?",
                     "description": "Select the CSS property commonly used to control the size of text.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -407,6 +420,7 @@
                     "id": "f2a3a384-4853-4642-881d-5f7be6059d3d",
                     "question": "What is the purpose of the 'display' property in CSS?",
                     "description": "Choose the role of the 'display' property in CSS.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -432,6 +446,7 @@
                     "id": "9ee9fbcd-07c2-4e2f-95d2-3b545ad13435",
                     "question": "What does the 'z-index' property in CSS control?",
                     "description": "Choose the aspect of the layout that the 'z-index' property influences.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -457,6 +472,7 @@
                     "id": "3ffde5f2-846f-40c7-befa-3c1549fb161c",
                     "question": "What is the purpose of the 'media query' in CSS?",
                     "description": "Select the role of a 'media query' in CSS.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -482,6 +498,7 @@
                     "id": "7dfdbf0d-01f4-41a1-8db2-b6d15bb2ff8d",
                     "question": "Which CSS property is used for creating rounded corners?",
                     "description": "Choose the CSS property that is commonly used to create rounded corners.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -507,6 +524,7 @@
                     "id": "c7846238-40fc-4b9c-9eab-667b71b6c2b4",
                     "question": "What does the 'transition' property in CSS enable?",
                     "description": "Select the effect that the 'transition' property allows in CSS.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -532,6 +550,7 @@
                     "id": "8f007244-2f1d-4f5e-85d6-e7584a89bca3",
                     "question": "What is the purpose of the 'position' property in CSS?",
                     "description": "Choose the role of the 'position' property in CSS.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -557,6 +576,7 @@
                     "id": "cbc29fb5-e7e7-4a93-9d50-5c95e6e0e1b4",
                     "question": "What does the 'box-sizing' property in CSS control?",
                     "description": "Select the aspect of the box model that 'box-sizing' influences.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -582,6 +602,7 @@
                     "id": "5c0a5ff5-9971-4bf3-ae7b-2e8b5b833b93",
                     "question": "Explain the difference between 'display: block' and 'display: inline' in CSS.",
                     "description": "Provide a distinction between the 'display' values 'block' and 'inline'.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -607,6 +628,7 @@
                     "id": "467cd575-7eae-4d1c-8ed2-20d14e196743",
                     "question": "What is the purpose of the 'position: absolute' property in CSS?",
                     "description": "Explain the behavior of the 'position: absolute' property.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -632,6 +654,7 @@
                     "id": "b7a6db25-39a8-4f08-ba66-6c79303de21f",
                     "question": "Explain the purpose of the 'flexbox' layout in CSS.",
                     "description": "Describe the role of the 'flexbox' layout model in CSS.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -657,6 +680,7 @@
                     "id": "19a16cb6-c07b-4c18-bb1f-6922ea570a18",
                     "question": "What is the purpose of the 'box-shadow' property in CSS?",
                     "description": "Explain the role of the 'box-shadow' property.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -682,6 +706,7 @@
                     "id": "62a7f11b-5d60-4f80-a93d-07d5e0620c9b",
                     "question": "What is the 'clearfix' technique in CSS used for?",
                     "description": "Explain the purpose of the 'clearfix' technique.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -707,6 +732,7 @@
                     "id": "501c245a-2df4-4c3c-9e63-8e51a6f540c3",
                     "question": "What does the 'max-width' property in CSS control?",
                     "description": "Select the aspect of an element's sizing that 'max-width' influences.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -732,6 +758,7 @@
                     "id": "a5751e84-3edf-4f9a-8e3f-877835141a89",
                     "question": "What is the purpose of the 'nth-child' selector in CSS?",
                     "description": "Explain the role of the 'nth-child' selector in CSS.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -757,6 +784,7 @@
                     "id": "00d3943b-6a5d-4e8c-9f18-622c77693822",
                     "question": "What does the 'content' property in CSS do?",
                     "description": "Choose the role of the 'content' property in CSS.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -782,6 +810,7 @@
                     "id": "9a4ad744-cb64-49c4-899b-654c3f8a22b9",
                     "question": "Explain the 'box-sizing' property and its values in CSS.",
                     "description": "Provide an explanation of the 'box-sizing' property and its possible values.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -807,6 +836,7 @@
                     "id": "2b50e248-0215-4cfb-8ac3-97c3836ebd57",
                     "question": "What is the purpose of the 'currentColor' keyword in CSS?",
                     "description": "Explain the role of the 'currentColor' keyword in CSS.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -832,6 +862,7 @@
                     "id": "91f0f46b-6410-4f3a-9528-2f1d2d24e8a3",
                     "question": "Explain the 'grid' layout in CSS and its key properties.",
                     "description": "Provide an overview of the 'grid' layout model and mention key properties associated with it.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -857,6 +888,7 @@
                     "id": "63d81d3e-53a2-4fe4-93ed-7ce6e63026d7",
                     "question": "Describe the role of the 'position: sticky' property in CSS.",
                     "description": "Explain how the 'position: sticky' property works and its use cases.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -882,6 +914,7 @@
                     "id": "d3a233c2-5a1e-41e9-86ef-981a7bea9ba0",
                     "question": "Explain the 'clip-path' property in CSS and its applications.",
                     "description": "Provide an overview of the 'clip-path' property and how it can be used.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -907,6 +940,7 @@
                     "id": "b7ee074b-383b-4d22-a08a-88770bf7cf3e",
                     "question": "What is the purpose of the 'will-change' property in CSS?",
                     "description": "Explain the role of the 'will-change' property and its impact on browser performance.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -932,6 +966,7 @@
                     "id": "12d29967-d28a-4d7b-bb2a-2d00b50c2b77",
                     "question": "Explain the 'CSS variables' feature and how they differ from traditional variables in programming languages.",
                     "description": "Provide an overview of CSS variables and highlight their differences from variables in traditional programming languages.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -957,6 +992,7 @@
                     "id": "93f557da-7e5d-4c1f-9b84-1633fc6f6f41",
                     "question": "Describe the 'transform' property in CSS and its applications.",
                     "description": "Provide an overview of the 'transform' property and mention common use cases.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -982,6 +1018,7 @@
                     "id": "6a22e3e8-b9ee-4387-aa04-37e2a4e3e92a",
                     "question": "Explain the 'object-fit' property in CSS and its use cases.",
                     "description": "Provide an overview of the 'object-fit' property and mention scenarios where it is useful.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -1007,6 +1044,7 @@
                     "id": "53e96b5b-687f-48f5-8e17-77a86a5c1c4b",
                     "question": "What is the purpose of the 'counter' and 'content' properties in CSS?",
                     "description": "Explain how the 'counter' and 'content' properties are used together in CSS.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -1032,6 +1070,7 @@
                     "id": "3d20124b-8b62-43bf-88c5-96e07b34a2d5",
                     "question": "Explain the 'z-index' property in CSS and how it affects the stacking order of elements.",
                     "description": "Provide an overview of the 'z-index' property and its impact on the stacking order of elements.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -1057,6 +1096,7 @@
                     "id": "92fe3aa9-319f-420a-a93f-80c00c72d2ec",
                     "question": "Describe the 'aspect-ratio' property in CSS and its applications.",
                     "description": "Provide an overview of the 'aspect-ratio' property and mention scenarios where it can be useful.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -1082,6 +1122,7 @@
                     "id": "15c95cc9-00c7-4ee6-b5f4-4cf8f3ad92e5",
                     "question": "Explain the 'contain' property in CSS and its role in layout optimization.",
                     "description": "Provide an overview of the 'contain' property and how it contributes to layout optimization.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1107,6 +1148,7 @@
                     "id": "0ed620d4-6341-4d4b-9e96-1d7b5357d381",
                     "question": "Describe the 'aspect-ratio' property in CSS and how it differs from setting the width and height directly.",
                     "description": "Provide an overview of the 'aspect-ratio' property and highlight its distinctions from directly setting width and height.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1132,6 +1174,7 @@
                     "id": "55a49b5c-4fb0-40ac-9f87-2a4f3ffaa3d4",
                     "question": "Explain the 'will-change' property in CSS and its impact on browser performance.",
                     "description": "Provide an in-depth explanation of the 'will-change' property and how it influences browser performance.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1157,6 +1200,7 @@
                     "id": "2b72c09b-09a1-45c3-afbd-bdb712746bf3",
                     "question": "Describe the 'mix-blend-mode' property in CSS and its applications in web design.",
                     "description": "Provide an overview of the 'mix-blend-mode' property and mention scenarios where it is beneficial in web design.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1182,6 +1226,7 @@
                     "id": "9f2bb4e4-1017-4f18-8a9f-0c0c596cf040",
                     "question": "Explain the 'backface-visibility' property in CSS and its relevance in 3D transformations.",
                     "description": "Provide insights into the 'backface-visibility' property and its significance in the context of 3D transformations.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1207,6 +1252,7 @@
                     "id": "b51031e2-3ae6-4fc5-b3ef-1a678fa187f3",
                     "question": "Describe the 'grid-auto-flow' property in CSS Grid and its impact on the automatic placement of grid items.",
                     "description": "Provide an overview of the 'grid-auto-flow' property and its role in determining the automatic placement of grid items.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1232,6 +1278,7 @@
                     "id": "21f6786e-70c2-4c56-b719-0b0d6f2ee3fe",
                     "question": "Explain the 'conic-gradient' property in CSS and its use in creating conical gradients.",
                     "description": "Provide details about the 'conic-gradient' property and its role in generating conical gradients.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1257,6 +1304,7 @@
                     "id": "2a2c32ac-0c21-4cc7-b52d-46db2a2a9780",
                     "question": "Describe the 'mask' property in CSS and its applications in masking elements with images or gradients.",
                     "description": "Provide an overview of the 'mask' property and mention scenarios where it is beneficial in masking elements.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1282,6 +1330,7 @@
                     "id": "c7170a97-9f5b-4d20-b899-b6c8f7100573",
                     "question": "Explain the 'content-visibility' property in CSS and its impact on rendering performance.",
                     "description": "Provide an overview of the 'content-visibility' property and its role in enhancing rendering performance.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1307,6 +1356,7 @@
                     "id": "2c1e5400-577a-426e-a6de-7bb01b3a4c20",
                     "question": "Describe the 'line-clamp' property in CSS and its application in truncating multiline text.",
                     "description": "Provide insights into the 'line-clamp' property and its role in truncating multiline text with ellipsis.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",

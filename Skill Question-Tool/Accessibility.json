@@ -47,6 +47,7 @@
                     "question": "What does web accessibility aim to achieve?",
                     "description": "Explain the primary goal of web accessibility.",
                     "hint": "Consider who benefits from accessible web design.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -73,6 +74,7 @@
                     "question": "Who benefits from web accessibility?",
                     "description": "Identify the group of people that web accessibility primarily benefits.",
                     "hint": "Consider different types of disabilities and users.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -99,6 +101,7 @@
                     "question": "What is W3C WAI in the context of web accessibility?",
                     "description": "Explain the role of W3C WAI in promoting web accessibility.",
                     "hint": "Consider the organization responsible for web standards and accessibility guidelines.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -125,6 +128,7 @@
                     "question": "What is the purpose of web accessibility tutorials?",
                     "description": "Examine the role of web accessibility tutorials in the learning process.",
                     "hint": "Consider how tutorials contribute to understanding and implementing accessibility principles.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -151,6 +155,7 @@
                     "question": "What is the significance of accessible front-end components?",
                     "description": "Explain the importance of designing front-end components with accessibility in mind.",
                     "hint": "Consider how accessible components contribute to an inclusive user experience.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -177,6 +182,7 @@
                     "question": "What is the role of MDN Accessibility in web development?",
                     "description": "Examine how MDN Accessibility contributes to web development.",
                     "hint": "Consider the resources and information provided by MDN Accessibility.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -203,6 +209,7 @@
                     "question": "What does the term 'inclusive developer experience' refer to in the context of web accessibility?",
                     "description": "Define the concept of 'inclusive developer experience' in web accessibility.",
                     "hint": "Consider how the development process can be inclusive and accessible.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -229,6 +236,7 @@
                     "question": "What is the role of Udacity in promoting web accessibility?",
                     "description": "Examine how Udacity contributes to the promotion of web accessibility.",
                     "hint": "Consider the educational resources and courses provided by Udacity.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -255,6 +263,7 @@
                     "question": "How does web accessibility contribute to an inclusive digital environment?",
                     "description": "Explain the role of web accessibility in creating an inclusive digital environment.",
                     "hint": "Consider the impact of accessible websites on diverse user experiences.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -281,6 +290,7 @@
                     "question": "What type of content is covered in a web accessibility playlist?",
                     "description": "Explore the content typically included in a playlist focused on web accessibility.",
                     "hint": "Consider the range of topics related to accessible web design.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -307,6 +317,7 @@
                     "question": "What HTML element is commonly used to provide alternative text for images?",
                     "description": "Identify the HTML element used to improve accessibility for users who cannot see images.",
                     "hint": "Consider how to provide descriptive text for images.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -333,6 +344,7 @@
                     "question": "How can semantic HTML contribute to web accessibility?",
                     "description": "Examine the role of semantic HTML in making web content more accessible.",
                     "hint": "Consider how using proper HTML elements improves the structure and meaning of content.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -359,6 +371,7 @@
                     "question": "What is the purpose of the 'aria-label' attribute in HTML?",
                     "description": "Explore the role of the 'aria-label' attribute in enhancing accessibility.",
                     "hint": "Consider how it provides additional information for assistive technologies.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -385,6 +398,7 @@
                     "question": "What HTML element is commonly used to create a hyperlink?",
                     "description": "Identify the HTML element used for linking to another page or resource.",
                     "hint": "Consider the element used to define a clickable link.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -411,6 +425,7 @@
                     "question": "How can you create a logical structure in an HTML document to improve accessibility?",
                     "description": "Explore the importance of organizing content in a logical structure for accessibility.",
                     "hint": "Consider using the appropriate HTML elements to structure content.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -437,6 +452,7 @@
                     "question": "What is the purpose of the 'tabindex' attribute in HTML?",
                     "description": "Examine the role of the 'tabindex' attribute in making interactive elements accessible.",
                     "hint": "Consider how it affects the tab order in a document.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -463,6 +479,7 @@
                     "question": "Why is it important to provide captions for multimedia content?",
                     "description": "Explore the significance of adding captions to enhance accessibility.",
                     "hint": "Consider the needs of users who may have difficulty hearing or understanding audio content.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -489,6 +506,7 @@
                     "question": "What is the purpose of the 'role' attribute in HTML?",
                     "description": "Examine the role of the 'role' attribute in enhancing accessibility.",
                     "hint": "Consider how it helps define the purpose of an element for assistive technologies.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -515,6 +533,7 @@
                     "question": "How does proper HTML structure contribute to screen reader accessibility?",
                     "description": "Explore the impact of well-structured HTML on users who rely on screen readers.",
                     "hint": "Consider how proper structure aids in conveying information accurately.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -541,6 +560,7 @@
                     "question": "What is the 'alt' attribute used for in the context of web accessibility?",
                     "description": "Explain the role of the 'alt' attribute for certain HTML elements.",
                     "hint": "Consider its purpose in providing alternative information for users.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -567,6 +587,7 @@
                     "question": "Why is it important to use semantic HTML headings in a document?",
                     "description": "Examine the significance of using semantic headings for accessibility.",
                     "hint": "Consider how headings contribute to the structure and navigation of a document.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -593,6 +614,7 @@
                     "question": "How can the 'lang' attribute in HTML contribute to accessibility?",
                     "description": "Explore the role of the 'lang' attribute in making web content accessible to a diverse audience.",
                     "hint": "Consider how it specifies the language of the document.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -619,6 +641,7 @@
                     "question": "What is the purpose of the 'alt' attribute in the context of web accessibility?",
                     "description": "Explain the role of the 'alt' attribute for certain HTML elements.",
                     "hint": "Consider its purpose in providing alternative information for users.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -645,6 +668,7 @@
                     "question": "How can the 'aria-hidden' attribute be used to improve accessibility?",
                     "description": "Explore the role of the 'aria-hidden' attribute in hiding elements from assistive technologies.",
                     "hint": "Consider scenarios where certain content is presented visually but should be hidden from screen readers.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -671,6 +695,7 @@
                     "question": "Why is it important to provide a skip navigation link in a web page?",
                     "description": "Examine the significance of skip navigation links for users with screen readers.",
                     "hint": "Consider how skip navigation links improve navigation for screen reader users.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -697,6 +722,7 @@
                     "question": "How does providing text alternatives contribute to web accessibility?",
                     "description": "Explore the importance of offering text alternatives for non-text content.",
                     "hint": "Consider the needs of users who may not be able to perceive non-text content.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -723,6 +749,7 @@
                     "question": "What is the purpose of the 'role' attribute in HTML?",
                     "description": "Examine the role of the 'role' attribute in enhancing accessibility.",
                     "hint": "Consider how it helps define the purpose of an element for assistive technologies.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -749,6 +776,7 @@
                     "question": "How does providing a text description for form elements improve accessibility?",
                     "description": "Explore the impact of including descriptive text for form elements in web accessibility.",
                     "hint": "Consider the needs of users who may rely on screen readers to navigate and understand forms.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -775,6 +803,7 @@
                     "question": "What role does the 'tabindex' attribute play in making interactive elements accessible?",
                     "description": "Examine the significance of the 'tabindex' attribute in improving accessibility for interactive elements.",
                     "hint": "Consider how it affects the tab order and navigation of interactive elements.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -801,6 +830,7 @@
                     "question": "Why is it important to test web accessibility with real users, including those with disabilities?",
                     "description": "Examine the significance of user testing for ensuring web accessibility.",
                     "hint": "Consider the diverse needs and experiences of users, especially those with disabilities.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -827,6 +857,7 @@
                     "question": "Explain the importance of ARIA landmarks in web accessibility.",
                     "description": "Explore the significance of ARIA landmarks in providing navigation cues for screen reader users.",
                     "hint": "Consider how ARIA landmarks enhance the navigational experience for users with visual impairments.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -853,6 +884,7 @@
                     "question": "How does the 'aria-live' attribute contribute to real-time updates for screen reader users?",
                     "description": "Examine the role of the 'aria-live' attribute in enhancing accessibility for dynamic content.",
                     "hint": "Consider scenarios where content is dynamically updated without requiring a page refresh.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -879,6 +911,7 @@
                     "question": "Examine the role of focus management in web accessibility.",
                     "description": "Explore how proper focus management enhances the user experience for individuals with disabilities.",
                     "hint": "Consider scenarios where users navigate a website using keyboard controls.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -905,6 +938,7 @@
                     "question": "Why is it important to provide sufficient color contrast in web design for accessibility?",
                     "description": "Examine the significance of color contrast in ensuring content is visually accessible to all users.",
                     "hint": "Consider users with visual impairments who may have difficulty distinguishing certain colors.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -931,6 +965,7 @@
                     "question": "How can keyboard accessibility be enhanced in web forms?",
                     "description": "Explore strategies for improving keyboard accessibility within web forms.",
                     "hint": "Consider the needs of users who navigate and interact with forms using keyboard controls.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -957,6 +992,7 @@
                     "question": "Examine the role of semantic HTML in improving accessibility.",
                     "description": "Explore how using semantic HTML elements contributes to a more accessible web.",
                     "hint": "Consider how semantic elements provide meaningful structure to content.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -983,6 +1019,7 @@
                     "question": "How can accessible error messages improve the user experience for individuals with disabilities?",
                     "description": "Explore the importance of providing accessible error messages in web forms.",
                     "hint": "Consider users who may rely on screen readers or have other disabilities that impact their interaction with web forms.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -1009,6 +1046,7 @@
                     "question": "Why is it important to ensure that form controls have visible labels for accessibility?",
                     "description": "Examine the significance of visible labels for form controls in enhancing accessibility.",
                     "hint": "Consider users who rely on screen readers or have cognitive disabilities.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -1035,6 +1073,7 @@
                     "question": "How can semantic HTML tables contribute to accessibility?",
                     "description": "Explore the role of semantic HTML tables in providing accessible data representation.",
                     "hint": "Consider how screen reader users perceive and navigate tables.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -1061,6 +1100,7 @@
                     "question": "Why is it important to consider mobile accessibility in web design?",
                     "description": "Examine the significance of ensuring web content is accessible on mobile devices.",
                     "hint": "Consider the diverse ways users interact with web content on mobile devices.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -1087,6 +1127,7 @@
                     "question": "Explain the concept of keyboard traps in web accessibility.",
                     "description": "Explore the challenges posed by keyboard traps and their impact on user navigation.",
                     "hint": "Consider scenarios where users may become stuck in a particular focus state without the ability to navigate away using the keyboard.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1113,6 +1154,7 @@
                     "question": "Examine the importance of providing alternative content for complex interactive elements.",
                     "description": "Explore the challenges posed by complex interactive elements and the need for alternative content for accessibility.",
                     "hint": "Consider users who may not be able to interact with or understand complex interactive elements.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1139,6 +1181,7 @@
                     "question": "Examine the challenges posed by CAPTCHA in web accessibility.",
                     "description": "Explore the accessibility challenges associated with CAPTCHA and potential alternatives.",
                     "hint": "Consider users with visual impairments or cognitive disabilities who may find traditional CAPTCHAs difficult to solve.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1165,6 +1208,7 @@
                     "question": "Examine the role of focus visible styles in enhancing keyboard navigation.",
                     "description": "Explore the significance of ensuring focus visible styles for interactive elements in web accessibility.",
                     "hint": "Consider users who navigate using keyboards and rely on visible focus indicators.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1191,6 +1235,7 @@
                     "question": "Examine the challenges associated with automatically playing audio and video on a website.",
                     "description": "Explore the accessibility challenges posed by autoplaying multimedia content and potential considerations.",
                     "hint": "Consider users who may be sensitive to audio, users with cognitive disabilities, and those with limited bandwidth.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1217,6 +1262,7 @@
                     "question": "Why is it important to consider cognitive accessibility in web design?",
                     "description": "Examine the significance of addressing cognitive accessibility for a more inclusive web design.",
                     "hint": "Consider users who may have difficulty processing information or may experience cognitive challenges.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1243,6 +1289,7 @@
                     "question": "Examine the role of skip navigation links in web accessibility.",
                     "description": "Explore how skip navigation links contribute to a more accessible user experience.",
                     "hint": "Consider users who navigate using screen readers and may benefit from skipping repetitive content.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1269,6 +1316,7 @@
                     "question": "Why is it important to provide text alternatives for non-text content in web accessibility?",
                     "description": "Examine the significance of providing descriptive text alternatives for images and other non-text content.",
                     "hint": "Consider users who rely on screen readers and those who may have difficulty interpreting non-text content.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1295,6 +1343,7 @@
                     "question": "Examine the challenges associated with tooltips in web accessibility.",
                     "description": "Explore the potential challenges posed by tooltips and considerations for improving accessibility.",
                     "hint": "Consider users who may not interact with content using a mouse or have difficulty perceiving tooltips.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1321,6 +1370,7 @@
                     "question": "Examine the challenges associated with responsive design in the context of web accessibility.",
                     "description": "Explore the challenges posed by responsive design and considerations for ensuring accessibility on diverse devices.",
                     "hint": "Consider users who access web content on various devices with different screen sizes and capabilities.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",

@@ -43,6 +43,7 @@
                     "question": "What does the HTML <main> tag represent?",
                     "description": "Understand the purpose of the HTML <main> tag in marking the main content of a document.",
                     "hint": "Consider the element used for marking the main content of a document in HTML.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -69,6 +70,7 @@
                     "question": "What is the purpose of the HTML <article> tag?",
                     "description": "Understand the role of the HTML <article> tag in marking up independent, self-contained content.",
                     "hint": "Consider the element used for marking up content that can be distributed and reused independently.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -95,6 +97,7 @@
                     "question": "What does the HTML <header> tag represent?",
                     "description": "Understand the purpose of the HTML <header> tag in marking the header of a document or section.",
                     "hint": "Consider the element used for marking the header of a document or section in HTML.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -121,6 +124,7 @@
                     "question": "What is the purpose of the HTML <nav> tag?",
                     "description": "Understand the role of the HTML <nav> tag in marking a section for navigation links.",
                     "hint": "Consider the element used for marking a section that contains navigation links in HTML.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -147,6 +151,7 @@
                     "question": "What does the HTML <section> tag represent?",
                     "description": "Understand the purpose of the HTML <section> tag in marking a generic section of a document.",
                     "hint": "Consider the element used for marking a generic section of a document in HTML.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -173,6 +178,7 @@
                     "question": "What is the purpose of the HTML <aside> tag?",
                     "description": "Understand the role of the HTML <aside> tag in marking content that is related but outside the main content flow.",
                     "hint": "Consider the element used for marking content that is related but outside the main content flow in HTML.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -199,6 +205,7 @@
                     "question": "What does the HTML <footer> tag represent?",
                     "description": "Understand the purpose of the HTML <footer> tag in marking the footer of a document or section.",
                     "hint": "Consider the element used for marking the footer of a document or section in HTML.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -225,6 +232,7 @@
                     "question": "What is the purpose of the HTML <figure> tag?",
                     "description": "Understand the role of the HTML <figure> tag in marking any content that is referenced from the main content.",
                     "hint": "Consider the element used for marking content, such as images or diagrams, that is referenced from the main content in HTML.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -251,6 +259,7 @@
                     "question": "What does the HTML <time> tag represent?",
                     "description": "Understand the purpose of the HTML <time> tag in marking a specific period in time.",
                     "hint": "Consider the element used for marking a specific period in time in HTML.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -277,6 +286,7 @@
                     "question": "What is the purpose of the HTML <mark> tag?",
                     "description": "Understand the role of the HTML <mark> tag in marking text that should be highlighted or marked.",
                     "hint": "Consider the element used for marking text that should be highlighted or marked in HTML.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -303,6 +313,7 @@
                     "question": "What is the purpose of the HTML <abbr> tag?",
                     "description": "Understand the role of the HTML <abbr> tag in marking an abbreviation or acronym.",
                     "hint": "Consider the element used for marking an abbreviation or acronym in HTML.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -329,6 +340,7 @@
                     "question": "What is the purpose of the HTML <kbd> tag?",
                     "description": "Understand the role of the HTML <kbd> tag in marking text that represents user input.",
                     "hint": "Consider the element used for marking text that represents user input in HTML.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -355,6 +367,7 @@
                     "question": "What does the HTML <samp> tag represent?",
                     "description": "Understand the purpose of the HTML <samp> tag in marking text that represents output from a program or script.",
                     "hint": "Consider the element used for marking text that represents output from a program or script in HTML.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -381,6 +394,7 @@
                     "question": "What is the purpose of the HTML <time> tag?",
                     "description": "Understand the role of the HTML <time> tag in marking a specific period in time.",
                     "hint": "Consider the element used for marking a specific period in time in HTML.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -407,6 +421,7 @@
                     "question": "What does the HTML <var> tag represent?",
                     "description": "Understand the purpose of the HTML <var> tag in marking a variable in computer programming.",
                     "hint": "Consider the element used for marking a variable in computer programming in HTML.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -433,6 +448,7 @@
                     "question": "What is the purpose of the HTML <mark> tag?",
                     "description": "Understand the role of the HTML <mark> tag in marking text that should be highlighted or marked.",
                     "hint": "Consider the element used for marking text that should be highlighted or marked in HTML.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -459,6 +475,7 @@
                     "question": "What does the HTML <bdi> tag represent?",
                     "description": "Understand the purpose of the HTML <bdi> tag in isolating a part of text that might be formatted in a different direction from other text outside it.",
                     "hint": "Consider the element used for isolating a part of text that might be formatted in a different direction in HTML.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -485,6 +502,7 @@
                     "question": "What does the HTML <wbr> tag represent?",
                     "description": "Understand the purpose of the HTML <wbr> tag in specifying a word break opportunity within a word.",
                     "hint": "Consider the element used for specifying a word break opportunity within a word in HTML.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -511,6 +529,7 @@
                     "question": "What is the purpose of the HTML <bdo> tag?",
                     "description": "Understand the role of the HTML <bdo> tag in specifying the direction of the text.",
                     "hint": "Consider the element used for specifying the direction of the text in HTML.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -537,6 +556,7 @@
                     "question": "What does the HTML <s> tag represent?",
                     "description": "Understand the purpose of the HTML <s> tag in marking text that is no longer accurate or relevant.",
                     "hint": "Consider the element used for marking text that is no longer accurate or relevant in HTML.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -563,6 +583,7 @@
                     "question": "What does the HTML <meter> tag represent?",
                     "description": "Understand the purpose of the HTML <meter> tag in representing a scalar measurement within a known range.",
                     "hint": "Consider the element used for representing a scalar measurement within a known range in HTML.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -589,6 +610,7 @@
                     "question": "What is the purpose of the HTML <code> tag?",
                     "description": "Understand the role of the HTML <code> tag in marking text that represents a short piece of code.",
                     "hint": "Consider the element used for marking text that represents a short piece of code in HTML.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -615,6 +637,7 @@
                     "question": "What does the HTML <figcaption> tag represent?",
                     "description": "Understand the purpose of the HTML <figcaption> tag in representing a caption or legend for a <figure> element.",
                     "hint": "Consider the element used for representing a caption or legend for a <figure> element in HTML.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -641,6 +664,7 @@
                     "question": "What is the purpose of the HTML <address> tag?",
                     "description": "Understand the role of the HTML <address> tag in representing contact information for the nearest <article> or <body> ancestor.",
                     "hint": "Consider the element used for representing contact information for the nearest <article> or <body> ancestor in HTML.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -667,6 +691,7 @@
                     "question": "What does the HTML <samp> tag represent?",
                     "description": "Understand the purpose of the HTML <samp> tag in marking text that represents output from a program or script.",
                     "hint": "Consider the element used for marking text that represents output from a program or script in HTML.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -693,6 +718,7 @@
                     "question": "What is the purpose of the HTML <sub> tag?",
                     "description": "Understand the role of the HTML <sub> tag in marking subscript text.",
                     "hint": "Consider the element used for marking subscript text in HTML.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -719,6 +745,7 @@
                     "question": "What does the HTML <u> tag represent?",
                     "description": "Understand the purpose of the HTML <u> tag in marking text that should be underlined.",
                     "hint": "Consider the element used for marking text that should be underlined in HTML.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -745,6 +772,7 @@
                     "question": "What is the purpose of the HTML <ins> tag?",
                     "description": "Understand the role of the HTML <ins> tag in marking text that has been inserted into a document.",
                     "hint": "Consider the element used for marking text that has been inserted into a document in HTML.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -771,6 +799,7 @@
                     "question": "What does the HTML <abbr> tag represent?",
                     "description": "Understand the purpose of the HTML <abbr> tag in marking an abbreviation or acronym.",
                     "hint": "Consider the element used for marking an abbreviation or acronym in HTML.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -797,6 +826,7 @@
                     "question": "What is the purpose of the HTML <cite> tag?",
                     "description": "Understand the role of the HTML <cite> tag in marking the title of a creative work.",
                     "hint": "Consider the element used for marking the title of a creative work in HTML.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -823,6 +853,7 @@
                     "question": "What is the purpose of the HTML <time> tag?",
                     "description": "Understand the role of the HTML <time> tag in representing a specific period in time or a range of time.",
                     "hint": "Consider the element used for representing a specific period in time or a range of time in HTML.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -849,6 +880,7 @@
                     "question": "What does the HTML <mark> tag represent?",
                     "description": "Understand the purpose of the HTML <mark> tag in highlighting or marking portions of text.",
                     "hint": "Consider the element used for highlighting or marking portions of text in HTML.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -875,6 +907,7 @@
                     "question": "What is the purpose of the HTML <pre> tag?",
                     "description": "Understand the role of the HTML <pre> tag in preserving both spaces and line breaks.",
                     "hint": "Consider the element used for preserving both spaces and line breaks in HTML.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -901,6 +934,7 @@
                     "question": "What does the HTML <var> tag represent?",
                     "description": "Understand the purpose of the HTML <var> tag in marking the name of a variable.",
                     "hint": "Consider the element used for marking the name of a variable in HTML.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -927,6 +961,7 @@
                     "question": "What is the purpose of the HTML <kbd> tag?",
                     "description": "Understand the role of the HTML <kbd> tag in marking text that represents user input.",
                     "hint": "Consider the element used for marking text that represents user input in HTML.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -953,6 +988,7 @@
                     "question": "What does the HTML <dfn> tag represent?",
                     "description": "Understand the purpose of the HTML <dfn> tag in marking the defining instance of a term.",
                     "hint": "Consider the element used for marking the defining instance of a term in HTML.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -979,6 +1015,7 @@
                     "question": "What is the purpose of the HTML <s> tag?",
                     "description": "Understand the role of the HTML <s> tag in marking text that is no longer accurate or relevant.",
                     "hint": "Consider the element used for marking text that is no longer accurate or relevant in HTML.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -1005,6 +1042,7 @@
                     "question": "What does the HTML <small> tag represent?",
                     "description": "Understand the purpose of the HTML <small> tag in marking text that is smaller and might be fine print.",
                     "hint": "Consider the element used for marking smaller text, often indicating fine print, in HTML.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -1031,6 +1069,7 @@
                     "question": "What is the purpose of the HTML <bdi> tag?",
                     "description": "Understand the role of the HTML <bdi> tag in isolating a part of text that might be formatted in a different direction from other text outside it.",
                     "hint": "Consider the element used for isolating a part of text that might be formatted in a different direction from other text outside it in HTML.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -1057,6 +1096,7 @@
                     "question": "What does the HTML <wbr> tag represent?",
                     "description": "Understand the purpose of the HTML <wbr> tag in specifying where in a text it would be ok to add a line break.",
                     "hint": "Consider the element used for specifying where in a text it would be ok to add a line break in HTML.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -1083,6 +1123,7 @@
                     "question": "What is the purpose of the HTML <figure> and <figcaption> combination?",
                     "description": "Understand the role of the <figure> and <figcaption> combination in HTML for grouping media content and its caption.",
                     "hint": "Consider the elements used for grouping media content and its caption in HTML.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1109,6 +1150,7 @@
                     "question": "What does the HTML <progress> tag represent?",
                     "description": "Understand the purpose of the HTML <progress> tag in representing the completion progress of a task.",
                     "hint": "Consider the element used for representing the completion progress of a task in HTML.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1135,6 +1177,7 @@
                     "question": "What is the purpose of the HTML <details> and <summary> combination?",
                     "description": "Understand the role of the <details> and <summary> combination in HTML for creating a disclosure widget from which the user can obtain additional information.",
                     "hint": "Consider the elements used for creating a disclosure widget in HTML.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1161,6 +1204,7 @@
                     "question": "What does the HTML <nav> tag represent?",
                     "description": "Understand the purpose of the HTML <nav> tag in marking a section of navigation links.",
                     "hint": "Consider the element used for marking a section of navigation links in HTML.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1187,6 +1231,7 @@
                     "question": "What is the purpose of the HTML <canvas> tag?",
                     "description": "Understand the role of the HTML <canvas> tag in providing a drawing surface for graphics on a web page.",
                     "hint": "Consider the element used for providing a drawing surface for graphics in HTML.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1213,6 +1258,7 @@
                     "question": "What does the HTML <article> tag represent?",
                     "description": "Understand the purpose of the HTML <article> tag in marking a self-contained piece of content that could be distributed and reused independently.",
                     "hint": "Consider the element used for marking a self-contained piece of content that could be distributed and reused independently in HTML.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1239,6 +1285,7 @@
                     "question": "What is the purpose of the HTML <time> tag?",
                     "description": "Understand the role of the HTML <time> tag in representing a specific period in time or a range of time.",
                     "hint": "Consider the element used for representing a specific period in time or a range of time in HTML.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1265,6 +1312,7 @@
                     "question": "What does the HTML <mark> tag represent?",
                     "description": "Understand the purpose of the HTML <mark> tag in highlighting or marking portions of text.",
                     "hint": "Consider the element used for highlighting or marking portions of text in HTML.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1291,6 +1339,7 @@
                     "question": "What is the purpose of the HTML <pre> tag?",
                     "description": "Understand the role of the HTML <pre> tag in preserving both spaces and line breaks.",
                     "hint": "Consider the element used for preserving both spaces and line breaks in HTML.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1317,6 +1366,7 @@
                     "question": "What does the HTML <var> tag represent?",
                     "description": "Understand the purpose of the HTML <var> tag in marking the name of a variable.",
                     "hint": "Consider the element used for marking the name of a variable in HTML.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",

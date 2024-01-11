@@ -59,6 +59,7 @@
                     "question": "What is the purpose of the 'float' property in CSS?",
                     "description": "Choose the option that best describes the purpose of the 'float' property in CSS.",
                     "hint": "Consider how 'float' is used to specify whether an element should be placed to the left or right of its container.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -85,6 +86,7 @@
                     "question": "What does the CSS 'display' property do?",
                     "description": "Select the option that best describes the purpose of the 'display' property in CSS.",
                     "hint": "Consider how 'display' is used to define the type of box an element generates.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -111,6 +113,7 @@
                     "question": "What is the primary purpose of the CSS 'position' property?",
                     "description": "Choose the option that best describes the primary purpose of the 'position' property in CSS.",
                     "hint": "Consider how 'position' is used to specify the positioning method of an element in its parent container.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -137,6 +140,7 @@
                     "question": "How does the 'box model' concept apply to CSS?",
                     "description": "Select the option that best describes how the 'box model' concept applies to CSS.",
                     "hint": "Consider how the 'box model' consists of content, padding, border, and margin.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -163,6 +167,7 @@
                     "question": "What is the role of the 'flexbox' layout in CSS?",
                     "description": "Choose the option that best describes the role of the 'flexbox' layout in CSS.",
                     "hint": "Consider how 'flexbox' is used for building flexible and efficient layouts.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -189,6 +194,7 @@
                     "question": "How is the 'grid' layout different from the 'flexbox' layout in CSS?",
                     "description": "Select the option that best describes the difference between the 'grid' layout and the 'flexbox' layout in CSS.",
                     "hint": "Consider the main use cases and structure of 'grid' and 'flexbox'.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -215,6 +221,7 @@
                     "question": "What does the CSS 'position: absolute;' property do?",
                     "description": "Choose the option that best describes the behavior of the 'position: absolute;' property in CSS.",
                     "hint": "Consider how 'position: absolute;' positions an element relative to its nearest positioned ancestor.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -241,6 +248,7 @@
                     "question": "How does the 'justify-content' property work in a 'flexbox' layout?",
                     "description": "Explain the functionality of the 'justify-content' property in a 'flexbox' layout.",
                     "hint": "Consider how 'justify-content' aligns flex items along the main axis.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -267,6 +275,7 @@
                     "question": "What does the CSS 'position: relative;' property do?",
                     "description": "Choose the option that best describes the behavior of the 'position: relative;' property in CSS.",
                     "hint": "Consider how 'position: relative;' positions an element relative to its normal position in the document.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -293,6 +302,7 @@
                     "question": "How does the 'align-items' property work in a 'flexbox' layout?",
                     "description": "Explain the functionality of the 'align-items' property in a 'flexbox' layout.",
                     "hint": "Consider how 'align-items' aligns flex items along the cross axis.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -319,6 +329,7 @@
                     "question": "Which CSS property is used to set the size of the margin area for all four sides of an element?",
                     "description": "Select the CSS property that sets the size of the margin area for all four sides of an element.",
                     "hint": "Consider the property that sets the margin for all sides simultaneously.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -345,6 +356,7 @@
                     "question": "What does the CSS 'display: inline-block;' property do?",
                     "description": "Choose the option that best describes the behavior of the 'display: inline-block;' property in CSS.",
                     "hint": "Consider how 'display: inline-block;' combines aspects of both inline and block elements.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -371,6 +383,7 @@
                     "question": "What is the purpose of the 'clear' property in CSS?",
                     "description": "Select the option that best describes the purpose of the 'clear' property in CSS.",
                     "hint": "Consider how 'clear' is used to control the behavior of elements adjacent to floated elements.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -397,6 +410,7 @@
                     "question": "In CSS, how does the 'position: fixed;' property behave?",
                     "description": "Explain the behavior of the 'position: fixed;' property in CSS.",
                     "hint": "Consider how 'position: fixed;' positions an element relative to the viewport.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -423,6 +437,7 @@
                     "question": "What is the purpose of the 'z-index' property in CSS?",
                     "description": "Select the option that best describes the purpose of the 'z-index' property in CSS.",
                     "hint": "Consider how 'z-index' controls the stacking order of positioned elements.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -449,6 +464,7 @@
                     "question": "How does the 'position: relative;' property affect child elements in CSS?",
                     "description": "Explain how the 'position: relative;' property applied to a parent element affects its child elements.",
                     "hint": "Consider how 'position: relative;' creates a positioning context for its descendants.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -475,6 +491,7 @@
                     "question": "What is the purpose of the CSS 'overflow' property?",
                     "description": "Select the option that best describes the purpose of the 'overflow' property in CSS.",
                     "hint": "Consider how 'overflow' controls the behavior of content that overflows the box.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -501,6 +518,7 @@
                     "question": "What is the purpose of the CSS 'flex-grow' property in a 'flexbox' layout?",
                     "description": "Select the option that best describes the purpose of the 'flex-grow' property in a 'flexbox' layout.",
                     "hint": "Consider how 'flex-grow' determines the ability of a flex item to grow.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -527,6 +545,7 @@
                     "question": "How is the 'box-sizing' property used in CSS?",
                     "description": "Select the option that best describes how the 'box-sizing' property is used in CSS.",
                     "hint": "Consider how 'box-sizing' affects the sizing of the box model.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -553,6 +572,7 @@
                     "question": "What is the purpose of the CSS 'flex-direction' property in a 'flexbox' layout?",
                     "description": "Select the option that best describes the purpose of the 'flex-direction' property in a 'flexbox' layout.",
                     "hint": "Consider how 'flex-direction' defines the main axis and direction of the flex container.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -579,6 +599,7 @@
                     "question": "How does the 'float' property affect the layout of elements in CSS?",
                     "description": "Explain the impact of the 'float' property on the layout of elements in CSS.",
                     "hint": "Consider how 'float' is used to make elements float to the left or right.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -605,6 +626,7 @@
                     "question": "What is the purpose of the CSS 'position: static;' property?",
                     "description": "Choose the option that best describes the behavior of the 'position: static;' property in CSS.",
                     "hint": "Consider how 'position: static;' places an element in the normal flow of the document.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -631,6 +653,7 @@
                     "question": "How does the CSS 'display: flex;' property affect the layout of its children?",
                     "description": "Explain how the 'display: flex;' property impacts the layout of the children of the element to which it is applied.",
                     "hint": "Consider how 'display: flex;' turns the element into a flex container.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -657,6 +680,7 @@
                     "question": "What is the purpose of the 'flex-basis' property in a 'flexbox' layout?",
                     "description": "Select the option that best describes the purpose of the 'flex-basis' property in a 'flexbox' layout.",
                     "hint": "Consider how 'flex-basis' defines the default size of a flex item along the main axis.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -683,6 +707,7 @@
                     "question": "In CSS Grid, what does the 'grid-template-columns' property define?",
                     "description": "Choose the option that best describes what the 'grid-template-columns' property defines in CSS Grid.",
                     "hint": "Consider how 'grid-template-columns' specifies the size of columns in a grid container.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -709,6 +734,7 @@
                     "question": "What does the 'justify-content' property do in a 'flexbox' layout?",
                     "description": "Select the option that best describes the function of the 'justify-content' property in a 'flexbox' layout.",
                     "hint": "Consider how 'justify-content' aligns flex items along the main axis.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -735,6 +761,7 @@
                     "question": "What is the purpose of the 'grid-gap' property in CSS Grid?",
                     "description": "Choose the option that best describes the purpose of the 'grid-gap' property in CSS Grid.",
                     "hint": "Consider how 'grid-gap' sets the gap between columns and rows in a grid container.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -761,6 +788,7 @@
                     "question": "How does the 'flex-shrink' property work in a 'flexbox' layout?",
                     "description": "Explain the functionality of the 'flex-shrink' property in a 'flexbox' layout.",
                     "hint": "Consider how 'flex-shrink' determines the ability of a flex item to shrink.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -787,6 +815,7 @@
                     "question": "In CSS Grid, what does the 'grid-auto-rows' property define?",
                     "description": "Choose the option that best describes what the 'grid-auto-rows' property defines in CSS Grid.",
                     "hint": "Consider how 'grid-auto-rows' specifies the size of rows in a grid container when they are created implicitly.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -813,6 +842,7 @@
                     "question": "What does the 'align-self' property do in a 'flexbox' layout?",
                     "description": "Select the option that best describes the function of the 'align-self' property in a 'flexbox' layout.",
                     "hint": "Consider how 'align-self' overrides the 'align-items' property for a specific flex item.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -839,6 +869,7 @@
                     "question": "Explain the purpose of the 'z-index' property in CSS.",
                     "description": "Choose the option that best describes the purpose of the 'z-index' property in CSS.",
                     "hint": "Consider how 'z-index' controls the stacking order of positioned elements.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -865,6 +896,7 @@
                     "question": "In CSS Grid, what does the 'grid-template-rows' property define?",
                     "description": "Choose the option that best describes what the 'grid-template-rows' property defines in CSS Grid.",
                     "hint": "Consider how 'grid-template-rows' specifies the size of rows in a grid container.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -891,6 +923,7 @@
                     "question": "What does the 'position: relative;' property do in CSS?",
                     "description": "Select the option that best describes the behavior of the 'position: relative;' property in CSS.",
                     "hint": "Consider how 'position: relative;' positions an element relative to its normal position.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -917,6 +950,7 @@
                     "question": "How does the 'align-content' property work in CSS Grid?",
                     "description": "Explain the functionality of the 'align-content' property in CSS Grid.",
                     "hint": "Consider how 'align-content' aligns grid lines in the cross axis of a grid container.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -943,6 +977,7 @@
                     "question": "What does the 'flex-basis' property determine in a 'flexbox' layout?",
                     "description": "Select the option that best describes what the 'flex-basis' property determines in a 'flexbox' layout.",
                     "hint": "Consider how 'flex-basis' defines the default size of a flex item along the main axis.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -969,6 +1004,7 @@
                     "question": "What is the purpose of the 'display: grid;' property in CSS?",
                     "description": "Choose the option that best describes the purpose of the 'display: grid;' property in CSS.",
                     "hint": "Consider how 'display: grid;' turns an element into a grid container.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -995,6 +1031,7 @@
                     "question": "How does the 'flex-grow' property work in a 'flexbox' layout?",
                     "description": "Explain the functionality of the 'flex-grow' property in a 'flexbox' layout.",
                     "hint": "Consider how 'flex-grow' determines the ability of a flex item to grow.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -1021,6 +1058,7 @@
                     "question": "What is the purpose of the CSS 'box-sizing' property?",
                     "description": "Choose the option that best describes the purpose of the 'box-sizing' property in CSS.",
                     "hint": "Consider how 'box-sizing' affects the sizing of elements and their box model.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -1047,6 +1085,7 @@
                     "question": "In CSS Grid, what does the 'grid-template-columns' property define?",
                     "description": "Choose the option that best describes what the 'grid-template-columns' property defines in CSS Grid.",
                     "hint": "Consider how 'grid-template-columns' specifies the size of columns in a grid container.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -1073,6 +1112,7 @@
                     "question": "What does the 'position: fixed;' property do in CSS?",
                     "description": "Select the option that best describes the behavior of the 'position: fixed;' property in CSS.",
                     "hint": "Consider how 'position: fixed;' positions an element relative to the viewport.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -1099,6 +1139,7 @@
                     "question": "What does the CSS property 'perspective' control in a 3D-transformed element?",
                     "description": "Choose the option that best describes what the 'perspective' property controls in a 3D-transformed element.",
                     "hint": "Consider how 'perspective' determines the depth of the view into a 3D scene.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1125,6 +1166,7 @@
                     "question": "What is the purpose of the 'currentColor' keyword in CSS?",
                     "description": "Choose the option that best describes the purpose of the 'currentColor' keyword in CSS.",
                     "hint": "Consider how 'currentColor' is used in the context of color properties.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1151,6 +1193,7 @@
                     "question": "In CSS, what is the purpose of the 'backface-visibility' property in a 3D-transformed element?",
                     "description": "Select the option that best describes the purpose of the 'backface-visibility' property in CSS for a 3D-transformed element.",
                     "hint": "Consider how 'backface-visibility' controls whether the back or front face of an element is visible.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1177,6 +1220,7 @@
                     "question": "What is the purpose of the CSS 'animation-timing-function' property?",
                     "description": "Choose the option that best describes the purpose of the 'animation-timing-function' property in CSS animations.",
                     "hint": "Consider how 'animation-timing-function' defines the pacing of the animation.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1203,6 +1247,7 @@
                     "question": "How does the 'contain' property work in CSS?",
                     "description": "Explain the functionality of the 'contain' property in CSS.",
                     "hint": "Consider how 'contain' affects the layout of the element and its descendants within the container.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1229,6 +1274,7 @@
                     "question": "What does the CSS property 'perspective' control in a 3D-transformed element?",
                     "description": "Choose the option that best describes what the 'perspective' property controls in a 3D-transformed element.",
                     "hint": "Consider how 'perspective' determines the depth of the view into a 3D scene.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1255,6 +1301,7 @@
                     "question": "What is the purpose of the 'currentColor' keyword in CSS?",
                     "description": "Choose the option that best describes the purpose of the 'currentColor' keyword in CSS.",
                     "hint": "Consider how 'currentColor' is used in the context of color properties.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1281,6 +1328,7 @@
                     "question": "In CSS, what is the purpose of the 'backface-visibility' property in a 3D-transformed element?",
                     "description": "Select the option that best describes the purpose of the 'backface-visibility' property in CSS for a 3D-transformed element.",
                     "hint": "Consider how 'backface-visibility' controls whether the back or front face of an element is visible.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1307,6 +1355,7 @@
                     "question": "What is the purpose of the CSS 'animation-timing-function' property?",
                     "description": "Choose the option that best describes the purpose of the 'animation-timing-function' property in CSS animations.",
                     "hint": "Consider how 'animation-timing-function' defines the pacing of the animation.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1333,6 +1382,7 @@
                     "question": "How does the 'contain' property work in CSS?",
                     "description": "Explain the functionality of the 'contain' property in CSS.",
                     "hint": "Consider how 'contain' affects the layout of the element and its descendants within the container.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",

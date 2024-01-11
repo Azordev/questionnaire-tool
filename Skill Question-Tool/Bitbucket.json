@@ -23,6 +23,7 @@
           "question": "What is Bitbucket?",
           "description": "Provide a brief description of Bitbucket.",
           "hint": "Think about version control systems.",
+          "difficulty": 0,
           "options": [
             {
               "label": "A",
@@ -49,6 +50,7 @@
           "question": "Which version control systems does Bitbucket support?",
           "description": "List the version control systems compatible with Bitbucket.",
           "hint": "Consider popular version control systems.",
+          "difficulty": 0,
           "options": [
             {
               "label": "A",
@@ -75,6 +77,7 @@
           "question": "What type of hosting does Bitbucket provide?",
           "description": "Describe the hosting services offered by Bitbucket.",
           "hint": "Think about hosting code repositories.",
+          "difficulty": 0,
           "options": [
             {
               "label": "A",
@@ -101,6 +104,7 @@
           "question": "Which of the following is NOT a feature of Bitbucket?",
           "description": "Identify the feature that is not associated with Bitbucket.",
           "hint": "Consider features related to version control.",
+          "difficulty": 0,
           "options": [
             {
               "label": "A",
@@ -127,6 +131,7 @@
           "question": "What is the purpose of a Bitbucket repository?",
           "description": "Explain the primary purpose of creating a repository in Bitbucket.",
           "hint": "Think about code collaboration and version control.",
+          "difficulty": 0,
           "options": [
             {
               "label": "A",
@@ -153,6 +158,7 @@
           "question": "Which programming languages are compatible with Bitbucket?",
           "description": "List the programming languages that can be used with Bitbucket.",
           "hint": "Consider popular programming languages.",
+          "difficulty": 0,
           "options": [
             {
               "label": "A",
@@ -179,6 +185,7 @@
           "question": "What is the purpose of a pull request in Bitbucket?",
           "description": "Explain the primary function of a pull request in the context of Bitbucket.",
           "hint": "Think about code collaboration and merging changes.",
+          "difficulty": 0,
           "options": [
             {
               "label": "A",
@@ -205,6 +212,7 @@
           "question": "Can Bitbucket be used for private repositories?",
           "description": "Determine if Bitbucket supports the creation of private repositories.",
           "hint": "Consider the privacy options offered by Bitbucket.",
+          "difficulty": 0,
           "options": [
             {
               "label": "A",
@@ -225,6 +233,7 @@
           "question": "What is the purpose of branching in Bitbucket?",
           "description": "Explain the primary use of branching in the context of Bitbucket.",
           "hint": "Think about parallel development and code isolation.",
+          "difficulty": 0,
           "options": [
             {
               "label": "A",
@@ -251,6 +260,7 @@
           "question": "What authentication methods does Bitbucket support?",
           "description": "List the authentication methods available for Bitbucket.",
           "hint": "Consider secure access to repositories.",
+          "difficulty": 0,
           "options": [
             {
               "label": "A",
@@ -277,6 +287,7 @@
           "question": "What is the purpose of the 'Issues' feature in Bitbucket?",
           "description": "Explain the primary use of the 'Issues' feature in Bitbucket.",
           "hint": "Consider tracking tasks, enhancements, and bugs.",
+          "difficulty": 1,
           "options": [
             {
               "label": "A",
@@ -303,6 +314,7 @@
           "question": "How can you contribute to someone else's repository on Bitbucket?",
           "description": "Explain the process of contributing to a repository owned by another user in Bitbucket.",
           "hint": "Think about forks and pull requests.",
+          "difficulty": 1,
           "options": [
             {
               "label": "A",
@@ -329,6 +341,7 @@
           "question": "What is the purpose of the 'Wiki' feature in Bitbucket?",
           "description": "Explain the primary use of the 'Wiki' feature in Bitbucket.",
           "hint": "Consider documentation and collaboration.",
+          "difficulty": 1,
           "options": [
             {
               "label": "A",
@@ -355,6 +368,7 @@
           "question": "What is the purpose of a merge conflict in Bitbucket?",
           "description": "Explain when a merge conflict may occur in Bitbucket.",
           "hint": "Think about concurrent changes to the same file.",
+          "difficulty": 1,
           "options": [
             {
               "label": "A",
@@ -381,6 +395,7 @@
           "question": "What is the purpose of the 'Pipelines' feature in Bitbucket?",
           "description": "Explain the primary use of the 'Pipelines' feature in Bitbucket.",
           "hint": "Consider continuous integration and delivery.",
+          "difficulty": 1,
           "options": [
             {
               "label": "A",
@@ -407,6 +422,7 @@
           "question": "What is the purpose of the 'Source' view in Bitbucket?",
           "description": "Explain the primary use of the 'Source' view when exploring a repository in Bitbucket.",
           "hint": "Consider browsing and navigating code files.",
+          "difficulty": 1,
           "options": [
             {
               "label": "A",
@@ -433,6 +449,7 @@
           "question": "What is a 'README' file, and why is it important in Bitbucket?",
           "description": "Explain the significance of a 'README' file in the context of Bitbucket repositories.",
           "hint": "Think about providing information and instructions.",
+          "difficulty": 1,
           "options": [
             {
               "label": "A",
@@ -459,6 +476,7 @@
           "question": "How does Bitbucket handle conflicts during a pull request?",
           "description": "Explain the conflict resolution process in Bitbucket pull requests.",
           "hint": "Consider manual resolution and communication.",
+          "difficulty": 1,
           "options": [
             {
               "label": "A",
@@ -485,6 +503,7 @@
           "question": "What is the purpose of the 'Insights' tab in Bitbucket?",
           "description": "Explain the primary use of the 'Insights' tab when exploring a repository in Bitbucket.",
           "hint": "Consider analytics and project statistics.",
+          "difficulty": 1,
           "options": [
             {
               "label": "A",
@@ -511,6 +530,7 @@
           "question": "What is the purpose of the 'Forks' feature in Bitbucket?",
           "description": "Explain the primary use of the 'Forks' feature in the context of Bitbucket repositories.",
           "hint": "Think about collaborative development and independent work.",
+          "difficulty": 1,
           "options": [
             {
               "label": "A",
@@ -537,6 +557,7 @@
           "question": "Explain the concept of a 'Pull Request Review' in Bitbucket.",
           "description": "Describe the purpose and process of a 'Pull Request Review' in Bitbucket.",
           "hint": "Consider code inspection and collaboration.",
+          "difficulty": 2,
           "options": [
             {
               "label": "A",
@@ -563,6 +584,7 @@
           "question": "What is the purpose of the 'Settings' section in a Bitbucket repository?",
           "description": "Explain the primary functions found in the 'Settings' section of a Bitbucket repository.",
           "hint": "Consider repository configuration and management.",
+          "difficulty": 2,
           "options": [
             {
               "label": "A",
@@ -589,6 +611,7 @@
           "question": "What is the purpose of the 'Deployments' feature in Bitbucket?",
           "description": "Explain the primary use of the 'Deployments' feature in Bitbucket.",
           "hint": "Think about the deployment process in software development.",
+          "difficulty": 2,
           "options": [
             {
               "label": "A",
@@ -615,6 +638,7 @@
           "question": "What is the significance of branch permissions in Bitbucket?",
           "description": "Explain the purpose of implementing branch permissions in a Bitbucket repository.",
           "hint": "Think about access control and code quality.",
+          "difficulty": 2,
           "options": [
             {
               "label": "A",
@@ -641,6 +665,7 @@
           "question": "Explain the role of webhooks in Bitbucket.",
           "description": "Describe how webhooks are used to enhance automation in Bitbucket.",
           "hint": "Consider event triggers and external integrations.",
+          "difficulty": 2,
           "options": [
             {
               "label": "A",
@@ -667,6 +692,7 @@
           "question": "What is the purpose of 'Bitbucket Pipelines'?",
           "description": "Explain how 'Bitbucket Pipelines' contributes to the software development process.",
           "hint": "Think about continuous integration and delivery.",
+          "difficulty": 2,
           "options": [
             {
               "label": "A",
@@ -693,6 +719,7 @@
           "question": "What is a 'Bitbucket Workspace,' and how does it differ from a repository?",
           "description": "Explain the concept of a 'Bitbucket Workspace' and highlight its differences from a repository.",
           "hint": "Consider organizational structure and collaboration.",
+          "difficulty": 2,
           "options": [
             {
               "label": "A",
@@ -719,6 +746,7 @@
           "question": "How does Bitbucket handle branching strategies, and why are they important?",
           "description": "Explain how Bitbucket supports branching strategies and their significance in collaborative development.",
           "hint": "Consider parallel development and code isolation.",
+          "difficulty": 2,
           "options": [
             {
               "label": "A",
@@ -745,6 +773,7 @@
           "question": "Explain the purpose of the 'Access Keys' feature in Bitbucket.",
           "description": "Describe how 'Access Keys' enhance security in Bitbucket.",
           "hint": "Consider secure access to repositories.",
+          "difficulty": 2,
           "options": [
             {
               "label": "A",
@@ -771,6 +800,7 @@
           "question": "What role does the 'Diff' feature play in Bitbucket?",
           "description": "Explain how the 'Diff' feature is used when reviewing code changes in Bitbucket.",
           "hint": "Consider code comparison and changes.",
+          "difficulty": 2,
           "options": [
             {
               "label": "A",
@@ -797,6 +827,7 @@
           "question": "What is the purpose of the 'Code Insights' feature in Bitbucket?",
           "description": "Explain how 'Code Insights' enhances code quality in Bitbucket.",
           "hint": "Consider automated code analysis and feedback.",
+          "difficulty": 3,
           "options": [
             {
               "label": "A",
@@ -823,6 +854,7 @@
           "question": "Explain the role of 'Bitbucket Snippets' in collaborative development.",
           "description": "Describe how 'Bitbucket Snippets' contribute to sharing code snippets and collaborating in Bitbucket.",
           "hint": "Think about sharing small pieces of code for collaboration.",
+          "difficulty": 3,
           "options": [
             {
               "label": "A",
@@ -849,6 +881,7 @@
           "question": "What is the purpose of 'Repository Forking' in Bitbucket?",
           "description": "Explain how 'Repository Forking' facilitates collaborative development in Bitbucket.",
           "hint": "Consider creating independent copies for contributions.",
+          "difficulty": 3,
           "options": [
             {
               "label": "A",
@@ -875,6 +908,7 @@
           "question": "How does Bitbucket support continuous integration?",
           "description": "Explain the features and tools in Bitbucket that contribute to continuous integration.",
           "hint": "Consider automated testing and code deployment.",
+          "difficulty": 3,
           "options": [
             {
               "label": "A",
@@ -901,6 +935,7 @@
           "question": "Explain the significance of 'Smart Mirroring' in Bitbucket.",
           "description": "Describe how 'Smart Mirroring' contributes to repository performance in Bitbucket.",
           "hint": "Think about distributed teams and faster repository access.",
+          "difficulty": 3,
           "options": [
             {
               "label": "A",
@@ -927,6 +962,7 @@
           "question": "What is the purpose of the 'Projects' feature in Bitbucket?",
           "description": "Explain how 'Projects' contribute to organizing and managing repositories in Bitbucket.",
           "hint": "Consider grouping repositories for better organization.",
+          "difficulty": 3,
           "options": [
             {
               "label": "A",
@@ -953,6 +989,7 @@
           "question": "What is the purpose of 'Repository Permissions' in Bitbucket?",
           "description": "Explain how 'Repository Permissions' enhance access control and security in Bitbucket.",
           "hint": "Think about controlling user access to repositories.",
+          "difficulty": 3,
           "options": [
             {
               "label": "A",
@@ -979,6 +1016,7 @@
           "question": "Explain the role of 'Bitbucket Insights' in monitoring repository activity.",
           "description": "Describe how 'Bitbucket Insights' provides analytics and insights into repository usage.",
           "hint": "Consider project statistics and analytics.",
+          "difficulty": 3,
           "options": [
             {
               "label": "A",
@@ -1005,6 +1043,7 @@
           "question": "What is the purpose of 'Repository Hooks' in Bitbucket?",
           "description": "Explain how 'Repository Hooks' enhance functionality and automation in Bitbucket.",
           "hint": "Think about customizing repository behavior based on events.",
+          "difficulty": 3,
           "options": [
             {
               "label": "A",
@@ -1031,6 +1070,7 @@
           "question": "Explain the purpose of 'Repository Comparisons' in Bitbucket.",
           "description": "Describe how 'Repository Comparisons' help developers analyze code changes across different branches or commits.",
           "hint": "Consider visualizing and understanding code differences.",
+          "difficulty": 3,
           "options": [
             {
               "label": "A",
@@ -1057,6 +1097,7 @@
           "question": "Explain the role of 'Branching Policies' in Bitbucket and their impact on code quality.",
           "description": "Describe how 'Branching Policies' contribute to maintaining code quality in collaborative development.",
           "hint": "Consider enforcing rules for code changes.",
+          "difficulty": 4,
           "options": [
             {
               "label": "A",
@@ -1083,6 +1124,7 @@
           "question": "How does 'Git LFS' (Large File Storage) contribute to Bitbucket repositories?",
           "description": "Explain the purpose of 'Git LFS' and its impact on handling large files in Bitbucket.",
           "hint": "Consider versioning large binary files.",
+          "difficulty": 4,
           "options": [
             {
               "label": "A",
@@ -1109,6 +1151,7 @@
           "question": "Explain the concept of 'Advanced Pull Request Merging' in Bitbucket.",
           "description": "Describe how 'Advanced Pull Request Merging' offers flexibility in merging code changes.",
           "hint": "Consider scenarios where standard merging is not suitable.",
+          "difficulty": 4,
           "options": [
             {
               "label": "A",
@@ -1135,6 +1178,7 @@
           "question": "What role does 'Smart Commits' play in Bitbucket and how do they enhance collaboration?",
           "description": "Explain how 'Smart Commits' contribute to integrating development activities with Bitbucket issues.",
           "hint": "Consider automating issue transitions through commit messages.",
+          "difficulty": 4,
           "options": [
             {
               "label": "A",
@@ -1161,6 +1205,7 @@
           "question": "Explain the purpose of 'Jira Integration' in Bitbucket and how it improves project management.",
           "description": "Describe how integrating Bitbucket with Jira enhances collaboration between development and project management.",
           "hint": "Consider seamless tracking of development progress.",
+          "difficulty": 4,
           "options": [
             {
               "label": "A",
@@ -1187,6 +1232,7 @@
           "question": "What is the purpose of 'Repository Templates' in Bitbucket?",
           "description": "Explain how 'Repository Templates' streamline the creation of new repositories in Bitbucket.",
           "hint": "Consider standardizing repository structures and settings.",
+          "difficulty": 4,
           "options": [
             {
               "label": "A",
@@ -1213,6 +1259,7 @@
           "question": "How does 'Bitbucket Data Center' differ from the standard Bitbucket Server version?",
           "description": "Explain the differences between 'Bitbucket Data Center' and the standard 'Bitbucket Server' version, focusing on scalability.",
           "hint": "Consider handling large-scale instances and high availability.",
+          "difficulty": 4,
           "options": [
             {
               "label": "A",
@@ -1239,6 +1286,7 @@
           "question": "Explain the significance of 'Merge Strategies' in Bitbucket and how they impact code integration.",
           "description": "Describe how 'Merge Strategies' influence the process of integrating code changes in Bitbucket.",
           "hint": "Consider different approaches to combining code changes.",
+          "difficulty": 4,
           "options": [
             {
               "label": "A",
@@ -1265,6 +1313,7 @@
           "question": "What is the purpose of 'Bitbucket Insights for Bamboo' integration?",
           "description": "Explain how integrating 'Bitbucket Insights' with 'Bamboo' enhances the overall development and CI/CD process.",
           "hint": "Consider analytics and reporting for continuous improvement.",
+          "difficulty": 4,
           "options": [
             {
               "label": "A",
@@ -1291,6 +1340,7 @@
           "question": "Explain the purpose of 'Bitbucket Mirror Repositories' and how they support distributed development teams.",
           "description": "Describe how 'Bitbucket Mirror Repositories' contribute to supporting distributed development teams in Bitbucket.",
           "hint": "Consider repository access for teams in different locations.",
+          "difficulty": 4,
           "options": [
             {
               "label": "A",

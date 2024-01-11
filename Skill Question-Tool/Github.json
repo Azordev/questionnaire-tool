@@ -39,6 +39,7 @@
                     "question": "What is GitHub used for?",
                     "description": "Provide a brief explanation of GitHub's purpose.",
                     "hint": "Think about version control and collaboration.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -65,6 +66,7 @@
                     "question": "What is a 'repository' in GitHub?",
                     "description": "Explain what a repository represents in the context of GitHub.",
                     "hint": "Think about where code and project files are stored.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -91,6 +93,7 @@
                     "question": "How do you clone a repository in Git?",
                     "description": "Explain the process of cloning a repository using Git.",
                     "hint": "Think about the 'git clone' command.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -117,6 +120,7 @@
                     "question": "What is a 'pull request'?",
                     "description": "Explain the purpose of a pull request in GitHub.",
                     "hint": "Think about proposing changes and merging code.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -143,6 +147,7 @@
                     "question": "What is the purpose of the 'fork' feature in GitHub?",
                     "description": "Explain why you might use the 'fork' feature in GitHub.",
                     "hint": "Think about contributing to open source projects.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -169,6 +174,7 @@
                     "question": "What is the purpose of the 'commit' in Git?",
                     "description": "Explain the role of a 'commit' in the version control process.",
                     "hint": "Think about saving changes in Git.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -195,6 +201,7 @@
                     "question": "What does the term 'merge conflict' mean in Git?",
                     "description": "Define what a 'merge conflict' is in the context of Git.",
                     "hint": "Think about conflicting changes during merging.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -221,6 +228,7 @@
                     "question": "What is the purpose of the 'Issues' tab in a GitHub repository?",
                     "description": "Explain the use of the 'Issues' tab for managing projects.",
                     "hint": "Think about tracking and discussing tasks.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -247,6 +255,7 @@
                     "question": "What is a 'GitHub Gist'?",
                     "description": "Explain the purpose of a 'GitHub Gist'.",
                     "hint": "Think about sharing code snippets.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -273,6 +282,7 @@
                     "question": "What does the term 'forking' mean in the context of GitHub?",
                     "description": "Define the concept of 'forking' a repository.",
                     "hint": "Think about making a personal copy for your use.",
+                    "difficulty": 0,
                     "options": [
                         {
                             "label": "A",
@@ -299,6 +309,7 @@
                     "question": "How do you create a new branch in Git?",
                     "description": "Explain the process of creating a new branch in Git.",
                     "hint": "Think about the 'git branch' command.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -325,6 +336,7 @@
                     "question": "What is the purpose of the 'git pull' command?",
                     "description": "Explain why you might use the 'git pull' command in Git.",
                     "hint": "Think about updating your local repository.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -351,6 +363,7 @@
                     "question": "What is the purpose of the 'git log' command?",
                     "description": "Explain what information the 'git log' command provides.",
                     "hint": "Think about viewing the commit history.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -377,6 +390,7 @@
                     "question": "What does 'README.md' stand for in a GitHub repository?",
                     "description": "Explain the purpose of a 'README.md' file.",
                     "hint": "Think about providing information about the project.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -403,6 +417,7 @@
                     "question": "What is the purpose of the 'git push' command?",
                     "description": "Explain why you might use the 'git push' command in Git.",
                     "hint": "Think about updating the remote repository.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -429,6 +444,7 @@
                     "question": "What is the purpose of the 'git fetch' command?",
                     "description": "Explain why you might use the 'git fetch' command in Git.",
                     "hint": "Think about retrieving changes from the remote repository.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -455,6 +471,7 @@
                     "question": "What is the purpose of the 'git branch -d' command?",
                     "description": "Explain the use of 'git branch -d' in Git.",
                     "hint": "Think about deleting branches.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -481,6 +498,7 @@
                     "question": "What is a 'gitignore' file used for?",
                     "description": "Explain the purpose of a 'gitignore' file in a Git repository.",
                     "hint": "Think about specifying files to be ignored by Git.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -507,6 +525,7 @@
                     "question": "What is the purpose of the 'git reset' command?",
                     "description": "Explain why you might use the 'git reset' command in Git.",
                     "hint": "Think about undoing changes in your local repository.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -533,6 +552,7 @@
                     "question": "What is the purpose of the 'Pull Request' title and description?",
                     "description": "Explain why providing a title and description is important when creating a Pull Request.",
                     "hint": "Think about communication and context.",
+                    "difficulty": 1,
                     "options": [
                         {
                             "label": "A",
@@ -559,6 +579,7 @@
                     "question": "What is the purpose of the 'git merge' command?",
                     "description": "Explain the use of the 'git merge' command in Git.",
                     "hint": "Think about combining changes from different branches.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -585,6 +606,7 @@
                     "question": "What is the purpose of the 'git rebase' command?",
                     "description": "Explain the use of the 'git rebase' command in Git.",
                     "hint": "Think about combining and rewriting commit history.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -611,6 +633,7 @@
                     "question": "What is the purpose of the 'git cherry-pick' command?",
                     "description": "Explain the use of the 'git cherry-pick' command in Git.",
                     "hint": "Think about selecting and applying specific commits.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -637,6 +660,7 @@
                     "question": "What is a 'GitHub Action'?",
                     "description": "Explain the purpose of a 'GitHub Action' in a GitHub repository.",
                     "hint": "Think about automation in the software development workflow.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -663,6 +687,7 @@
                     "question": "What is the purpose of the 'git submodule' command?",
                     "description": "Explain the use of the 'git submodule' command in Git.",
                     "hint": "Think about managing external dependencies.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -689,6 +714,7 @@
                     "question": "What is the purpose of the 'GitHub Wiki' feature?",
                     "description": "Explain the use of the 'GitHub Wiki' in a GitHub repository.",
                     "hint": "Think about documenting project-related information.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -715,6 +741,7 @@
                     "question": "What is the purpose of the 'Code of Conduct' in a GitHub repository?",
                     "description": "Explain the importance of having a 'Code of Conduct' for an open source project.",
                     "hint": "Think about fostering a positive and inclusive community.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -741,6 +768,7 @@
                     "question": "What is the purpose of the 'git tag' command?",
                     "description": "Explain the use of the 'git tag' command in Git.",
                     "hint": "Think about marking specific points in Git history.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -767,6 +795,7 @@
                     "question": "What is the purpose of the 'GitHub Discussions' feature?",
                     "description": "Explain how 'GitHub Discussions' can be used in a GitHub repository.",
                     "hint": "Think about providing a space for community discussions.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -793,6 +822,7 @@
                     "question": "What is the purpose of the 'git stash' command?",
                     "description": "Explain why you might use the 'git stash' command in Git.",
                     "hint": "Think about temporarily saving changes.",
+                    "difficulty": 2,
                     "options": [
                         {
                             "label": "A",
@@ -819,6 +849,7 @@
                     "question": "Explain the difference between 'git pull' and 'git fetch'.",
                     "description": "Clarify the distinctions between 'git pull' and 'git fetch' commands in Git.",
                     "hint": "Think about the impact on the local and remote repositories.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -845,6 +876,7 @@
                     "question": "What is the purpose of the 'git bisect' command?",
                     "description": "Explain the use of the 'git bisect' command in Git.",
                     "hint": "Think about finding the commit that introduced a bug.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -871,6 +903,7 @@
                     "question": "Explain the concept of a 'git rebase' conflict.",
                     "description": "Describe what happens when a conflict occurs during a 'git rebase' operation.",
                     "hint": "Think about conflicting changes in commit history.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -897,6 +930,7 @@
                     "question": "What is the purpose of the 'git log --graph' command?",
                     "description": "Explain the use of the 'git log --graph' command in Git.",
                     "hint": "Think about visualizing commit history as a graph.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -923,6 +957,7 @@
                     "question": "What is the purpose of the 'git cherry-pick -x' option?",
                     "description": "Explain the use of the 'git cherry-pick -x' option and its significance.",
                     "hint": "Think about tracking the origin of cherry-picked commits.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -949,6 +984,7 @@
                     "question": "Explain the purpose of the 'git reflog' command.",
                     "description": "Describe what the 'git reflog' command is used for in Git.",
                     "hint": "Think about recovering lost commits or branches.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -975,6 +1011,7 @@
                     "question": "Explain the concept of 'forking' a repository on GitHub.",
                     "description": "Describe what it means to 'fork' a repository and its implications.",
                     "hint": "Think about creating a personal copy of a repository.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -1001,6 +1038,7 @@
                     "question": "What is the purpose of the 'git squash' command?",
                     "description": "Explain the use of the 'git squash' command in Git.",
                     "hint": "Think about combining multiple commits into a single commit.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -1027,6 +1065,7 @@
                     "question": "What is the purpose of the 'GitHub Actions workflow'?",
                     "description": "Explain the use of a 'GitHub Actions workflow' in a GitHub repository.",
                     "hint": "Think about automating tasks in the software development lifecycle.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -1053,6 +1092,7 @@
                     "question": "What is the purpose of the 'git blame' command?",
                     "description": "Explain the use of the 'git blame' command in Git.",
                     "hint": "Think about tracking changes in a file and finding the author of each line.",
+                    "difficulty": 3,
                     "options": [
                         {
                             "label": "A",
@@ -1079,6 +1119,7 @@
                     "question": "Explain the difference between a 'pull request' and a 'merge request'.",
                     "description": "Clarify the distinctions between a 'pull request' and a 'merge request' in Git.",
                     "hint": "Think about the terminology used by different Git hosting platforms.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1105,6 +1146,7 @@
                     "question": "What is the purpose of the 'git filter-branch' command?",
                     "description": "Explain the use of the 'git filter-branch' command in Git and its implications.",
                     "hint": "Think about rewriting commit history.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1131,6 +1173,7 @@
                     "question": "Explain the concept of 'git submodules'.",
                     "description": "Describe what 'git submodules' are and how they are used in Git repositories.",
                     "hint": "Think about including external repositories within a Git repository.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1157,6 +1200,7 @@
                     "question": "What is the purpose of the 'git revert' command?",
                     "description": "Explain the use of the 'git revert' command in Git.",
                     "hint": "Think about creating a new commit to undo changes from a previous commit.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1183,6 +1227,7 @@
                     "question": "Explain the purpose of 'GitHub Copilot' in software development.",
                     "description": "Describe how 'GitHub Copilot' assists developers in their coding process.",
                     "hint": "Think about AI-powered code suggestions.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1209,6 +1254,7 @@
                     "question": "What is the purpose of the 'git rebase -i' command?",
                     "description": "Explain the use of the 'git rebase -i' command in Git and its significance.",
                     "hint": "Think about interactive rebase and modifying commit history.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1235,6 +1281,7 @@
                     "question": "Explain the concept of 'git worktree'.",
                     "description": "Describe what 'git worktree' is and how it is used in Git repositories.",
                     "hint": "Think about working with multiple branches simultaneously.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1261,6 +1308,7 @@
                     "question": "What is the purpose of the 'GitHub Sponsors' feature?",
                     "description": "Explain how 'GitHub Sponsors' supports open source developers on the GitHub platform.",
                     "hint": "Think about financial support for open source projects.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1287,6 +1335,7 @@
                     "question": "Explain the purpose of the 'git rerere' command.",
                     "description": "Describe what the 'git rerere' command is used for in Git.",
                     "hint": "Think about automatically resolving repeated merge conflicts.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
@@ -1313,6 +1362,7 @@
                     "question": "What is the purpose of the 'git worktree prune' command?",
                     "description": "Explain the use of the 'git worktree prune' command in Git.",
                     "hint": "Think about cleaning up stale or deleted branches in worktrees.",
+                    "difficulty": 4,
                     "options": [
                         {
                             "label": "A",
