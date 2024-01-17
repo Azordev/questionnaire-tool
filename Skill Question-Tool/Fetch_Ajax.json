@@ -1,7 +1,7 @@
 {
     "skill": {
-        "Fetch_Ajax": {
-            "id": "fetch_ajax",
+        "Fetch-Ajax": {
+            "id": "fetch-ajax",
             "description": "Ajax is the technique that lets us send and receive the data asynchronously from the servers e.g. updating the user profile or asynchronously fetching the list of searched products without reloading the page.Visit the following resources to learn more:",
             "resources": [
                 {
