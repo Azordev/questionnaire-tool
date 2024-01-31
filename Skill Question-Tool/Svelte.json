@@ -496,7 +496,7 @@
                     ]
                 },
                 {
-                    "id": "15a890b123-c456-d789-012e345a678",
+                    "id": "e6f8201b-5b1f-4961-b13b-ce4e4a03bd7a",
                     "question": "What is the purpose of the 'on:' directive in Svelte?",
                     "description": "Explore the role of the 'on:' directive in handling events within Svelte components.",
                     "hint": "Consider how 'on:' is used to bind event handlers in Svelte.",
@@ -562,7 +562,7 @@
                     ]
                 },
                 {
-                    "id": "17e9012c34-5d67-a890-b123c456d789",
+                    "id": "a45ac39a-dbc2-47c9-a8ef-ebfac4c16680",
                     "question": "What is the purpose of the 'each' block in Svelte?",
                     "description": "Explore the role of the 'each' block in rendering lists within Svelte components.",
                     "hint": "Consider how the 'each' block is used to iterate over data and generate dynamic content.",
@@ -595,7 +595,7 @@
                     ]
                 },
                 {
-                    "id": "18f012a34-b567c890-d1234e56-f6789012",
+                    "id": "dcfa6e16-d41e-48d7-9da3-e0b8ef56232a",
                     "question": "What is the role of the 'await' block in Svelte?",
                     "description": "Explore how the 'await' block is used in handling asynchronous operations within Svelte components.",
                     "hint": "Consider scenarios where asynchronous operations are necessary in a component.",
@@ -628,7 +628,7 @@
                     ]
                 },
                 {
-                    "id": "19c345d678-e9012f34-a567-b890c123d456",
+                    "id": "a9c49ed3-4385-475c-8d42-e744b939a1ed",
                     "question": "How does Svelte handle CSS styling within components?",
                     "description": "Explore the approach Svelte takes in managing CSS styles for its components.",
                     "hint": "Consider whether Svelte uses a scoped or global approach to CSS styling.",
@@ -661,7 +661,7 @@
                     ]
                 },
                 {
-                    "id": "20d789012-3e45f678-a901b234-c567d8901a23",
+                    "id": "35797b78-8802-4128-8148-7697a4258d13",
                     "question": "What is the purpose of the 'bind:this' directive in Svelte?",
                     "description": "Explore the role of the 'bind:this' directive in Svelte component development.",
                     "hint": "Consider how 'bind:this' is used to reference and manipulate DOM elements.",
@@ -694,7 +694,7 @@
                     ]
                 },
                 {
-                    "id": "21b234c567d890-1a23-4b56-e789-c012d345e678",
+                    "id": "2f528c13-93bc-49ed-952a-9c41345dcd7c",
                     "question": "Explain the concept of reactivity in Svelte and how it differs from other frameworks.",
                     "description": "Provide insights into the concept of reactivity in Svelte and highlight its distinctions from reactivity in other frameworks.",
                     "hint": "Consider how Svelte achieves reactivity and compare it to mechanisms used in Vue or React.",
@@ -727,7 +727,7 @@
                     ]
                 },
                 {
-                    "id": "22c789d0123-4e56-f6789012-a34b567c8901",
+                    "id": "e52c5e1f-dd0b-499e-a03b-96de09419bf0",
                     "question": "Compare the routing mechanisms in Svelte to those in React.",
                     "description": "Examine how routing is implemented in Svelte and contrast it with the routing mechanisms in React.",
                     "hint": "Consider the key differences in syntax or concepts used for routing in Svelte and React.",
@@ -760,7 +760,7 @@
                     ]
                 },
                 {
-                    "id": "23d012e345a678-0c12-d345e678-f9012c345d67",
+                    "id": "b51ba302-570d-484c-8fd5-0000cdc187e2",
                     "question": "Discuss the impact of Svelte's compile-time approach on the performance of web applications.",
                     "description": "Analyze how Svelte's compile-time approach influences the performance of web applications and compare it to other runtime frameworks.",
                     "hint": "Consider the advantages and potential drawbacks of Svelte's compilation step on performance.",
@@ -793,7 +793,7 @@
                     ]
                 },
                 {
-                    "id": "24e678901-2a34-b567c890-d1234e56f678",
+                    "id": "0eb79053-9865-4466-824b-20720bec8154",
                     "question": "Explain the concept of slots in Svelte and how they differ from props in React.",
                     "description": "Provide insights into the concept of slots in Svelte components and highlight distinctions from the use of props in React.",
                     "hint": "Consider how slots and props are used to pass content between parent and child components in Svelte and React.",
@@ -826,7 +826,7 @@
                     ]
                 },
                 {
-                    "id": "25a0123c345d678-9e012f34a567-b890c123d456",
+                    "id": "c7efc0d3-e287-47a4-9b46-bd09d25be766",
                     "question": "Explore the use of stores in Svelte for state management and compare them to Redux in React.",
                     "description": "Analyze how Svelte utilizes stores for state management and contrast this approach with the use of Redux in React.",
                     "hint": "Consider the built-in features of Svelte stores and the role of Redux in managing state in React applications.",
@@ -859,7 +859,7 @@
                     ]
                 },
                 {
-                    "id": "26b567c8901a23-4b56e789c012-3e45f6789d01",
+                    "id": "fe4ac91d-2bca-46ed-b279-a633d441e4ef",
                     "question": "Compare the syntax for handling events in Svelte to that in Vue.js.",
                     "description": "Examine how events are handled in Svelte and compare the syntax to the event handling mechanism in Vue.js.",
                     "hint": "Consider the syntax and concepts used for event handling in Svelte and Vue.js.",
@@ -892,7 +892,7 @@
                     ]
                 },
                 {
-                    "id": "27c6789012d345-6789e012f34-a567b890c123",
+                    "id": "2648c8f9-a0e0-4f26-a36c-6a3091a8e743",
                     "question": "Explore the role of transitions in Svelte and how they enhance user interface interactions.",
                     "description": "Analyze the concept of transitions in Svelte and how they contribute to improving user interface interactions.",
                     "hint": "Consider how transitions are implemented in Svelte and their impact on the visual experience for users.",
@@ -925,7 +925,7 @@
                     ]
                 },
                 {
-                    "id": "28d012345e678-9012f34a567-b890c123d456e789",
+                    "id": "e243779c-3a5e-4b16-87bd-8aebc0558f5e",
                     "question": "Discuss the concept of reactivity in Svelte and its advantages over traditional imperative frameworks.",
                     "description": "Provide an in-depth analysis of the reactivity concept in Svelte and highlight its advantages compared to traditional imperative frameworks.",
                     "hint": "Consider how Svelte's reactivity simplifies state management and updates in components.",
@@ -958,7 +958,7 @@
                     ]
                 },
                 {
-                    "id": "29c012d345e67-8901a234b56-ef6789012a34",
+                    "id": "664c19d5-bc3f-43ee-9404-9180dcbba349",
                     "question": "Examine the role of the 'bind:' directive in Svelte and how it differs from similar concepts in other frameworks.",
                     "description": "Analyze the purpose and functionality of the 'bind:' directive in Svelte and compare it to similar concepts in other front-end frameworks.",
                     "hint": "Consider how 'bind:' is used to establish two-way data binding in Svelte.",
@@ -991,7 +991,7 @@
                     ]
                 },
                 {
-                    "id": "30e5678901-2a34b56e789-012f34a567-b890c123",
+                    "id": "1da431df-34d5-4252-a7b9-3e7d89a264ca",
                     "question": "Discuss the concept of hydration in the context of Svelte applications and its role in optimizing initial page loads.",
                     "description": "Examine the concept of hydration in Svelte applications and how it contributes to optimizing the initial loading of pages.",
                     "hint": "Consider how hydration is related to server-side rendering and the client-side rehydration process in Svelte.",
@@ -1024,7 +1024,7 @@
                     ]
                 },
                 {
-                    "id": "31c012d345e6789-012a34b56e7890-1a23b567c890",
+                    "id": "185d0464-458c-455c-8341-17cf7d068986",
                     "question": "Examine the concept of reactive statements in Svelte and how they contribute to advanced state management.",
                     "description": "Analyze the use of reactive statements in Svelte and their role in managing complex state scenarios.",
                     "hint": "Consider scenarios where reactive statements are beneficial in handling state changes.",
@@ -1057,7 +1057,7 @@
                     ]
                 },
                 {
-                    "id": "32d012345e67890-1a23b56e789c012f-34a567b890c123",
+                    "id": "988c78f7-757b-4051-8dde-3a2ccde995cd",
                     "question": "Investigate the role of the 'context' API in Svelte and its advantages over similar concepts in other frameworks.",
                     "description": "Analyze the purpose and functionality of the 'context' API in Svelte and compare it to similar concepts in other front-end frameworks.",
                     "hint": "Consider how 'context' is used to share state between deeply nested components.",
@@ -1090,7 +1090,7 @@
                     ]
                 },
                 {
-                    "id": "33e56789012a34b56-ef6789012d345-6789a567b890c12",
+                    "id": "735cc3ea-07e1-41ed-ba71-c52ce37c5292",
                     "question": "Explore the implementation of lazy loading in Svelte and its impact on optimizing web application performance.",
                     "description": "Analyze how lazy loading is implemented in Svelte and discuss its advantages in optimizing the performance of web applications.",
                     "hint": "Consider scenarios where lazy loading is beneficial in improving initial page load times.",
@@ -1123,7 +1123,7 @@
                     ]
                 },
                 {
-                    "id": "34a567b8901c012d-345e6789-012a34b56e7890",
+                    "id": "c94e241a-93d1-4412-9e1b-184f6298d888",
                     "question": "Investigate Svelte's approach to handling global state and compare it to similar solutions in React and Vue.js.",
                     "description": "Analyze how Svelte addresses global state management and contrast its approach with popular solutions in React and Vue.js.",
                     "hint": "Consider the built-in features or external libraries used for global state management in Svelte, React, and Vue.js.",
@@ -1156,7 +1156,7 @@
                     ]
                 },
                 {
-                    "id": "35b6789012c345d-6789012a34b56e7-8901a23b567c890",
+                    "id": "81a9004f-289a-4423-858c-e354bc4c4752",
                     "question": "Examine the role of Svelte's 'onDestroy' lifecycle hook and its significance in managing resources.",
                     "description": "Analyze the purpose and functionality of the 'onDestroy' lifecycle hook in Svelte components and discuss its significance in resource management.",
                     "hint": "Consider scenarios where 'onDestroy' is useful in cleaning up resources or subscriptions.",
@@ -1189,7 +1189,7 @@
                     ]
                 },
                 {
-                    "id": "36c012d345e67890-1a23b56e789c012f-34a567b890c123",
+                    "id": "158f719c-132b-409c-af07-7ac32e915840",
                     "question": "Discuss the implementation of custom transitions in Svelte and their advantages in creating unique user interface animations.",
                     "description": "Analyze how custom transitions are implemented in Svelte and explore the advantages they offer in creating distinctive animations for user interfaces.",
                     "hint": "Consider scenarios where custom transitions are beneficial and how they differ from standard transitions.",
@@ -1222,7 +1222,7 @@
                     ]
                 },
                 {
-                    "id": "37d012345e67890-1a23b56e789c012f-34a567b890c123",
+                    "id": "187546a3-e3d9-45ac-a05c-73d96c88dfcb",
                     "question": "Explore Svelte's approach to handling dynamic components and compare it to similar features in React and Vue.js.",
                     "description": "Analyze how Svelte manages dynamic components and contrast its approach with comparable features in React and Vue.js.",
                     "hint": "Consider the syntax and capabilities of dynamic components in Svelte, React, and Vue.js.",
@@ -1255,7 +1255,7 @@
                     ]
                 },
                 {
-                    "id": "38e56789012a34b56-ef6789012d345-6789a567b890c12",
+                    "id": "c8daf4ae-bd41-41f0-ad4a-43a1db1e59d0",
                     "question": "Discuss Svelte's handling of server-side rendering (SSR) and its impact on application performance.",
                     "description": "Analyze how Svelte approaches server-side rendering (SSR) and explore its implications for improving or hindering application performance.",
                     "hint": "Consider scenarios where SSR is beneficial and the trade-offs associated with Svelte's SSR implementation.",
@@ -1288,7 +1288,7 @@
                     ]
                 },
                 {
-                    "id": "39a567b89012c012d-345e6789-012a34b56e7890",
+                    "id": "15d9e79c-1bc5-4cb8-a962-ad3c5d81a432",
                     "question": "Investigate the role of directives in Svelte and compare their usage to similar concepts in React and Vue.js.",
                     "description": "Analyze the purpose and functionality of directives in Svelte and contrast their usage with similar concepts in React and Vue.js.",
                     "hint": "Consider how directives are applied to DOM elements in Svelte and their impact on component behavior.",
@@ -1321,7 +1321,7 @@
                     ]
                 },
                 {
-                    "id": "40b6789012c345d-6789012a34b56e7-8901a23b567c890",
+                    "id": "2bfdb0d3-c50a-4b9f-9dbb-1cdce9d234f7",
                     "question": "Examine Svelte's approach to handling animations and transitions within components, comparing it to the animation systems in React and Vue.js.",
                     "description": "Analyze how Svelte facilitates animations and transitions within components and contrast its approach with the animation systems in React and Vue.js.",
                     "hint": "Consider the syntax, features, and ease of use for animations in Svelte, React, and Vue.js.",
@@ -1354,7 +1354,7 @@
                     ]
                 },
                 {
-                    "id": "41c012d345e67890-1a23b56e789c012f-34a567b890c123",
+                    "id": "0ce32ee2-bdb1-44e2-a4df-fc2614a0949c",
                     "question": "Delve into the implementation of Svelte's reactive declarations and explore their role in achieving efficient reactivity within components.",
                     "description": "Analyze the concept of reactive declarations in Svelte and how they contribute to efficient reactivity, particularly in scenarios with complex state management.",
                     "hint": "Consider scenarios where reactive declarations are essential for managing complex state dependencies.",
@@ -1387,7 +1387,7 @@
                     ]
                 },
                 {
-                    "id": "42d012345e67890-1a23b56e789c012f-34a567b890c123",
+                    "id": "6f267d1e-e20f-455e-a0c3-a2d00afdfef3",
                     "question": "Investigate the advanced features and capabilities of SvelteKit, the framework built on top of Svelte, and compare its advantages to standalone Svelte applications.",
                     "description": "Analyze the advanced features and capabilities of SvelteKit, the framework built on top of Svelte, and discuss its advantages over standalone Svelte applications.",
                     "hint": "Consider aspects such as routing, server-side rendering, and other enhancements provided by SvelteKit.",
@@ -1420,7 +1420,7 @@
                     ]
                 },
                 {
-                    "id": "43e56789012a34b56-ef6789012d345-6789a567b890c12",
+                    "id": "ece5c7a3-61c8-4846-9230-6ef65c3ae302",
                     "question": "Examine the role of Svelte's 'svelte:head' element and its impact on managing document head metadata in web applications.",
                     "description": "Analyze the purpose and functionality of the 'svelte:head' element in Svelte components and discuss its significance in managing metadata in the document head of web applications.",
                     "hint": "Consider scenarios where 'svelte:head' is useful for dynamically updating metadata based on component state.",
@@ -1453,7 +1453,7 @@
                     ]
                 },
                 {
-                    "id": "44f012345e67890-1a23b56e789c012f-34a567b890c123",
+                    "id": "278ec49d-8653-47fe-80bc-eaef42969c7e",
                     "question": "Explore the integration of Svelte with state management libraries such as Redux or MobX, and assess the advantages and challenges of combining these technologies.",
                     "description": "Analyze the integration possibilities of Svelte with external state management libraries like Redux or MobX and evaluate the advantages and challenges associated with combining these technologies.",
                     "hint": "Consider scenarios where integrating Svelte with external state management libraries becomes beneficial.",
@@ -1486,7 +1486,7 @@
                     ]
                 },
                 {
-                    "id": "45a567b89012c012d-345e6789-012a34b56e7890",
+                    "id": "2567cb43-404d-48b4-a12f-ad86c2c0b39c",
                     "question": "Evaluate Svelte's compatibility and performance in scenarios where it coexists with other JavaScript frameworks or libraries within the same project.",
                     "description": "Assess Svelte's compatibility and performance when used alongside other JavaScript frameworks or libraries within the same project, and discuss potential challenges and benefits.",
                     "hint": "Consider scenarios where projects may involve a mix of Svelte and other frameworks or libraries, and how seamless integration can be achieved.",
@@ -1519,7 +1519,7 @@
                     ]
                 },
                 {
-                    "id": "46b6789012c345d-6789012a34b56e7-8901a23b567c890",
+                    "id": "cbaee414-aad7-4ff7-b909-769e332039d1",
                     "question": "Investigate the impact of Svelte's compile-time approach on application size and performance, comparing it to runtime-based frameworks like React and Vue.js.",
                     "description": "Analyze the impact of Svelte's compile-time approach on application size and performance and contrast it with the approaches of runtime-based frameworks like React and Vue.js.",
                     "hint": "Consider scenarios where Svelte's compile-time approach provides advantages or disadvantages in terms of size and performance.",
@@ -1552,7 +1552,7 @@
                     ]
                 },
                 {
-                    "id": "47c012d345e67890-1a23b56e789c012f-34a567b890c123",
+                    "id": "65138574-a0c9-41b2-bf51-d009f758c736",
                     "question": "Investigate the impact of Svelte's reactivity system on large-scale applications and assess its scalability compared to other reactive frameworks like React and Vue.js.",
                     "description": "Analyze the impact of Svelte's reactivity system on large-scale applications and evaluate its scalability, contrasting it with the reactivity systems of other frameworks like React and Vue.js.",
                     "hint": "Consider scenarios where Svelte's reactivity system may excel or face challenges in large and complex application architectures.",
@@ -1585,7 +1585,7 @@
                     ]
                 },
                 {
-                    "id": "48d012345e67890-1a23b56e789c012f-34a567b890c123",
+                    "id": "c0836155-557e-444d-93ab-1a5a8553545b",
                     "question": "Examine the role of Svelte's hydration process in rendering and updating components on the client side, and compare it to hydration mechanisms in React and Vue.js.",
                     "description": "Analyze the functionality and significance of Svelte's hydration process in rendering and updating components on the client side, and contrast it with the hydration mechanisms in React and Vue.js.",
                     "hint": "Consider scenarios where the hydration process plays a crucial role in client-side rendering and updating of components.",
@@ -1618,7 +1618,7 @@
                     ]
                 },
                 {
-                    "id": "49a567b89012c012d-345e6789-012a34b56e7890",
+                    "id": "3474115b-f1fe-45ce-8baf-df354276db88",
                     "question": "Investigate the impact of Svelte's handling of global state on application architecture and scalability, comparing it to global state management in React and Vue.js.",
                     "description": "Analyze the impact of Svelte's approach to handling global state on application architecture and scalability, and contrast it with the global state management mechanisms in React and Vue.js.",
                     "hint": "Consider scenarios where the handling of global state becomes crucial for application architecture and scalability.",
@@ -1651,7 +1651,7 @@
                     ]
                 },
                 {
-                    "id": "50b6789012c345d-6789012a34b56e7-8901a23b567c890",
+                    "id": "18e03897-993e-441d-b822-b3ae29351c94",
                     "question": "Analyze the integration of Svelte with serverless architectures, focusing on its advantages and challenges compared to traditional server-side rendering (SSR) approaches.",
                     "description": "Evaluate the integration of Svelte with serverless architectures and discuss the advantages and challenges it presents in comparison to traditional server-side rendering (SSR) approaches.",
                     "hint": "Consider scenarios where the use of serverless architectures can bring benefits or challenges to the integration of Svelte.",
